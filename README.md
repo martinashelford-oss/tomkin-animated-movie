@@ -6,17 +6,22 @@ A **15-minute action-adventure short film**, 90 shots × 10 seconds = 900 second
 
 1. Install Python 3.10+ and FFmpeg (`ffmpeg -version`).
 2. Open this folder in Claude Code (`claude`) and read `CLAUDE.md`.
-3. Review/edit `shots.json`, especially dialogue, pacing and the prompts for shots 11–90.
-4. Generate **90 individual 10-second videos** with your chosen video service. Video generation is **not included** and may require a paid API, service account and manual review. Put files at `assets/video/001.mp4` through `090.mp4`. Aim for 1920×1080, 24fps, no embedded soundtrack.
-5. Optionally provide a licensed/original soundtrack at `assets/audio/music.mp3`, and individual voiceovers as `assets/audio/voice_001.wav`, etc. The assembler does not automatically sync dialogue; add voice to the clip or pre-mix before assembly.
-6. Run `python scripts/validate.py` to check completeness, then `python scripts/assemble.py` to render `output/tomkin_lighthouse_15min.mp4`.
+3. `pip install -r requirements.txt`, then `python scripts/validate.py --plan` and `python scripts/build_prompts.py`. Review `prompts/ALL_PROMPTS.md` (Veo prompts for all 90 shots) and `docs/generated/` (dialogue script, sound-design and music cue sheets, cost estimate).
+4. Free timing test: `python scripts/placeholders.py`, then `python scripts/assemble.py --allow-placeholders --preview`.
+5. Generate **90 individual 10-second videos**. The recommended service is **Google Veo 3.1 via the Gemini API** (see `docs/WORKFLOW.md`). It costs money: `python scripts/generate.py` is a dry run until you add `--confirm-spend --max-usd N`. Clips land at `assets/video/001.mp4` through `090.mp4`; clips from any other tool can be dropped in at the same paths.
+6. `python scripts/review.py` to QC every clip; regenerate or `select_take.py` the flawed ones.
+7. Optionally provide a licensed/original soundtrack at `assets/audio/music.mp3` (or 12 cues `assets/audio/music/M01.wav`…), and voiceovers as `assets/audio/voice_001.wav`, etc. These are mixed in at each shot's first frame, and the music is ducked under dialogue.
+8. Run `python scripts/validate.py` to check completeness, then `python scripts/assemble.py` to render `output/tomkin_lighthouse_15min.mp4`.
 
 ## Contents
 - `CLAUDE.md`: production instructions for Claude Code.
 - `shots.json`: full 90-shot plan and video prompts.
 - `CHARACTERS.md`: visual continuity bible.
-- `scripts/validate.py`: asset and timeline checks.
-- `scripts/assemble.py`: FFmpeg clip normalization and concatenation.
+- `production/`: continuity data, per-shot production detail, music cues, credits, config.
+- `prompts/`: generated Veo prompts (`ALL_PROMPTS.md` plus one JSON per shot).
+- `docs/WORKFLOW.md`: full production workflow, service choice and costs. `docs/MASKED_HERO_REDESIGN.md`: proposed original hero design.
+- `scripts/validate.py`: asset and timeline checks. `scripts/assemble.py`: frame-exact cut, audio mix, export.
+- `scripts/build_prompts.py`, `generate.py`, `refs.py`, `review.py`, `select_take.py`, `placeholders.py`.
 - `assets/video/`: generated shots.
 - `assets/audio/`: optional soundtrack.
 - `output/`: finished movie.

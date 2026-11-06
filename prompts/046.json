@@ -1,0 +1,17 @@
+{
+  "id": "046",
+  "title": "Tomkin’s idea",
+  "timecode": "07:30.00–07:40.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/tomkin.png",
+    "assets/refs/penny.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the lighthouse lantern room: a huge faceted glass lens on a brass rotating lantern mechanism with a rusted gear drive assembly, framed by storm-streaked windows. Time and weather: darkening storm at dusk, cold slate-blue light, rain, lightning on the horizon.\nCharacters (keep exactly on-model): Tomkin, a compact, stout ginger-and-white tabby cat walking upright, wearing a thick ribbed grey wool sock folded over his ears like a baker's toque, a lavender silk boxer-shorts cape fastened at the neck with a brass safety pin, wielding a bent stainless-steel soup ladle like a rapier and carrying a yellow plastic butter tub; expressive, brave and comically self-important; Penny, a fourteen-year-old girl with windblown auburn curls under a patterned headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and gears, and a grease-stained linen rag; clever, practical, young-looking.\nCamera: push-in on Tomkin's bright idea; one continuous shot, no cuts.\nAction: Tomkin's ears shoot up; he holds up the yellow butter tub and taps its rim, then points excitedly between the tub and the slipping gear, miming a spacer.\nNo dialogue.\nSound: plastic tapping, excited chirp.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (Tomkin, Penny), identical costumes and props, the same setting, lighting and weather.\nAction: Penny's face lights up with understanding.\nNo dialogue.\nSound continues: plastic tapping, excited chirp.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M08",
+  "overlay": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "036",
+  "title": "Tomkin distracts",
+  "timecode": "05:50.00–06:00.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/tomkin.png",
+    "assets/refs/scouts.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the narrow curved iron-and-stone catwalk with a rusted iron railing circling the brass lantern room at the top of a weathered cliffside stone lighthouse, high above a rocky ocean and sea spray. Time and weather: darkening storm at dusk, cold slate-blue light, rain, lightning on the horizon.\nCharacters (keep exactly on-model): Tomkin, a compact, stout ginger-and-white tabby cat walking upright, wearing a thick ribbed grey wool sock folded over his ears like a baker's toque, a lavender silk boxer-shorts cape fastened at the neck with a brass safety pin, wielding a bent stainless-steel soup ladle like a rapier and carrying a yellow plastic butter tub; expressive, brave and comically self-important; small gunmetal-grey scout drones the size of seagulls, each with a single crimson optical visor and whirring rotors.\nCamera: medium shot circling Tomkin and a scout; one continuous shot, no cuts.\nAction: Tomkin challenges a scout drone with theatrical fencing moves — en garde, lunge, parry — his ladle ringing off its armour as it buzzes around him in confusion.\nNo dialogue.\nSound: ladle clangs, rotor buzz, swish of cape.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (Tomkin, scout drones), identical costumes and props, the same setting, lighting and weather.\nAction: Tomkin twirls and bows elaborately to the bewildered drone.\nNo dialogue.\nSound continues: ladle clangs, rotor buzz, swish of cape.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M07",
+  "overlay": null
+}

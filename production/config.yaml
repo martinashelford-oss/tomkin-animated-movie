@@ -1,0 +1,42 @@
+project:
+  title: "Tomkin and the Lighthouse Leviathan"
+  shots: 90
+  shot_seconds: 10
+  total_seconds: 900
+
+output:
+  path: output/tomkin_lighthouse_15min.mp4     # deliverable named in CLAUDE.md
+  width: 1920
+  height: 1080
+  fps: 24
+  crf: 19
+  audio_rate: 48000
+  loudness_lufs: -16
+
+assembly:
+  music_duck: {threshold: 0.03, ratio: 8, attack: 20, release: 450}
+  music_fade: 2.0
+  credits_seconds: [1.0, 10.0]     # scroll window inside shot 090
+
+# Google Veo 3.1 through the Gemini API. Check the model IDs at
+# https://ai.google.dev/gemini-api/docs/veo before spending.
+veo:
+  models:
+    standard: veo-3.1-generate-preview
+    fast: veo-3.1-fast-generate-preview
+  base_seconds: 8          # Veo 3.1 base clip
+  extend_seconds: 7        # one extension → 15 s, trimmed to the shot's 10 s
+  resolution: "720p"       # extension requires 720p; assembly upscales to 1080p
+  aspect_ratio: "16:9"
+  max_reference_images: 3
+  poll_seconds: 10
+  # USD per generated second, audio included. Third-party summaries of Google's
+  # October 2026 price list; check https://ai.google.dev/gemini-api/docs/pricing
+  pricing_checked: "2026-10, third-party summaries, unverified"
+  price_per_second: {standard: 0.40, fast: 0.10}
+
+images:
+  model: gemini-2.5-flash-image     # check before spending
+  est_usd_per_image: 0.04
+
+ledger: assets/video/ledger.jsonl

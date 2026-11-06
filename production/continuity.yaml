@@ -1,0 +1,166 @@
+# CONTINUITY DATA FOR PROMPTS. Taken from CHARACTERS.md and ANIMATION_STYLE.md.
+#
+# The `look` strings are pasted word for word into every Veo prompt where the
+# character appears. Editing a word here changes all 90 prompts, so edit with
+# care, then run `python scripts/build_prompts.py`.
+#
+# MASKED HERO: CLAUDE.md asks for "an original, distinct masked hero design".
+# The brief in CHARACTERS.md (red-and-blue suit, black web pattern, white
+# mechanical eye lenses, white lines fired from the wrists) closely matches a
+# protected franchise character. Video services may refuse it, and it can't be
+# released publicly. The prompts below use an ORIGINAL design that keeps the
+# role and every story beat: masked acrobat, lines fired from the wrists, a
+# rescue line (shot 068), a net that seals a door (024) and a canopy that
+# catches debris (076). It is pending the owner's approval; see
+# docs/MASKED_HERO_REDESIGN.md.
+
+style: >-
+  Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous
+  motion, expressive character animation and acting, believable fur and cloth
+  simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and
+  sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps
+
+negative_prompt: >-
+  text, captions, subtitles, watermark, logo, extra limbs, duplicated characters,
+  sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image,
+  slideshow, freeze frame, live action humans, 2D flat animation, anime, background music
+
+audio_rule: >-
+  Audio: realistic sound effects and ambience only; spoken dialogue only as written above;
+  no background music; no narrator.
+
+# ── Characters ─────────────────────────────────────────────────────────────
+characters:
+  tomkin:
+    name: Tomkin
+    look: >-
+      Tomkin, a compact, stout ginger-and-white tabby cat walking upright, wearing a
+      thick ribbed grey wool sock folded over his ears like a baker's toque, a lavender
+      silk boxer-shorts cape fastened at the neck with a brass safety pin, wielding a
+      bent stainless-steel soup ladle like a rapier and carrying a yellow plastic butter
+      tub; expressive, brave and comically self-important
+    voice: >-
+      pompous, theatrical, swashbuckling-captain male voice, a little squeaky,
+      grandly overconfident
+  penny:
+    name: Penny
+    look: >-
+      Penny, a fourteen-year-old girl with windblown auburn curls under a patterned
+      headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and
+      gears, and a grease-stained linen rag; clever, practical, young-looking
+    voice: >-
+      calm, practical, quick-witted teenage girl's voice, dryly amused
+  hero:
+    name: the masked hero
+    original_brief: >-
+      (CHARACTERS.md) athletic acrobat, rain-soaked red-and-blue textured suit, black
+      web-pattern detailing, expressive white mechanical eye lenses, white synthetic
+      lines from wrist mechanisms. NOT USED IN PROMPTS (see header).
+    look: >-
+      the masked hero, a lean athletic acrobat in a rain-soaked, storm-grey and
+      signal-orange weatherproof bodysuit with reflective silver safety-tape chevrons
+      across the chest and limbs, a smooth brass-rimmed diving-style mask-helmet with
+      two round amber lantern-glass eye lenses that narrow and widen expressively, a
+      climbing harness, and brass winch gauntlets on both wrists that fire braided
+      orange grapple cables tipped with small folding hooks
+    voice: >-
+      friendly, quick, quippy young man's voice, slightly muffled by the mask
+  drone:
+    name: the armoured drone
+    look: >-
+      a gunmetal-grey armoured aerial sentinel drone with a crimson optical visor,
+      exposed sparking circuitry and venting steam
+    voice: no voice; mechanical whirs only
+  scouts:
+    name: scout drones
+    look: >-
+      small gunmetal-grey scout drones the size of seagulls, each with a single crimson
+      optical visor and whirring rotors
+    voice: no voice
+  swarm:
+    name: maintenance drones
+    look: >-
+      a swarm of tiny brass-and-gunmetal maintenance drones with spindly legs and
+      single crimson eye-lights, scuttling and hovering
+    voice: no voice
+  leviathan:
+    name: the Leviathan
+    look: >-
+      an enormous barnacled mechanical crab walker with glowing green conduits, iron
+      claws, hissing hydraulic pistons and seaweed hanging from its armoured shell
+    voice: no voice; groaning metal and hydraulics
+  leviathan2:
+    name: the second Leviathan
+    look: >-
+      a second barnacled mechanical crab walker, visibly much larger than the first,
+      with heavier armour plates, brighter green conduits, huge iron claws and hissing
+      hydraulic pistons
+    voice: no voice; deep groaning metal
+  boat:
+    name: the fishing boat
+    look: >-
+      a small battered red-and-white fishing boat with a lit wheelhouse, tossing on the waves
+    voice: >-
+      crackly, weather-beaten middle-aged fisherman's voice heard over radio static
+
+# ── Locations (lighthouse geometry stays fixed) ─────────────────────────────
+locations:
+  catwalk: >-
+    the narrow curved iron-and-stone catwalk with a rusted iron railing circling the
+    brass lantern room at the top of a weathered cliffside stone lighthouse, high above
+    a rocky ocean and sea spray
+  lantern_room: >-
+    the lighthouse lantern room: a huge faceted glass lens on a brass rotating lantern
+    mechanism with a rusted gear drive assembly, framed by storm-streaked windows
+  keeper_room: >-
+    the lighthouse keeper's room: curved stone walls, an old radio set, a desk with a
+    corroded brass chart case, oil lamps and nautical charts
+  spiral_stair: >-
+    the lighthouse's tight winding stone spiral staircase with an iron handrail,
+    descending into darkness
+  lower_landing: >-
+    the dusty lower landing at the base of the lighthouse stairs, stone floor, old
+    crates, an iron hatch in the floor
+  tunnel: >-
+    a flooded stone-and-iron maintenance tunnel beneath the lighthouse, knee-deep
+    seawater, dripping pipes, rusted conduits
+  signal_room: >-
+    a hidden underground chamber full of antique valve radios tangled with new,
+    blinking modern circuitry and green indicator lights
+  power_room: >-
+    the old generator room in the base of the lighthouse: a riveted iron backup
+    generator, a switchboard of brass levers and gauges, cables and an iron gate
+  tower_exterior: >-
+    the outside wall of the weathered stone lighthouse tower on its cliff, with iron
+    rungs, ledges and wet masonry, waves exploding on the rocks far below
+  bridge: >-
+    a narrow, half-shattered iron footbridge spanning a gap between the lighthouse and
+    a cliff-side outbuilding, high above the churning rocks
+  sea: >-
+    the rocky ocean below the lighthouse cliff, huge waves, reefs and sea spray, the
+    lighthouse standing on the cliff above
+  boat_sea: >-
+    open sea beyond the reef, the distant lighthouse on its cliff on the horizon
+
+# ── Time of day / weather (continuity across the film) ──────────────────────
+times:
+  night_storm: >-
+    night, violent storm, slate-blue and grey palette, driving rain, lightning flashes
+  sunrise: >-
+    brief golden sunrise breaking through the storm clouds, warm amber light, wet
+    glistening surfaces
+  storm_day: >-
+    stormy overcast day returning, cold slate-blue and grey palette, gusting wind and
+    rain, an eerie emerald glow from the sea
+  dusk_storm: >-
+    darkening storm at dusk, cold slate-blue light, rain, lightning on the horizon
+  interior_dark: >-
+    dim interior lit by handheld lamps and emerald glows, cold blue shadows
+  night_peril: >-
+    night, renewed storm, slate-blue darkness pierced by crimson drone optics and
+    emerald threat light
+  predawn: >-
+    the storm breaking before dawn, first pale morning light behind towering clouds,
+    sea mist, emerald threat light
+  golden: >-
+    clear golden morning, warm amber sunlight, calm sparkling ocean, gentle breeze

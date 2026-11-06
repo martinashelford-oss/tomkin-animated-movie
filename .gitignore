@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+output/
+# generated footage, takes, QC sheets and audio deliverables stay out of git
+assets/video/*
+!assets/video/.gitkeep
+assets/audio/*
+!assets/audio/.gitkeep
+!assets/audio/music/
+assets/audio/music/*
+!assets/audio/music/.gitkeep

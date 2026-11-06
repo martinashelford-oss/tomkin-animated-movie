@@ -1,0 +1,1117 @@
+# PER-SHOT PRODUCTION DETAIL. Extends shots.json, which remains the source of truth
+# for ids, order, timing, titles, actions and dialogue.
+#
+#   who     characters in frame (keys in continuity.yaml), for continuity text and reference images
+#   at      location key        time   time-of-day/weather key
+#   cam     one continuous camera move (no cuts inside a clip)
+#   base    what happens in the clip's first 8 s (Veo base generation)
+#   ext     how the motion continues in the extension (seconds 8–10 are kept, the rest trimmed)
+#   sfx     specific sound design for this shot
+#   say     optional delivery notes, one per shots.json dialogue line
+#   overlay text burned in at assembly (video models cannot draw legible text)
+#
+# Shots 001–010 keep the plot and visual beats of the original ten clips.
+
+shots:
+  "001":
+    who: [tomkin, penny]
+    at: catwalk
+    time: night_storm
+    cam: continuous medium tracking shot moving backward along the curved catwalk ahead of the pair
+    base: >-
+      Tomkin marches boldly along the storm-lashed catwalk, ladle raised like a rapier, cape
+      snapping in the gale, butter tub tucked under one arm; Penny follows in the wind, one hand
+      on the railing, rag fluttering, rain streaming off the iron.
+    ext: Tomkin points the ladle out to sea as lightning flashes behind them.
+    sfx: howling gale, driving rain on iron, metallic creaks, footsteps on wet grating, thunder
+    say: [grand and defiant, shouted over the wind, "dry, half-shouting over the storm"]
+
+  "002":
+    who: [tomkin, penny, drone]
+    at: catwalk
+    time: night_storm
+    cam: whip-pan from the dark ocean to the impact point on the catwalk
+    base: >-
+      A gunmetal armoured drone with a crimson visor plummets out of the storm and crashes onto
+      the wet iron catwalk in a shower of sparks and steam. Tomkin drops into a crouch with ladle
+      and butter tub raised; Penny draws a heavy steel pipe wrench from her apron.
+    ext: The drone's crimson visor flickers on and it begins to rise, steam hissing.
+    sfx: screaming descent, heavy metal impact, sparks, steam hiss, rain
+    say: [deadpan, eyes fixed on the drone]
+
+  "003":
+    who: [hero, drone, tomkin, penny]
+    at: catwalk
+    time: night_storm
+    cam: low-angle tilt following the hero's swing down from the spire
+    base: >-
+      The masked hero swings down from the lighthouse spire on a braided orange grapple cable,
+      kicks the rising drone back across the catwalk and lands in a three-point crouch, then
+      looks back over a shoulder in surprise at Penny and Tomkin.
+    ext: The hero straightens up, amber lenses widening, and gives a small casual wave.
+    sfx: cable zip, whoosh, heavy kick impact, metal clang, landing thud, rain
+    say: [casual, a little breathless, quippy]
+
+  "004":
+    who: [hero, penny, tomkin, drone]
+    at: catwalk
+    time: night_storm
+    cam: stylised slow-motion orbit around the trio and the drone
+    base: >-
+      In stylised slow motion the masked hero braces against the railing and pins the drone's
+      limbs with two taut orange grapple cables; Penny pries up its shoulder armour with her
+      wrench; Tomkin leaps and touches an exposed blue node with his bent ladle. Raindrops hang in
+      the air around blue sparks.
+    ext: The drone shudders and its crimson visor dims as the slow motion eases back to real time.
+    sfx: slowed-down rain, straining cables, metal prying, crackling blue sparks
+    say: []
+
+  "005":
+    who: [tomkin, penny, hero, drone]
+    at: catwalk
+    time: night_storm
+    cam: push-in from medium to close-up on the butter tub
+    base: >-
+      The drone's sparking core pops loose and skitters across the grating; Tomkin slams the
+      yellow butter tub down over it, trapping it. The tub rattles and fizzes, then goes still.
+      Penny and the hero exchange an amazed look.
+    ext: Tomkin sits proudly on top of the tub, arms folded, cape fluttering.
+    sfx: skittering metal, plastic thunk, muffled fizzing, rain easing
+    say: [amazed and amused]
+
+  "006":
+    who: [tomkin, penny, hero]
+    at: catwalk
+    time: sunrise
+    cam: slow crane up and around the trio to reveal the sunrise over the sea
+    base: >-
+      The storm parts and a brief golden dawn breaks over the ocean. Penny tightens a bolt on the
+      railing with her wrench, the hero coils a grapple cable, and Tomkin polishes his ladle on his
+      cape, all three bathed in warm amber light.
+    ext: The three pause and gaze out at the sunrise together.
+    sfx: gentle wind, distant gulls, dripping water, wrench ratchet
+    say: []
+
+  "007":
+    who: [penny, tomkin, hero]
+    at: sea
+    time: storm_day
+    cam: over-the-shoulder from the catwalk, then tilting down the cliff to the sea
+    base: >-
+      Clouds swallow the sun again. Penny leans over the railing and points down; far below,
+      emerald light boils and churns beneath the waves at the foot of the cliff as Tomkin and the
+      hero crowd in beside her.
+    ext: The emerald glow pulses brighter, lighting the undersides of the waves.
+    sfx: deep underwater rumble, rising wind, waves on rocks
+    say: [quiet and uneasy]
+
+  "008":
+    who: [leviathan]
+    at: tower_exterior
+    time: storm_day
+    cam: low-angle from the rocks looking up as the walker climbs
+    base: >-
+      An enormous barnacled mechanical crab walker heaves itself out of the surf and climbs the
+      cliff toward the lighthouse, iron claws biting into the rock, green conduits glowing,
+      pistons hissing, seawater cascading off its shell.
+    ext: Its huge claw slams onto the base of the lighthouse wall.
+    sfx: crashing surf, grinding metal, hydraulic hiss, rock cracking, deep mechanical groan
+    say: []
+
+  "009":
+    who: [penny, hero, leviathan]
+    at: catwalk
+    time: storm_day
+    cam: dynamic handheld-style move between Penny's hands and the hero's fight
+    base: >-
+      Penny clamps a cable to the iron railing and runs it to a lightning rod, rigging a grounding
+      circuit with fast, practised hands, while the masked hero swings out on a grapple cable and
+      kicks aside a giant iron claw that sweeps over the catwalk.
+    ext: Penny gives a thumbs-up as the claw swings back for another strike.
+    sfx: cable clamps, wrench clicks, whoosh of a giant claw, metal clang, wind
+    say: []
+
+  "010":
+    who: [tomkin, hero, penny, leviathan]
+    at: catwalk
+    time: storm_day
+    cam: slow-motion climax tracking the butter tub through the air
+    base: >-
+      Slow-motion climax: the hero anchors the walker's limbs with orange grapple cables; Tomkin
+      swings his ladle and bats the yellow butter tub into the walker's exposed green reactor; a
+      harmless burst of static and vapour, the walker loses power and slides down into the sea.
+      Penny cheers at the doorway.
+    ext: Tomkin strikes a heroic pose with his ladle raised high.
+    sfx: slowed whoosh, plastic thunk, electrical burst, sliding metal, huge splash
+    say: [triumphant, at the top of his voice]
+
+  "011":
+    who: [leviathan]
+    at: sea
+    time: storm_day
+    cam: aerial descent toward the churning water where the walker sank
+    base: >-
+      The defeated walker sinks beneath the grey waves in a swirl of bubbles and foam; for a
+      moment the water calms, then deep below, an emerald beacon begins to pulse steadily.
+    ext: The pulse quickens, sending green ripples through the water.
+    sfx: bubbling, sinking groan, then a low rhythmic underwater pulse
+    say: []
+
+  "012":
+    who: [penny, tomkin]
+    at: catwalk
+    time: storm_day
+    cam: close two-shot pushing in on the butter tub
+    base: >-
+      Penny kneels and lifts the butter tub off the captured drone core; it blinks a faint crimson
+      light in a regular repeating rhythm. She holds a small brass listening device to it while
+      Tomkin leans in, whiskers twitching.
+    ext: Penny frowns and looks out to sea, matching the rhythm of the pulse below.
+    sfx: rhythmic electronic beeping, wind, rain
+    say: []
+
+  "013":
+    who: [penny, tomkin, hero]
+    at: lantern_room
+    time: storm_day
+    cam: slow pan across the great lens as it fails
+    base: >-
+      Inside the lantern room the great lens flickers, stutters and goes dark; the brass mechanism
+      grinds to a halt. Penny, Tomkin and the hero turn to stare at it in the sudden gloom.
+    ext: A last spark fizzles in the dead lamp.
+    sfx: electrical flicker, grinding gears winding down, sudden silence, wind outside
+    say: []
+
+  "014":
+    who: [penny, boat]
+    at: keeper_room
+    time: storm_day
+    cam: push-in on the crackling radio set with Penny rushing in
+    base: >-
+      The old radio set in the keeper's room crackles to life with a distress call; Penny rushes
+      in and grabs the handset. Through the rain-streaked window a tiny fishing boat tosses on the
+      waves far beyond the reef.
+    ext: Penny presses the handset to her ear, listening intently.
+    sfx: radio static, garbled distress call, rain on glass, waves
+    say: []
+
+  "015":
+    who: [penny, tomkin, hero]
+    at: keeper_room
+    time: storm_day
+    cam: medium shot, Penny at the chart desk with the window behind
+    base: >-
+      Penny lays a nautical chart on the desk, measures the boat's drift toward the reef with a
+      brass divider, then looks up at the others with determination.
+    ext: Tomkin and the hero nod gravely.
+    sfx: chart rustling, divider clicks, distant thunder
+    say: [urgent, determined]
+
+  "016":
+    who: [tomkin, penny, hero]
+    at: keeper_room
+    time: storm_day
+    cam: low angle making Tomkin look grand
+    base: >-
+      Tomkin leaps onto the desk, plants the butter tub beside him, throws back his lavender cape
+      and raises the bent ladle high, declaring an emergency rescue operation with enormous
+      self-importance. Penny rolls her eyes; the hero gives a mock salute.
+    ext: Tomkin points the ladle dramatically at the door.
+    sfx: cape swish, ladle ring, thunder
+    say: []
+
+  "017":
+    who: [penny, tomkin]
+    at: keeper_room
+    time: storm_day
+    cam: close-up on Penny's hands and the chart case
+    base: >-
+      Penny pries open a corroded brass chart case with her pliers; inside is an old blueprint of
+      the lighthouse showing hidden lower levels. Tomkin peers over her shoulder.
+    ext: Penny traces a finger along a stairway marked on the plan.
+    sfx: corroded hinge creak, paper unrolling
+    say: []
+
+  "018":
+    who: [hero, penny, tomkin]
+    at: spiral_stair
+    time: interior_dark
+    cam: overhead looking straight down the spiral as they descend
+    base: >-
+      The trio descend the winding spiral stair: the hero leads with a handheld lamp, Penny
+      follows with her wrench, Tomkin brings up the rear, butter tub clutched to his chest.
+    ext: Their lamplight shrinks into the darkness below.
+    sfx: echoing footsteps on stone, dripping water, wind moaning in the stairwell
+    say: []
+
+  "019":
+    who: [penny, hero, tomkin]
+    at: lower_landing
+    time: interior_dark
+    cam: low ground-level shot along the dusty floor
+    base: >-
+      On the dusty lower landing the lamp reveals huge mechanical claw marks gouged into the stone
+      floor. Penny crouches to touch them; the hero raises the lamp; Tomkin's tail puffs up.
+    ext: The claw marks lead toward an iron hatch in the floor.
+    sfx: lamp hiss, dust settling, distant metallic creak
+    say: []
+
+  "020":
+    who: [hero, penny, tomkin]
+    at: lower_landing
+    time: interior_dark
+    cam: overhead looking down into the hatch
+    base: >-
+      The hero hauls open the heavy iron hatch; below, dark seawater fills a flooded maintenance
+      tunnel. Penny shines her lamp down; Tomkin leans over the edge and recoils at the water.
+    ext: Ripples move across the black water below.
+    sfx: heavy iron hatch groaning open, echoing drips, lapping water
+    say: []
+
+  "021":
+    who: [hero, penny, tomkin]
+    at: tunnel
+    time: interior_dark
+    cam: tracking backward ahead of the trio wading
+    base: >-
+      The masked hero leads them through knee-deep water in the tunnel, lamp held high; Penny
+      wades behind; Tomkin rides inside the butter tub floating along like a little boat, paddling
+      with his ladle.
+    ext: Tomkin's tub bumps gently against the hero's leg.
+    sfx: wading splashes, echoing drips, ladle paddling
+    say: []
+
+  "022":
+    who: [tomkin, penny, hero]
+    at: tunnel
+    time: interior_dark
+    cam: slow push-in on Tomkin, the dark tunnel beyond
+    base: >-
+      Tomkin taps his ladle against an iron pipe — tink, tink; after a pause, a distant mechanical
+      tapping answers from deep in the darkness. All three freeze and stare down the tunnel.
+    ext: Tomkin's ears flatten under his sock toque.
+    sfx: two ladle taps on iron, silence, a distant answering mechanical tapping
+    say: []
+
+  "023":
+    who: [swarm, hero, penny, tomkin]
+    at: tunnel
+    time: interior_dark
+    cam: upward tilt to the ceiling as the swarm emerges
+    base: >-
+      Dozens of tiny brass maintenance drones with crimson eye-lights scuttle out of the tunnel
+      ceiling and drop down around the trio, skittering across pipes and hovering.
+    ext: The swarm closes in; the hero steps in front of Penny.
+    sfx: chittering mechanical legs, buzzing rotors, splashes
+    say: []
+
+  "024":
+    who: [hero, penny, swarm]
+    at: tunnel
+    time: interior_dark
+    cam: medium shot at a heavy bulkhead door
+    base: >-
+      The masked hero fires a spray of orange grapple cables that knot into a net across a doorway,
+      holding back the swarm, while Penny rips open a lock panel and reroutes the wires with her
+      pliers. The door begins to slide shut behind them.
+    ext: The door clangs shut, leaving the swarm buzzing on the other side.
+    sfx: cable launches, net thwump, sparking wires, buzzing swarm, heavy door clang
+    say: []
+
+  "025":
+    who: [tomkin, penny, hero]
+    at: tunnel
+    time: interior_dark
+    cam: close-up following a falling gear
+    base: >-
+      A loose brass gear tumbles from the ceiling toward a big red switch on the wall; Tomkin dives
+      and catches it in the butter tub at the last instant, inches from the switch.
+    ext: Tomkin holds up the tub triumphantly; Penny exhales in relief.
+    sfx: gear clanking, whoosh, plastic thunk, relieved sigh
+    say: []
+
+  "026":
+    who: [penny, hero, tomkin]
+    at: signal_room
+    time: interior_dark
+    cam: slow reveal dolly into the chamber
+    base: >-
+      The trio step into a hidden chamber filled with antique valve radios tangled with new,
+      blinking modern circuitry; green lights pulse along the cables in the same rhythm as the
+      beacon under the sea.
+    ext: Penny steps forward, eyes wide, lamp raised.
+    sfx: humming valves, rhythmic electronic pulse, static
+    say: []
+
+  "027":
+    who: [penny, hero]
+    at: signal_room
+    time: interior_dark
+    cam: over Penny's shoulder onto a wall schematic
+    base: >-
+      Penny pulls a dusty sheet off the wall, revealing a hand-drawn schematic of drones, the
+      lighthouse lantern and the sea, all wired together; she traces the lines with her finger as
+      the hero leans in.
+    ext: Penny taps the drawing of the lantern and looks at the hero.
+    sfx: sheet swish, humming circuitry
+    say: []
+
+  "028":
+    who: [penny, tomkin, hero]
+    at: signal_room
+    time: interior_dark
+    cam: close-up on a ticker-tape printer, then Penny's face
+    base: >-
+      An old ticker-tape printer chatters and feeds out a strip of yellowed paper; Penny tears it
+      off and holds it up to the lamp. The paper is blank to the camera except for a faint row of
+      dots. Tomkin's eyes go wide.
+    ext: Penny lowers the strip slowly, worried.
+    sfx: chattering ticker printer, paper tear
+    overlay: {text: "KEEP THE LIGHT DARK", start: 4.5, end: 9.5, style: note}
+
+  "029":
+    who: [penny, tomkin, hero]
+    at: signal_room
+    time: interior_dark
+    cam: slow push-in on a reel-to-reel recorder
+    base: >-
+      Penny flips a switch on an old reel-to-reel recorder; the reels turn and a ghostly crackling
+      recording of an old lighthouse keeper's voice fills the room as the trio listen, lit by the
+      green glow.
+    ext: The hero and Tomkin exchange an uneasy glance.
+    sfx: reel-to-reel spinning, crackly old recording of a muffled warning voice (unintelligible), hum
+    say: []
+
+  "030":
+    who: [penny, tomkin, hero]
+    at: signal_room
+    time: interior_dark
+    cam: medium three-shot, Penny turning to the others
+    base: >-
+      Penny switches off the recorder, turns to Tomkin and the hero with fierce resolve, and
+      clenches her wrench. Tomkin straightens his sock toque; the hero nods.
+    ext: The three turn together toward the tunnel exit.
+    sfx: switch click, hum fading
+    say: [fierce, determined]
+
+  "031":
+    who: [hero, penny, tomkin]
+    at: spiral_stair
+    time: dusk_storm
+    cam: low angle looking up the stair as they climb to a door bursting open
+    base: >-
+      The trio race back up the spiral stair and shoulder open the door onto the catwalk; wind and
+      rain blast in, Tomkin's cape whipping straight out behind him.
+    ext: They step out onto the catwalk into the storm.
+    sfx: running footsteps, door bang, howling wind and rain
+    say: []
+
+  "032":
+    who: [boat]
+    at: boat_sea
+    time: dusk_storm
+    cam: long-lens shot over the waves to the horizon
+    base: >-
+      Beyond the reef a small battered fishing boat climbs and plunges over huge grey waves, its
+      wheelhouse light a tiny glow in the dusk, drifting toward the rocks.
+    ext: A wave breaks over its bow.
+    sfx: crashing waves, groaning hull, wind
+    say: []
+
+  "033":
+    who: [scouts, penny, tomkin, hero]
+    at: catwalk
+    time: dusk_storm
+    cam: wide shot from the railing looking out to sea
+    base: >-
+      Three seagull-sized scout drones burst up out of the sea, shedding water, crimson visors
+      locking onto the lighthouse as they rise in formation toward the catwalk where the trio stand.
+    ext: The scouts split up to attack from three directions.
+    sfx: water bursting, whirring rotors, rising electronic whine
+    say: []
+
+  "034":
+    who: [hero, scouts]
+    at: catwalk
+    time: dusk_storm
+    cam: dynamic tracking shot following the hero's vault
+    base: >-
+      The masked hero sprints along the catwalk, vaults off the railing and launches through the
+      rain toward the nearest scout drone, firing a grapple cable that wraps its rotor arm.
+    ext: The hero swings beneath the drone, spinning with it.
+    sfx: running steps, cable zip, rotor stutter, wind
+    say: []
+
+  "035":
+    who: [penny]
+    at: catwalk
+    time: dusk_storm
+    cam: close on Penny's hands at work, then her determined face
+    base: >-
+      Penny snatches a polished steel panel from a salvage pile, bends it into a curved reflector
+      with her wrench and lashes a handle to it with wire, working fast in the rain.
+    ext: She raises the shining reflector like a shield.
+    sfx: metal bending, wrench clanks, wire twisting, rain
+    say: []
+
+  "036":
+    who: [tomkin, scouts]
+    at: catwalk
+    time: dusk_storm
+    cam: medium shot circling Tomkin and a scout
+    base: >-
+      Tomkin challenges a scout drone with theatrical fencing moves — en garde, lunge, parry — his
+      ladle ringing off its armour as it buzzes around him in confusion.
+    ext: Tomkin twirls and bows elaborately to the bewildered drone.
+    sfx: ladle clangs, rotor buzz, swish of cape
+    say: []
+
+  "037":
+    who: [hero, scouts]
+    at: catwalk
+    time: dusk_storm
+    cam: wide shot tracking a redirected drone
+    base: >-
+      The hero yanks a grapple cable and swings the tangled scout drone off course into a hanging
+      fishing net strung beneath the catwalk, where it bounces harmlessly and gets stuck.
+    ext: The netted drone's rotors sputter and stop.
+    sfx: cable tension, whoosh, net thwump, rotor sputter
+    say: []
+
+  "038":
+    who: [penny, scouts]
+    at: catwalk
+    time: dusk_storm
+    cam: over Penny's shoulder at the incoming drone
+    base: >-
+      A second scout dives at Penny; she angles her reflector and bounces a flash of lightning into
+      its crimson sensor; the drone wobbles, blinded, and spirals harmlessly into the railing.
+    ext: Penny lowers the reflector with a satisfied smirk.
+    sfx: lightning crack, flash zap, wobbling rotor, clang
+    say: []
+
+  "039":
+    who: [tomkin]
+    at: tower_exterior
+    time: dusk_storm
+    cam: side tracking shot along the tower wall, sheer drop below
+    base: >-
+      Tomkin scrambles across a narrow ledge of wet masonry on the outside of the tower, hugging
+      the butter tub, claws scrabbling for grip, cape flapping, waves exploding on the rocks far below.
+    ext: He reaches the next rung and clings to it, panting.
+    sfx: scrabbling claws on stone, crumbling grit, wind, distant surf
+    say: []
+
+  "040":
+    who: [tomkin, scouts]
+    at: catwalk
+    time: dusk_storm
+    cam: low angle on Tomkin leaping at the final scout
+    base: >-
+      Tomkin leaps from the ledge back onto the catwalk and whacks the final scout's glowing power
+      latch with his ladle; the latch flips open, the drone powers down and drops onto the grating.
+    ext: Tomkin lands on top of it and blows on his ladle like a smoking pistol.
+    sfx: ladle whack, latch click, power-down whine, metal clatter
+    say: []
+
+  "041":
+    who: [penny, tomkin, hero, boat]
+    at: catwalk
+    time: dusk_storm
+    cam: slow push-in on the three regrouping, the boat visible far behind them
+    base: >-
+      The three regroup at the railing, catching their breath in the rain; behind them the fishing
+      boat drifts closer to the jagged reef. Penny points urgently at the dark lantern above.
+    ext: They hurry toward the lantern room door.
+    sfx: heavy breathing, rain, distant waves on the reef
+    say: []
+
+  "042":
+    who: [penny, tomkin]
+    at: lantern_room
+    time: dusk_storm
+    cam: close-up on the rusted drive assembly
+    base: >-
+      Penny unbolts and swings open the rusted cover of the lantern drive assembly, revealing a
+      tangle of brass gears and shafts; Tomkin holds the lamp for her.
+    ext: Penny peers inside, frowning.
+    sfx: bolts unscrewing, hinge creak, wind against the windows
+    say: []
+
+  "043":
+    who: [penny, tomkin]
+    at: lantern_room
+    time: dusk_storm
+    cam: insert on the empty gear shaft, then Penny's reaction
+    base: >-
+      Inside the drive assembly there is an empty shaft where the key brass drive gear should be,
+      with fresh claw scratches around it. Penny runs her fingers over the bare shaft.
+    ext: Penny and Tomkin look at each other in dismay.
+    sfx: hollow metal tap, wind
+    say: []
+
+  "044":
+    who: [penny, hero]
+    at: lantern_room
+    time: dusk_storm
+    cam: close two-shot at the workbench
+    base: >-
+      Penny turns the salvaged drone core over in her hands and pulls out a gunmetal drone gear,
+      comparing it against the empty shaft; the hero holds the lamp closer.
+    ext: Penny measures the gear teeth with her thumb, thinking.
+    sfx: metal scraping, clicks, rain on glass
+    say: []
+
+  "045":
+    who: [penny, tomkin]
+    at: lantern_room
+    time: dusk_storm
+    cam: insert on the gear in motion
+    base: >-
+      Penny fits the drone gear onto the shaft and cranks the handle; the lantern judders a few
+      degrees, then the gear slips and spins uselessly with a grinding screech.
+    ext: Penny slaps the housing in frustration.
+    sfx: cranking, grinding screech, slipping gear clatter
+    say: []
+
+  "046":
+    who: [tomkin, penny]
+    at: lantern_room
+    time: dusk_storm
+    cam: push-in on Tomkin's bright idea
+    base: >-
+      Tomkin's ears shoot up; he holds up the yellow butter tub and taps its rim, then points
+      excitedly between the tub and the slipping gear, miming a spacer.
+    ext: Penny's face lights up with understanding.
+    sfx: plastic tapping, excited chirp
+    say: []
+
+  "047":
+    who: [penny, tomkin]
+    at: lantern_room
+    time: dusk_storm
+    cam: close-up on Penny's hands cutting
+    base: >-
+      Penny snips a curved strip from the butter-tub lid with her shears and wraps it around the
+      shaft as a shim, then pushes the drone gear on snugly. Tomkin watches, holding his breath.
+    ext: Penny tightens the nut with her wrench.
+    sfx: plastic snipping, wrench ratchet
+    say: []
+
+  "048":
+    who: [penny, tomkin, hero]
+    at: lantern_room
+    time: dusk_storm
+    cam: low angle on the turning lens
+    base: >-
+      Penny cranks the handle and the great lens rotates one full turn, flaring with light —
+      Tomkin cheers — then the light browns out as a generator below coughs and fails.
+    ext: The lens creaks to a stop in the dark.
+    sfx: gears turning, rising hum, distant generator cough, power dying
+    say: []
+
+  "049":
+    who: [penny, tomkin, hero]
+    at: lantern_room
+    time: night_peril
+    cam: wide shot as the tower shakes
+    base: >-
+      The whole tower shudders violently; dust falls from the ceiling, every light in the lantern
+      room goes out and the three steady themselves in the darkness lit only by lightning.
+    ext: A distant deep mechanical groan echoes from below.
+    sfx: deep rumble, rattling glass, power-down thunk, thunder
+    say: []
+
+  "050":
+    who: [penny, tomkin, hero]
+    at: spiral_stair
+    time: night_peril
+    cam: tracking down the stairs behind Penny
+    base: >-
+      The trio hurry down the spiral stair by lamplight toward the generator room; Penny calls back
+      over her shoulder with the plan as they run.
+    ext: They reach the bottom of the stairs.
+    sfx: hurried footsteps, echoing stairwell, rumbling
+    say: [urgent, thinking aloud]
+
+  "051":
+    who: [penny, tomkin, hero]
+    at: spiral_stair
+    time: night_peril
+    cam: high angle looking down at rising water
+    base: >-
+      Seawater surges in through the bottom of the tower and swirls up the lowest steps; the three
+      skid to a halt, then splash down into the knee-deep flood and push on.
+    ext: Tomkin climbs onto the hero's shoulder to stay dry.
+    sfx: rushing water, splashes, groaning stone
+    say: []
+
+  "052":
+    who: [penny, tomkin, hero]
+    at: power_room
+    time: night_peril
+    cam: medium shot at the iron door as it slams
+    base: >-
+      As they push through to the generator room, a heavy iron door swings shut and jams, cutting
+      Penny off on one side while Tomkin and the hero are on the other, peering through the bars.
+    ext: Penny rattles the door; it won't budge.
+    sfx: iron door slam, jammed latch rattle, water sloshing
+    say: []
+
+  "053":
+    who: [penny]
+    at: power_room
+    time: night_peril
+    cam: close-up on Penny working the latch
+    base: >-
+      Alone on her side, Penny fits her wrench to the seized door latch, braces a boot against the
+      wall and heaves until the rusted bolt shrieks and turns.
+    ext: The latch gives with a clunk.
+    sfx: straining wrench, rusty shriek, clunk
+    say: []
+
+  "054":
+    who: [tomkin]
+    at: power_room
+    time: night_peril
+    cam: low angle on Tomkin and a sliding gate
+    base: >-
+      A second iron gate begins grinding shut; Tomkin jams his bent ladle into the gap and holds it
+      with all his might, paws braced, the ladle bending further as the gate pushes.
+    ext: Tomkin grits his teeth, whiskers trembling.
+    sfx: grinding gate, creaking ladle, straining grunt
+    say: []
+
+  "055":
+    who: [hero, tomkin, penny]
+    at: power_room
+    time: night_peril
+    cam: medium shot as the hero braces the gate
+    base: >-
+      The masked hero grabs the gate and braces it open with both arms; Penny slips through and the
+      hero pulls Tomkin and his ladle clear just before the gate slams shut.
+    ext: The three collapse against the wall, safe together.
+    sfx: straining metal, gate slam, splashes, relieved breathing
+    say: []
+
+  "056":
+    who: [penny, hero, tomkin]
+    at: power_room
+    time: night_peril
+    cam: low angle along the floor to a glowing conduit
+    base: >-
+      Penny pulls up a floor grate beneath the backup generator, revealing a thick green power
+      conduit glowing and pulsing, running away under the floor toward the sea.
+    ext: The three exchange alarmed looks in the green light.
+    sfx: grate scraping, pulsing electrical hum
+    say: []
+
+  "057":
+    who: [leviathan2]
+    at: sea
+    time: night_peril
+    cam: wide shot of the surf from the cliff, lightning revealing the shape
+    base: >-
+      Under the surf at the foot of the cliff a second walker, much larger than the first, stirs;
+      its huge shell breaks the surface and green conduits flare along its armour in a flash of lightning.
+    ext: A colossal claw rises from the waves.
+    sfx: deep mechanical groan, surging water, thunder
+    say: []
+
+  "058":
+    who: [leviathan2, penny]
+    at: power_room
+    time: night_peril
+    cam: tracking along the conduit to the generator gauges
+    base: >-
+      Green energy surges along the conduit and the generator gauges spin backwards as the giant
+      machine below draws power out of the lighthouse; lamps dim and Penny watches the needles fall.
+    ext: The conduit glows brighter as the gauges hit zero.
+    sfx: electrical draining whine, falling gauge clicks, hum
+    say: []
+
+  "059":
+    who: [penny, tomkin, hero]
+    at: power_room
+    time: night_peril
+    cam: medium three-shot around the switchboard
+    base: >-
+      Penny chalks a quick diagram on the switchboard — the conduit, the generator and the beacon
+      with a big reversing arrow — and explains her plan with sharp gestures while Tomkin and the
+      hero lean in.
+    ext: Penny taps the beacon on the diagram decisively.
+    sfx: chalk scratching, generator hum
+    say: []
+
+  "060":
+    who: [penny, tomkin, hero]
+    at: power_room
+    time: night_peril
+    cam: slow push-in as they split up
+    base: >-
+      Penny points to each of them in turn: the hero to the outside of the tower, herself to the
+      switchboard, Tomkin to guard it; they put their hands together, Tomkin's ladle on top.
+    ext: They break and run to their posts.
+    sfx: rumbling, quick footsteps
+    say: []
+
+  "061":
+    who: [hero]
+    at: tower_exterior
+    time: night_peril
+    cam: aerial shot rising alongside the hero
+    base: >-
+      The masked hero climbs the exterior of the tower in driving rain, firing grapple cables up to
+      the ledges and hauling up hand over hand, waves exploding far below.
+    ext: The hero reaches a ledge and looks up toward the top.
+    sfx: cable launches, winch whirr, wind and rain, crashing waves
+    say: []
+
+  "062":
+    who: [penny]
+    at: power_room
+    time: night_peril
+    cam: close-up on Penny's insulated tools at the switchboard
+    base: >-
+      Penny pulls on rubber gloves and, with red-handled insulated tools, carefully unbolts and
+      swaps a heavy power bus bar on the switchboard, working with intense focus.
+    ext: She seats the bar and wipes rain from her forehead.
+    sfx: bolt clicks, metal sliding, generator hum
+    say: []
+
+  "063":
+    who: [tomkin, swarm]
+    at: power_room
+    time: night_peril
+    cam: low angle circling Tomkin
+    base: >-
+      Tomkin stands guard in front of the switchboard, swatting tiny maintenance drones out of the
+      air with his ladle and trapping one under the butter tub.
+    ext: He spins around, ladle ready for the next.
+    sfx: ladle bonks, buzzing drones, plastic thunk
+    say: []
+
+  "064":
+    who: [penny, tomkin]
+    at: power_room
+    time: night_peril
+    cam: medium on the generator as Penny throws the lever
+    base: >-
+      Penny throws the start lever; the generator sputters, rattles and almost catches — then cuts
+      out with a sad wheeze, and the room falls dark again.
+    ext: Penny groans and grips the lever.
+    sfx: lever clunk, sputtering engine, wheeze, silence
+    say: []
+
+  "065":
+    who: [penny]
+    at: power_room
+    time: night_peril
+    cam: insert on a frayed broken strap, then Penny's eyes
+    base: >-
+      Penny sweeps her lamp along the cables and spots a broken grounding strap dangling, its end
+      frayed; she lifts it and looks up toward a high outbuilding across the gap.
+    ext: She calls up toward the window above.
+    sfx: lamp swing, cable rustle, rain
+    say: []
+
+  "066":
+    who: [hero]
+    at: bridge
+    time: night_peril
+    cam: side tracking shot along the shattered bridge
+    base: >-
+      The masked hero crosses the half-shattered iron footbridge high above the churning rocks,
+      testing each loose plank, toward a coil of heavy cable hanging in the outbuilding doorway.
+    ext: The hero reaches for the cable.
+    sfx: creaking iron, rattling planks, wind, surf below
+    say: []
+
+  "067":
+    who: [hero]
+    at: bridge
+    time: night_peril
+    cam: wide shot as the bridge collapses
+    base: >-
+      The hero grabs the cable just as the bridge gives way beneath him; iron and planks tumble
+      toward the rocks and he falls with the cable clutched tight.
+    ext: The hero tumbles through the rain.
+    sfx: snapping iron, collapse, falling debris, rushing wind
+    say: []
+
+  "068":
+    who: [hero]
+    at: tower_exterior
+    time: night_peril
+    cam: downward shot as the line snaps taut
+    base: >-
+      Mid-fall the hero fires an orange grapple cable that hooks the tower; it snaps taut and the
+      hero swings to a stop just above the crashing rocks, cable still clutched.
+    ext: The hero dangles, then starts winching upward.
+    sfx: cable launch, hook clank, sudden taut twang, crashing waves
+    say: []
+
+  "069":
+    who: [hero, penny]
+    at: power_room
+    time: night_peril
+    cam: through the power-room window as the cable arrives
+    base: >-
+      The hero swings past the power-room window and flings the heavy cable through it; Penny leans
+      out and catches it in both gloved hands.
+    ext: Penny hauls the cable inside.
+    sfx: whoosh, glass rattling, cable thump into gloves
+    say: []
+
+  "070":
+    who: [penny, tomkin]
+    at: power_room
+    time: night_peril
+    cam: close-up on the final connection, pulling out to Penny
+    base: >-
+      Penny bolts the cable to the grounding post with insulated tools, closes the protective cover
+      and flips the safety cover off the big switch, shouting to Tomkin.
+    ext: Tomkin leaps toward the beacon lever.
+    sfx: bolt ratchet, cover clank, generator humming to life
+    say: [shouting, urgent]
+
+  "071":
+    who: [leviathan2]
+    at: tower_exterior
+    time: predawn
+    cam: extreme low angle from the base of the tower
+    base: >-
+      The colossal second walker rises out of the sea against the lighthouse, gripping the cliff
+      with giant iron claws, green conduits blazing, pistons hissing, towering over the tower.
+    ext: Its shell scrapes against the stonework.
+    sfx: colossal groan, grinding rock, hydraulic blasts, surf
+    say: []
+
+  "072":
+    who: [leviathan2, penny, tomkin, hero]
+    at: catwalk
+    time: predawn
+    cam: upward shot from the catwalk as the claw rises
+    base: >-
+      A huge armoured claw rises above the catwalk and blots out the pale morning sky, casting the
+      trio into shadow as they look up.
+    ext: The claw hangs overhead, dripping seawater.
+    sfx: dripping water, deep hydraulic hiss, wind dropping away
+    say: []
+
+  "073":
+    who: [penny, tomkin, hero]
+    at: catwalk
+    time: predawn
+    cam: ground-level shot as cracks race across the stone
+    base: >-
+      The claw grips the tower and stone cracks beneath the team's feet; the catwalk buckles, iron
+      railings bending as the three stumble.
+    ext: The hero steadies Penny as the floor tilts.
+    sfx: cracking stone, bending iron, rumble
+    say: []
+
+  "074":
+    who: [penny, hero]
+    at: lantern_room
+    time: predawn
+    cam: medium shot through the lantern-room glass
+    base: >-
+      Penny wedges herself against the lantern drive and holds it steady with both hands while the
+      hero stands over her, deflecting falling glass and debris with an outstretched arm.
+    ext: Penny keeps her grip, jaw set.
+    sfx: tinkling glass, rumbling, straining gears
+    say: []
+
+  "075":
+    who: [tomkin]
+    at: catwalk
+    time: predawn
+    cam: fast tracking shot alongside Tomkin
+    base: >-
+      Tomkin sprints along the buckling catwalk toward the beacon control lever, cape streaming,
+      ladle and tub in hand, leaping over a widening crack.
+    ext: He skids toward the lever.
+    sfx: pattering paws, cracking stone, cape flapping
+    say: []
+
+  "076":
+    who: [hero, penny, tomkin]
+    at: catwalk
+    time: predawn
+    cam: upward shot as debris falls
+    base: >-
+      Chunks of masonry fall from the claw's grip; the hero fires a spread of orange grapple cables
+      that weave into a net canopy overhead, catching the debris above Penny and Tomkin.
+    ext: The canopy sags but holds.
+    sfx: cable launches, net stretch, heavy debris thuds, rumbling
+    say: []
+
+  "077":
+    who: [penny, leviathan2]
+    at: catwalk
+    time: predawn
+    cam: over Penny's shoulder to the walker's chest
+    base: >-
+      Penny pries back a loose armour plate on the walker's arm with her wrench, revealing a
+      glowing green receiver pulsing at the heart of the machine; she points it out urgently.
+    ext: The receiver pulses faster.
+    sfx: metal prying, pulsing hum
+    say: []
+
+  "078":
+    who: [tomkin]
+    at: lantern_room
+    time: predawn
+    cam: wide shot following the beam out to sea
+    base: >-
+      Tomkin hauls down the beacon lever with both paws; the great lens blazes to life and sends a
+      focused beam of brilliant light through the sea mist straight at the walker's receiver.
+    ext: The beam sweeps steadily over the sea.
+    sfx: lever clunk, rising hum, bright beam whoosh
+    say: []
+
+  "079":
+    who: [leviathan2]
+    at: tower_exterior
+    time: predawn
+    cam: close-up on the receiver overloading
+    base: >-
+      The receiver drinks in the beam and overloads, crackling with harmless arcs of blue-white
+      light that ripple across the walker's armour; its green conduits flicker and dim.
+    ext: The arcs fade; the conduits go dark one by one.
+    sfx: crackling arcs, overloading whine, powering down
+    say: []
+
+  "080":
+    who: [leviathan2]
+    at: sea
+    time: predawn
+    cam: wide shot from the catwalk looking down
+    base: >-
+      The walker releases the cliff with a groan, slides back into the surf and sinks offshore in a
+      great swirl of foam as the first rays of dawn appear.
+    ext: The sea closes over it.
+    sfx: grinding release, huge splash, sinking groan, waves
+    say: []
+
+  "081":
+    who: [boat]
+    at: boat_sea
+    time: golden
+    cam: aerial shot following the boat through the channel
+    base: >-
+      Guided by the lighthouse beam, the little fishing boat steers safely through the channel
+      between the rocks into calm water as the morning brightens; the radio crackles.
+    ext: The boat's crew wave toward the lighthouse.
+    sfx: engine putter, gentle waves, radio crackle
+    say: [crackly over radio static, relieved]
+
+  "082":
+    who: [penny, tomkin, hero, boat]
+    at: keeper_room
+    time: golden
+    cam: medium shot by the radio, sunlight through the window
+    base: >-
+      In the sunlit keeper's room the radio crackles with a grateful voice; Penny, Tomkin and the
+      hero gather around it, smiling, the boat visible safe at sea through the window.
+    ext: Penny clicks the handset in reply.
+    sfx: warm radio crackle, indistinct grateful voice, gulls
+    say: []
+
+  "083":
+    who: [penny]
+    at: lantern_room
+    time: golden
+    cam: close-up on the turning gear
+    base: >-
+      Penny checks the drive gear with the butter-tub shim — it turns smoothly and steadily as the
+      lens rotates; she gives it an approving pat.
+    ext: She wipes her hands on her rag.
+    sfx: smooth gear ticking, gentle hum
+    say: []
+
+  "084":
+    who: [penny, tomkin, hero]
+    at: catwalk
+    time: golden
+    cam: medium shot, mock ceremony
+    base: >-
+      In a mock ceremony Penny pins a shiny brass washer to Tomkin's lavender cape like a medal;
+      Tomkin puffs out his chest while the hero applauds.
+    ext: Tomkin salutes grandly.
+    sfx: gentle wind, clapping, gulls
+    say: []
+
+  "085":
+    who: [penny, tomkin, hero]
+    at: catwalk
+    time: golden
+    cam: slow orbit around the trio sitting on the catwalk
+    base: >-
+      The three share a loaf of bread on the sunny catwalk, legs dangling over the edge; the hero
+      lifts the mask-helmet just enough to take a bite, keeping the face mostly in shadow.
+    ext: Tomkin steals the biggest piece.
+    sfx: gentle waves, gulls, bread tearing, laughter
+    say: []
+
+  "086":
+    who: []
+    at: sea
+    time: golden
+    cam: sweeping aerial shot over the calm ocean
+    base: >-
+      Golden light stretches across a calm, sparkling ocean; the reef glistens and the lighthouse
+      stands proud on its cliff in the clear morning.
+    ext: Seabirds glide through the frame.
+    sfx: calm waves, gulls, soft breeze
+    say: []
+
+  "087":
+    who: [tomkin, penny, hero]
+    at: catwalk
+    time: golden
+    cam: medium shot on Tomkin, comic timing
+    base: >-
+      Tomkin hops onto the railing and salutes the sea with his bent ladle, wobbles, loses his
+      balance and topples backward, landing bottom-first in the yellow butter tub.
+    ext: His feet stick up comically from the tub.
+    sfx: wobble, plastic thunk, squeak
+    say: []
+
+  "088":
+    who: [penny, hero, tomkin]
+    at: catwalk
+    time: golden
+    cam: two-shot widening to three
+    base: >-
+      Penny and the hero laugh and haul Tomkin upright out of the tub; he straightens his sock
+      toque with dignity and declares his line.
+    ext: All three laugh together in the sunshine.
+    sfx: laughter, gulls, waves
+    say: [dignified, indignant]
+
+  "089":
+    who: [penny, tomkin, hero]
+    at: catwalk
+    time: golden
+    cam: long continuous pull-back and rise away from the catwalk
+    base: >-
+      The camera pulls back and up from the three friends waving on the catwalk to reveal the
+      restored lighthouse shining on its cliff, its beam turning over a sparkling golden sea.
+    ext: The lighthouse grows small against the vast horizon.
+    sfx: soft wind, waves, gulls
+    say: []
+
+  "090":
+    who: []
+    at: sea
+    time: golden
+    cam: slow drift over waves toward the distant lighthouse at sunrise
+    base: >-
+      Gentle waves roll toward the shore; the lighthouse stands on its cliff in the sunrise, its
+      beam slowly sweeping. Calm, peaceful, no characters.
+    ext: The camera continues its slow drift.
+    sfx: gentle waves, soft breeze
+    say: []
+    overlay: {style: credits}

@@ -1,0 +1,17 @@
+{
+  "id": "017",
+  "title": "A map in brass",
+  "timecode": "02:40.00–02:50.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/tomkin.png",
+    "assets/refs/penny.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the lighthouse keeper's room: curved stone walls, an old radio set, a desk with a corroded brass chart case, oil lamps and nautical charts. Time and weather: stormy overcast day returning, cold slate-blue and grey palette, gusting wind and rain, an eerie emerald glow from the sea.\nCharacters (keep exactly on-model): Penny, a fourteen-year-old girl with windblown auburn curls under a patterned headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and gears, and a grease-stained linen rag; clever, practical, young-looking; Tomkin, a compact, stout ginger-and-white tabby cat walking upright, wearing a thick ribbed grey wool sock folded over his ears like a baker's toque, a lavender silk boxer-shorts cape fastened at the neck with a brass safety pin, wielding a bent stainless-steel soup ladle like a rapier and carrying a yellow plastic butter tub; expressive, brave and comically self-important.\nCamera: close-up on Penny's hands and the chart case; one continuous shot, no cuts.\nAction: Penny pries open a corroded brass chart case with her pliers; inside is an old blueprint of the lighthouse showing hidden lower levels. Tomkin peers over her shoulder.\nNo dialogue.\nSound: corroded hinge creak, paper unrolling.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (Penny, Tomkin), identical costumes and props, the same setting, lighting and weather.\nAction: Penny traces a finger along a stairway marked on the plan.\nNo dialogue.\nSound continues: corroded hinge creak, paper unrolling.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M04",
+  "overlay": null
+}

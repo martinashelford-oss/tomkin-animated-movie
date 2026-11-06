@@ -1,0 +1,16 @@
+{
+  "id": "035",
+  "title": "Penny improvises",
+  "timecode": "05:40.00–05:50.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/penny.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the narrow curved iron-and-stone catwalk with a rusted iron railing circling the brass lantern room at the top of a weathered cliffside stone lighthouse, high above a rocky ocean and sea spray. Time and weather: darkening storm at dusk, cold slate-blue light, rain, lightning on the horizon.\nCharacters (keep exactly on-model): Penny, a fourteen-year-old girl with windblown auburn curls under a patterned headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and gears, and a grease-stained linen rag; clever, practical, young-looking.\nCamera: close on Penny's hands at work, then her determined face; one continuous shot, no cuts.\nAction: Penny snatches a polished steel panel from a salvage pile, bends it into a curved reflector with her wrench and lashes a handle to it with wire, working fast in the rain.\nNo dialogue.\nSound: metal bending, wrench clanks, wire twisting, rain.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (Penny), identical costumes and props, the same setting, lighting and weather.\nAction: She raises the shining reflector like a shield.\nNo dialogue.\nSound continues: metal bending, wrench clanks, wire twisting, rain.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M07",
+  "overlay": null
+}

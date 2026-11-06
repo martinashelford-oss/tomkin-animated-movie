@@ -1,0 +1,18 @@
+{
+  "id": "024",
+  "title": "A narrow escape",
+  "timecode": "03:50.00–04:00.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/penny.png",
+    "assets/refs/hero.png",
+    "assets/refs/swarm.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: a flooded stone-and-iron maintenance tunnel beneath the lighthouse, knee-deep seawater, dripping pipes, rusted conduits. Time and weather: dim interior lit by handheld lamps and emerald glows, cold blue shadows.\nCharacters (keep exactly on-model): the masked hero, a lean athletic acrobat in a rain-soaked, storm-grey and signal-orange weatherproof bodysuit with reflective silver safety-tape chevrons across the chest and limbs, a smooth brass-rimmed diving-style mask-helmet with two round amber lantern-glass eye lenses that narrow and widen expressively, a climbing harness, and brass winch gauntlets on both wrists that fire braided orange grapple cables tipped with small folding hooks; Penny, a fourteen-year-old girl with windblown auburn curls under a patterned headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and gears, and a grease-stained linen rag; clever, practical, young-looking; a swarm of tiny brass-and-gunmetal maintenance drones with spindly legs and single crimson eye-lights, scuttling and hovering.\nCamera: medium shot at a heavy bulkhead door; one continuous shot, no cuts.\nAction: The masked hero fires a spray of orange grapple cables that knot into a net across a doorway, holding back the swarm, while Penny rips open a lock panel and reroutes the wires with her pliers. The door begins to slide shut behind them.\nNo dialogue.\nSound: cable launches, net thwump, sparking wires, buzzing swarm, heavy door clang.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (the masked hero, Penny, maintenance drones), identical costumes and props, the same setting, lighting and weather.\nAction: The door clangs shut, leaving the swarm buzzing on the other side.\nNo dialogue.\nSound continues: cable launches, net thwump, sparking wires, buzzing swarm, heavy door clang.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M05",
+  "overlay": null
+}

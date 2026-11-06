@@ -13,3 +13,5 @@
 **Environment:** Weathered cliffside stone lighthouse, narrow iron-and-stone catwalk, brass lantern mechanism, rocky ocean and sea spray. Storm at opening, brief sunrise, renewed peril, then clear golden ending.
 
 **Palette:** Cold slate blue and gray for storm, crimson drone optics, emerald threat light, warm amber for rescue and final resolution.
+
+**Proposed original masked-hero design for generation and public release (pending approval):** see `docs/MASKED_HERO_REDESIGN.md`. The prompts in `prompts/` use it.

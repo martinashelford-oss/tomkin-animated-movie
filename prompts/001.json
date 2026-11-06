@@ -1,0 +1,20 @@
+{
+  "id": "001",
+  "title": "The Captain and the Mechanic",
+  "timecode": "00:00.00–00:10.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/tomkin.png",
+    "assets/refs/penny.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the narrow curved iron-and-stone catwalk with a rusted iron railing circling the brass lantern room at the top of a weathered cliffside stone lighthouse, high above a rocky ocean and sea spray. Time and weather: night, violent storm, slate-blue and grey palette, driving rain, lightning flashes.\nCharacters (keep exactly on-model): Tomkin, a compact, stout ginger-and-white tabby cat walking upright, wearing a thick ribbed grey wool sock folded over his ears like a baker's toque, a lavender silk boxer-shorts cape fastened at the neck with a brass safety pin, wielding a bent stainless-steel soup ladle like a rapier and carrying a yellow plastic butter tub; expressive, brave and comically self-important; Penny, a fourteen-year-old girl with windblown auburn curls under a patterned headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and gears, and a grease-stained linen rag; clever, practical, young-looking.\nCamera: continuous medium tracking shot moving backward along the curved catwalk ahead of the pair; one continuous shot, no cuts.\nAction: Tomkin marches boldly along the storm-lashed catwalk, ladle raised like a rapier, cape snapping in the gale, butter tub tucked under one arm; Penny follows in the wind, one hand on the railing, rag fluttering, rain streaming off the iron.\nDialogue: Tomkin (pompous, theatrical, swashbuckling-captain male voice, a little squeaky, grandly overconfident, grand and defiant) says: \"Forward! The sea shall know our courage!\" Penny (calm, practical, quick-witted teenage girl's voice, dryly amused, shouted over the wind) says: \"Watch your footing, Captain.\"\nSound: howling gale, driving rain on iron, metallic creaks, footsteps on wet grating, thunder.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (Tomkin, Penny), identical costumes and props, the same setting, lighting and weather.\nAction: Tomkin points the ladle out to sea as lightning flashes behind them.\nNo dialogue.\nSound continues: howling gale, driving rain on iron, metallic creaks, footsteps on wet grating, thunder.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [
+    "TOMKIN: Forward! The sea shall know our courage!",
+    "PENNY: Watch your footing, Captain."
+  ],
+  "music_cue": "M01",
+  "overlay": null
+}
