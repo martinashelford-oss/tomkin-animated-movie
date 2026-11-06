@@ -89,6 +89,8 @@ def write_all(p: Project) -> None:
                     f"**Base, 8 s**\n\n```text\n{r['base_prompt']}\n```\n\n"
                     f"**Extension, +7 s (seconds 8–10 kept)**\n\n```text\n{r['extension_prompt']}\n```\n\n")
 
+    write_copy_paste(p, recs)
+
     with open(DOCS / "shot_list.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["id", "timecode", "title", "action", "characters", "location", "time",
@@ -140,3 +142,40 @@ def write_all(p: Project) -> None:
         for tier, price in v["price_per_second"].items():
             f.write(f"| {tier} | {price:.2f} | ${gen * price:,.0f} | ${gen * price * 2.5:,.0f} |\n")
         f.write(f"\nReference sheets: ~{len(p.chars)} images × ~${p.config['images']['est_usd_per_image']} each.\n")
+
+
+def write_copy_paste(p: Project, recs: list[dict]) -> None:
+    """prompts/COPY_PASTE.md: plain blocks to paste into Google AI Studio / Flow (Veo),
+    plus music and voice prompts for AI audio tools."""
+    neg = clean(p.cont["negative_prompt"])
+    with open(PROMPTS / "COPY_PASTE.md", "w", encoding="utf-8") as f:
+        f.write(f"# {p.config['project']['title']}: copy-paste prompts\n\n"
+                "## How to use in Google AI Studio (Veo 3.1)\n\n"
+                "1. Open https://aistudio.google.com, choose **Video / Veo 3.1**, aspect ratio **16:9**, "
+                "resolution **720p**, 8 seconds.\n"
+                "2. Paste the shot's **PROMPT** block. If there's a negative-prompt field, paste the "
+                "**NEGATIVE** line into it.\n"
+                "3. If you have reference images (Tomkin, Penny, the hero), attach up to 3.\n"
+                "4. Use **Extend** on the result and paste the **EXTEND** block, which makes a 15 s clip.\n"
+                "5. Download the clip as `assets/video/NNN.mp4` (e.g. `003.mp4`). Assembly trims it to 10 s.\n\n"
+                f"**NEGATIVE (all shots):** `{neg}`\n\n---\n\n## Video prompts\n\n")
+        for s, r in zip(p.shots, recs):
+            f.write(f"### {s.id} · {s.title}\n\nPROMPT\n```text\n{r['base_prompt']}\n```\n\n"
+                    f"EXTEND\n```text\n{r['extension_prompt']}\n```\n\n")
+        f.write("---\n\n## Music prompts (AI music generator or composer brief)\n\n"
+                f"Main theme for every cue: {clean(p.music['theme'])}\n\n")
+        for c in p.music["cues"]:
+            a, b = p.cue_span(c)
+            f.write(f"### {c['id']} · {c['title']} · {b - a:.0f} s (shots {c['shots'][0]:03d}–{c['shots'][1]:03d})\n"
+                    f"```text\n{c['prompt']} Length: {b - a:.0f} seconds.\n```\n"
+                    f"Save as `assets/audio/music/{c['id']}.wav`\n\n")
+        f.write("---\n\n## Voice prompts (AI text-to-speech)\n\n"
+                "Paste each block into a TTS tool (e.g. Gemini TTS in AI Studio or ElevenLabs). Save "
+                "each shot's audio as `assets/audio/voice_NNN.wav`, starting at the shot's first frame. "
+                "Where a shot has two lines (e.g. 001), put both in the same file, in order.\n\n")
+        for s in p.shots:
+            for ln in s.lines:
+                c = p.chars[ln.who]
+                style = clean(c["voice"]) + (f"; {ln.delivery}" if ln.delivery else "")
+                f.write(f"### {s.id} · {ln.tag} → `voice_{s.id}.wav`\n```text\n"
+                        f"Voice: {style}.\nLine: \"{ln.text}\"\n```\n\n")
