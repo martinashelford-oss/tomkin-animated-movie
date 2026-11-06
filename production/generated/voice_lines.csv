@@ -1,0 +1,97 @@
+shot,line,speaker,text,direction,source,shot_start_seconds,offset_seconds,file
+001,01,TOMKIN,Forward! The sea shall know our courage!,,original,0,,assets/audio/voice/001_01.wav
+001,02,PENNY,"Watch your footing, Captain.",,original,0,,assets/audio/voice/001_02.wav
+002,01,PENNY,That is definitely not a seagull.,,original,10,,assets/audio/voice/002_01.wav
+002,02,TOMKIN,Then it shall answer to the Captain!,,proposed,10,,assets/audio/voice/002_02.wav
+003,01,HERO,Did I interrupt something?,,original,20,,assets/audio/voice/003_01.wav
+004,01,TOMKIN,For the lighthouse!,slow-motion battle cry,proposed,30,,assets/audio/voice/004_01.wav
+005,01,PENNY,You saved us with a butter tub.,,original,40,,assets/audio/voice/005_01.wav
+005,02,TOMKIN,The Butter Tub Protocol. Patent pending.,,proposed,40,,assets/audio/voice/005_02.wav
+006,01,HERO,Best view in town.,,proposed,50,,assets/audio/voice/006_01.wav
+006,02,PENNY,Only view in town.,,proposed,50,,assets/audio/voice/006_02.wav
+007,01,PENNY,That glow is coming from below.,,original,60,,assets/audio/voice/007_01.wav
+008,01,TOMKIN,"Halt, crustacean! This is a private lighthouse!",,proposed,70,,assets/audio/voice/008_01.wav
+009,01,PENNY,"Ground wire's live. Keep clear, Captain!",,proposed,80,,assets/audio/voice/009_01.wav
+010,01,TOMKIN,Victory!,,original,90,,assets/audio/voice/010_01.wav
+011,01,TOMKIN,My tub! The sea returns what is rightfully mine.,,proposed,100,,assets/audio/voice/011_01.wav
+011,02,PENNY,It's not over. Look.,,proposed,100,,assets/audio/voice/011_02.wav
+012,01,PENNY,It's still talking to something.,,proposed,110,,assets/audio/voice/012_01.wav
+012,02,HERO,Something under the water.,,proposed,110,,assets/audio/voice/012_02.wav
+013,01,TOMKIN,Who switched off my lighthouse?,,proposed,120,,assets/audio/voice/013_01.wav
+014,01,RADIO,"Lighthouse, this is the Marigold! Your light's out. We can't see the rocks!",,proposed,130,,assets/audio/voice/014_01.wav
+015,01,PENNY,That boat needs our light.,,original,140,,assets/audio/voice/015_01.wav
+015,02,HERO,How long have they got?,,proposed,140,,assets/audio/voice/015_02.wav
+016,01,TOMKIN,"By order of the Captain, Operation Bright Lantern begins now!",,proposed,150,,assets/audio/voice/016_01.wav
+017,01,PENNY,There's an old power room under the tower.,,proposed,160,,assets/audio/voice/017_01.wav
+018,01,TOMKIN,Two hundred and twelve steps. I am counting.,,proposed,170,,assets/audio/voice/018_01.wav
+019,01,HERO,"Whatever made these, it's been here before.",,proposed,180,,assets/audio/voice/019_01.wav
+020,01,TOMKIN,Water. Of course it's water.,,proposed,190,,assets/audio/voice/020_01.wav
+021,01,PENNY,"Captain, are you... paddling?",,proposed,200,,assets/audio/voice/021_01.wav
+021,02,TOMKIN,Navigating.,,proposed,200,,assets/audio/voice/021_02.wav
+022,01,HERO,Did the tunnel just answer you?,,proposed,210,,assets/audio/voice/022_01.wav
+023,01,PENNY,Maintenance drones. Lots of them.,,proposed,220,,assets/audio/voice/023_01.wav
+024,01,HERO,Door's tied!,,proposed,230,,assets/audio/voice/024_01.wav
+024,02,PENNY,Lock's fixed!,,proposed,230,,assets/audio/voice/024_02.wav
+025,01,TOMKIN,The tub provides.,,proposed,240,,assets/audio/voice/025_01.wav
+026,01,PENNY,Someone's rewired the old signal room.,,proposed,250,,assets/audio/voice/026_01.wav
+027,01,PENNY,The drones aren't attacking the lantern. They're switching it off.,,proposed,260,,assets/audio/voice/027_01.wav
+028,01,TOMKIN,Keep... the light... dark.,reading,proposed,270,,assets/audio/voice/028_01.wav
+029,01,KEEPER,"If the light ever goes dark, the machine beneath the sea will wake. Keep it burning.",old recording,proposed,280,,assets/audio/voice/029_01.wav
+030,01,PENNY,We need the lantern working.,,original,290,,assets/audio/voice/030_01.wav
+030,02,TOMKIN,And the boat. And the honour of my tub.,,proposed,290,,assets/audio/voice/030_02.wav
+031,01,HERO,Here comes round two.,,proposed,300,,assets/audio/voice/031_01.wav
+032,01,RADIO,"Lighthouse, we're drifting closer. Is anyone there?",,proposed,310,,assets/audio/voice/032_01.wav
+033,01,PENNY,Three more. Smaller. Faster.,,proposed,320,,assets/audio/voice/033_01.wav
+034,01,HERO,Keep them busy!,,proposed,330,,assets/audio/voice/034_01.wav
+035,01,PENNY,"Mirror, pan, hubcap... perfect.",,proposed,340,,assets/audio/voice/035_01.wav
+036,01,TOMKIN,"En garde, you flying toaster!",,proposed,350,,assets/audio/voice/036_01.wav
+037,01,HERO,One down!,,proposed,360,,assets/audio/voice/037_01.wav
+038,01,PENNY,Smile!,,proposed,370,,assets/audio/voice/038_01.wav
+039,01,TOMKIN,Do not look down. Do not look down. I looked down.,,proposed,380,,assets/audio/voice/039_01.wav
+040,01,TOMKIN,And that is how it's done.,,proposed,390,,assets/audio/voice/040_01.wav
+041,01,HERO,That boat's getting closer.,,proposed,400,,assets/audio/voice/041_01.wav
+042,01,PENNY,Let's see what's wrong with you.,,proposed,410,,assets/audio/voice/042_01.wav
+043,01,PENNY,The main drive gear. Someone's taken it.,,proposed,420,,assets/audio/voice/043_01.wav
+044,01,PENNY,The drone's gear... nearly the right size.,,proposed,430,,assets/audio/voice/044_01.wav
+045,01,PENNY,It's slipping. It needs a spacer.,,proposed,440,,assets/audio/voice/045_01.wav
+046,01,TOMKIN,"Behold. The Butter Tub Protocol, part two.",,proposed,450,,assets/audio/voice/046_01.wav
+047,01,PENNY,"Sorry, Captain. It's for science.",,proposed,460,,assets/audio/voice/047_01.wav
+048,01,TOMKIN,Yes! Ye... no.,,proposed,470,,assets/audio/voice/048_01.wav
+049,01,HERO,Okay. That's bad.,,proposed,480,,assets/audio/voice/049_01.wav
+050,01,PENNY,We can reverse the current.,,original,490,,assets/audio/voice/050_01.wav
+051,01,TOMKIN,Nobody said anything about wet paws!,,proposed,500,,assets/audio/voice/051_01.wav
+052,01,PENNY,I'm okay! I'll get it open!,,proposed,510,,assets/audio/voice/052_01.wav
+053,01,PENNY,Come on... come on!,,proposed,520,,assets/audio/voice/053_01.wav
+054,01,TOMKIN,A captain... holds... the line!,,proposed,530,,assets/audio/voice/054_01.wav
+055,01,HERO,Got you both.,,proposed,540,,assets/audio/voice/055_01.wav
+056,01,PENNY,That's not ours. Something's tapped into the generator.,,proposed,550,,assets/audio/voice/056_01.wav
+059,01,PENNY,"It's stealing our power. So we send it all back, through the beacon.",,proposed,580,,assets/audio/voice/059_01.wav
+060,01,HERO,I climb.,,proposed,590,,assets/audio/voice/060_01.wav
+060,02,PENNY,I rewire.,,proposed,590,,assets/audio/voice/060_02.wav
+060,03,TOMKIN,And I... am magnificent.,,proposed,590,,assets/audio/voice/060_03.wav
+062,01,PENNY,Gloves on. Bus off. Swap it over...,,proposed,610,,assets/audio/voice/062_01.wav
+063,01,TOMKIN,None shall pass! Not you. Not you either.,,proposed,620,,assets/audio/voice/063_01.wav
+064,01,PENNY,"No, no, no!",,proposed,630,,assets/audio/voice/064_01.wav
+065,01,PENNY,The grounding strap's snapped! I need a cable!,,proposed,640,,assets/audio/voice/065_01.wav
+065,02,HERO,On it!,"distant, from above",proposed,640,,assets/audio/voice/065_02.wav
+068,01,HERO,Whoa... got it!,,proposed,670,,assets/audio/voice/068_01.wav
+069,01,HERO,Special delivery!,,proposed,680,,assets/audio/voice/069_01.wav
+070,01,PENNY,Now! Turn the beacon on!,,original,690,,assets/audio/voice/070_01.wav
+072,01,TOMKIN,...That is a very large crab.,,proposed,710,,assets/audio/voice/072_01.wav
+073,01,PENNY,Hold on!,,proposed,720,,assets/audio/voice/073_01.wav
+074,01,PENNY,"If this gear slips, we lose the light!",,proposed,730,,assets/audio/voice/074_01.wav
+075,01,TOMKIN,Captain coming through!,,proposed,740,,assets/audio/voice/075_01.wav
+076,01,HERO,"Heads up, I've got it!",,proposed,750,,assets/audio/voice/076_01.wav
+077,01,PENNY,"There, its receiver! Aim the beam there!",,proposed,760,,assets/audio/voice/077_01.wav
+078,01,TOMKIN,Let there be light!,,proposed,770,,assets/audio/voice/078_01.wav
+080,01,HERO,And stay down.,,proposed,790,,assets/audio/voice/080_01.wav
+081,01,RADIO,"Lighthouse, we can see the channel. Thank you!",,original,800,,assets/audio/voice/081_01.wav
+082,01,RADIO,You saved my whole crew. We'll bring you fish on Sunday!,,proposed,810,,assets/audio/voice/082_01.wav
+082,02,TOMKIN,Make it sea bass.,,proposed,810,,assets/audio/voice/082_02.wav
+083,01,PENNY,Steady as a heartbeat.,,proposed,820,,assets/audio/voice/083_01.wav
+084,01,PENNY,For bravery. And for the tub.,,proposed,830,,assets/audio/voice/084_01.wav
+084,02,TOMKIN,I accept. Humbly. Extremely humbly.,,proposed,830,,assets/audio/voice/084_02.wav
+085,01,HERO,Same time tomorrow?,,proposed,840,,assets/audio/voice/085_01.wav
+085,02,PENNY,Maybe without the crabs.,,proposed,840,,assets/audio/voice/085_02.wav
+087,01,TOMKIN,Captain... overboard.,,proposed,860,,assets/audio/voice/087_01.wav
+088,01,TOMKIN,A captain never retreats!,,original,870,,assets/audio/voice/088_01.wav

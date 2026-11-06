@@ -1,0 +1,23 @@
+{
+  "_comment": "Researched 2026-11-06 from public pricing pages and third-party summaries. Prices change often: confirm on the provider's own pricing page before approving any spend. Rates are USD per generated second of video.",
+  "services": [
+    {"id": "kling-3-omni-ref", "name": "Kling 3.0 Omni (reference-to-video, 1080p, silent)", "usd_per_second": 0.224,
+     "max_clip_seconds": 10, "resolution": "1080p", "references": "multi-image character elements",
+     "recommended": true, "notes": "Native 10 s clips match the plan exactly; character references for continuity. Rate is one provider's published figure; official direct pricing may be lower."},
+    {"id": "kling-3-std", "name": "Kling 3.0 (text/image-to-video, 720p, silent, official baseline)", "usd_per_second": 0.084,
+     "max_clip_seconds": 10, "resolution": "720p", "references": "start frame image",
+     "notes": "Cheapest native 10 s option; 720p must be upscaled to 1080p; weaker continuity than reference mode."},
+    {"id": "veo-3.1-fast", "name": "Google Veo 3.1 Fast (1080p)", "usd_per_second": 0.12,
+     "max_clip_seconds": 8, "resolution": "1080p", "references": "up to 3 reference images",
+     "notes": "8 s per generation: each 10 s shot needs an extension, so cost includes extra seconds."},
+    {"id": "veo-3.1", "name": "Google Veo 3.1 Standard (1080p)", "usd_per_second": 0.40,
+     "max_clip_seconds": 8, "resolution": "1080p", "references": "up to 3 reference images",
+     "notes": "Top quality, highest cost; same 8 s limit."},
+    {"id": "runway-gen-4.5", "name": "Runway Gen-4.5 (720p)", "usd_per_second": 0.12,
+     "max_clip_seconds": 10, "resolution": "720p", "references": "image input",
+     "notes": "API credits billed separately from app subscriptions; 720p must be upscaled."}
+  ],
+  "unavailable": [
+    {"name": "OpenAI Sora 2 / Sora 2 Pro", "reason": "OpenAI discontinued the Sora app (April 2026) and API (reported 24 Sept 2026)."}
+  ]
+}

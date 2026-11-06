@@ -15,8 +15,13 @@ A **15-minute action-adventure short film**, 90 shots × 10 seconds = 900 second
 - `CLAUDE.md`: production instructions for Claude Code.
 - `shots.json`: full 90-shot plan and video prompts.
 - `CHARACTERS.md`: visual continuity bible.
-- `scripts/validate.py`: asset and timeline checks.
-- `scripts/assemble.py`: FFmpeg clip normalization and concatenation.
+- `scripts/build_prompts.py`: builds the prompt book, dialogue script, voice/SFX/music cue sheets and reference prompts into `production/generated/`.
+- `scripts/validate.py`: plan, asset and clip-spec checks.
+- `scripts/review_clips.py`: automatic clip QA (frozen frames, internal cuts, black frames) and continuity contact sheets.
+- `scripts/estimate_cost.py`: video-generation cost estimate (no API calls).
+- `scripts/assemble.py`: FFmpeg normalization, concatenation, dialogue/SFX/ambience/music mix and final MP4.
+- `production/PRODUCTION_WORKFLOW.md`: step-by-step production workflow.
+- `production/VIDEO_SERVICE.md`: service recommendation and costs (approval required before spending).
 - `assets/video/`: generated shots.
 - `assets/audio/`: optional soundtrack.
 - `output/`: finished movie.

@@ -1,0 +1,86 @@
+{
+  "_comment": "Canonical prompt building blocks. scripts/build_prompts.py composes every shot's generation prompt from these blocks plus the per-shot fields in shots.json. Edit a character here once and every prompt updates.",
+  "style": "Fully animated cinematic 3D CGI, stylized-realistic, believable fur and cloth simulation, wet granite and weathered iron, volumetric rain and spray, expressive acting, continuous fluid motion, 16:9, 24 fps",
+  "camera_rule": "One continuous camera move, no cuts within the clip, physically plausible motion",
+  "negative_prompt": "no text, no captions, no subtitles, no watermarks, no logos, no extra limbs, no duplicated characters, no sudden wardrobe or prop changes, no morphing faces, no graphic injury, no blood, no still image, no slideshow, no freeze frame, no spider or web imagery, no red-and-blue superhero suit",
+  "characters": {
+    "T": {
+      "name": "Tomkin",
+      "block": "Tomkin: a compact, stout ginger-and-white tabby cat who walks upright, about knee-high to Penny; a thick ribbed grey wool sock folded over his ears like a baker's toque; a lavender silk boxer-shorts cape fastened at the collar with a large brass safety pin; carries a bent stainless-steel soup ladle like a rapier and a yellow plastic butter tub; brave, expressive, comically self-important",
+      "reference_image": "assets/reference/tomkin.png"
+    },
+    "P": {
+      "name": "Penny",
+      "block": "Penny: a fourteen-year-old girl with windblown auburn curls under a patterned headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and gears, a grease-stained linen rag tucked in the apron; clever, practical, determined; youthful proportions",
+      "reference_image": "assets/reference/penny.png"
+    },
+    "H": {
+      "name": "The Rigger (masked hero)",
+      "block": "The Rigger: a lean athletic adult acrobat in a weatherproof storm-orange suit with charcoal quilted oilskin panels on shoulders, forearms and shins and a raised sailor's-knotwork rope pattern on the chest; a smooth charcoal half-helmet mask with two round amber lantern lenses whose iris shutters widen and narrow to show expression; brass forearm reels firing braided cream rigging lines with small grapple hooks; black grip boots",
+      "reference_image": "assets/reference/rigger.png"
+    },
+    "D": {
+      "name": "Drone",
+      "block": "the drone: a gunmetal-grey armoured aerial sentinel the size of a large dog, a crimson optical visor, exposed sparking blue circuitry and venting steam",
+      "reference_image": "assets/reference/drone.png"
+    },
+    "S": {
+      "name": "Scout drones",
+      "block": "scout drones: three smaller, sleeker versions of the gunmetal drone with single crimson visors and twin hover-jets",
+      "reference_image": "assets/reference/drone.png"
+    },
+    "M": {
+      "name": "Maintenance drones",
+      "block": "maintenance drones: teacup-sized round gunmetal bots with clicking spindly legs and tiny crimson eye-lights",
+      "reference_image": "assets/reference/drone.png"
+    },
+    "L1": {
+      "name": "Leviathan I",
+      "block": "the leviathan: an enormous barnacle-and-kelp-encrusted mechanical crab walker with glowing emerald conduits, iron claws and hissing hydraulic pistons",
+      "reference_image": "assets/reference/leviathan.png"
+    },
+    "L2": {
+      "name": "Leviathan II",
+      "block": "the second leviathan: the same barnacled mechanical crab design but visibly twice as large, heavier armour plates, brighter emerald conduits and a hidden chest receiver",
+      "reference_image": "assets/reference/leviathan.png"
+    },
+    "B": {
+      "name": "Fishing boat",
+      "block": "the fishing boat: a small blue-hulled fishing boat with a white wheelhouse and blinking masthead lights",
+      "reference_image": "assets/reference/boat.png"
+    }
+  },
+  "locations": {
+    "gallery": "the lighthouse gallery: a narrow curved iron-and-stone catwalk with black iron railings wrapping the glass lantern room at the top of a weathered pale-grey granite lighthouse with one faded rust-red band, on a cliff point above black reef rocks and a churning ocean",
+    "lantern_room": "inside the lantern room: a great brass lantern mechanism with a tall Fresnel lens, a keeper's workbench, an old brass radio set, rain-streaked windows looking out to sea",
+    "keeper_room": "the round keeper's room below the lantern: curved granite walls, shelves of logbooks, brass instruments, an old desk",
+    "stair": "the winding granite spiral staircase inside the tower, iron handrail, narrow slit windows",
+    "tunnel": "a flooded arched brick maintenance tunnel beneath the lighthouse, knee-deep dark water, dripping ceiling, iron pipes along the walls",
+    "signal_room": "a round stone signal room full of antique valve radios, brass dials and Morse keys tangled with sleek new grey circuitry and pulsing emerald cables",
+    "generator_room": "the generator room at the base of the tower: a riveted iron backup generator, an old switchboard with brass gauges, an iron sea door and bulkhead doors, seawater on the floor",
+    "tower_exterior": "the outside of the granite lighthouse tower and the sheer cliff beneath it, an old iron footbridge spanning a chasm to a cliff-top generator shed",
+    "cliff_sea": "the sheer cliff below the lighthouse and the rocky ocean, black reef rocks, crashing surf",
+    "ocean": "the open ocean beyond the black reef, the lighthouse on its cliff in the distance"
+  },
+  "phases": {
+    "storm_night": "pre-dawn storm, heavy rain, lightning flashes, cold slate-blue and grey palette, the lighthouse beam sweeping through the rain",
+    "dawn": "the storm breaking into a brief golden sunrise, warm amber light, wet surfaces glistening, steam rising",
+    "emerald_morning": "early morning, clouds regathering, eerie emerald light glowing up from the sea, cool grey-blue ambient light",
+    "grey_interior": "overcast grey morning, interiors lit by Penny's brass storm lantern and dim lamps, cool shadows",
+    "dark_interior": "near-darkness lit only by Penny's brass storm lantern, faint emerald glimmers, deep shadows",
+    "renewed_storm": "the storm returning, gusting wind, slanting rain, dark grey clouds, cold slate-blue light with lightning flashes",
+    "flooded_interior": "dim interior with cold blue emergency light, emerald conduit glow, swirling seawater, Penny's storm lantern",
+    "storm_climax": "full storm, driving rain, lightning, emerald glow from the leviathan, cold slate-blue light",
+    "beacon": "full storm pierced by a focused warm amber lighthouse beam, emerald glow fading",
+    "golden_clear": "storm cleared, clear golden late-morning light, calm sparkling sea, warm amber palette"
+  },
+  "props": {
+    "storm_lantern": "Penny's brass storm lantern (introduced in shot 017, carried through interiors)",
+    "pipe_wrench": "Penny's heavy steel pipe wrench (from shot 002)",
+    "butter_tub": "yellow plastic butter tub with a yellow lid; dented from shot 011 onward; lid has a cut notch from shot 047 onward",
+    "drone_core": "the inert blue drone core, kept in a glass jar from shot 012",
+    "brass_gear": "salvaged brass drone gear (first seen shot 006), fitted to the lantern drive in 045-047",
+    "medal": "brass washer pinned to Tomkin's cape from shot 084 onward",
+    "insulating_gloves": "thick black rubber insulating gloves Penny wears for all electrical work (062-070)"
+  }
+}

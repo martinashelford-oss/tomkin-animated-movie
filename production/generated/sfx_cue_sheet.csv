@@ -1,0 +1,91 @@
+shot,timecode,title,ambience_bed,sfx_cues,original_sound_design_note,stem_file
+001,00:00,The Captain and the Mechanic,storm_night,howling gale; rain on iron; lantern mechanism hum; soft cat footpads; boots on wet iron grating; distant wave crash; thunder roll,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/001.wav
+002,00:10,The Intruder Strikes,storm_night,heavy metal impact; grating rattle; electric sparks; steam hiss; servo whine; visor power-up tone,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/002.wav
+003,00:20,The Masked Vigilante Drops In,storm_night,rope reel whirr; swing whoosh; boot-to-armour impact; metal skid; landing thud; lens shutter click,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/003.wav
+004,00:30,Tripartite Counterattack,storm_night,slowed rain ambience; rope creak; armour pry screech; pitched-down electric zap; low boom,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/004.wav
+005,00:40,The Butter Tub Protocol,storm_night,core skitter; electric crackle; hollow plastic clunk; muffled buzzing under tub; rain easing,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/005.wav
+006,00:50,Repairs and Sunrise,dawn,gentle waves; gulls; dripping water; Tomkin purring; paper bag rustle,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/006.wav
+007,01:00,The Deep Rumble,emerald_morning,deep sub rumble; railing rattle; visor snap; boiling sea; ominous low tone,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/007.wav
+008,01:10,The Amphibious Leviathan,emerald_morning,hydraulic hiss; claw scrape on rock; grinding gears; cascading seawater; low mechanical groan,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/008.wav
+009,01:20,Aerial Line and Ground Wire,emerald_morning,stone smash; rope strain; crackling electricity; clamp snap; sea spray,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/009.wav
+010,01:30,The Sovereign Strike,emerald_morning,bat-swing whoosh; plastic thock; harmless electrical discharge; power-down whine; giant splash,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/010.wav
+011,01:40,False victory,emerald_morning,settling foam; low sonar-like pulse; rope reel; plastic catch,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/011.wav
+012,01:50,A hidden signal,grey_interior,radio static; rhythmic click-beep pattern; glass clink; wind on windows,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/012.wav
+013,02:00,The broken lantern,grey_interior,electrical buzz; flicker clicks; mechanism grinding to a stop; sudden quiet except wind,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/013.wav
+014,02:10,Distress call,grey_interior,radio squelch; crackly distress voice; storm wind; rain on glass,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/014.wav
+015,02:20,No time to waste,grey_interior,paper unrolling; pencil taps; clock ticking; wind,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/015.wav
+016,02:30,Tomkin takes command,grey_interior,tub creak; cape flap; heroic music sting; wind,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/016.wav
+017,02:40,A map in brass,grey_interior,corroded hinge creak; brass case thunk; lantern flame flutter,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/017.wav
+018,02:50,The old power room,dark_interior,echoing footsteps; tiny cat hops; lantern handle creak; dripping water,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/018.wav
+019,03:00,Footprints in dust,dark_interior,dust settling; finger on stone; cat sniff; distant rumble,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/019.wav
+020,03:10,The hidden hatch,dark_interior,iron groan; hatch clang; water lapping; long echo,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/020.wav
+021,03:20,Into the tunnel,dark_interior,wading splashes; ladle paddling; dripping; tunnel echo,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/021.wav
+022,03:30,Echoes in the dark,dark_interior,ladle tink on pipe; echoing answer taps; water drip; held-breath silence,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/022.wav
+023,03:40,The guardian swarm,dark_interior,clicking skittering legs; vent rattles; swarm chatter; echo,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/023.wav
+024,03:50,A narrow escape,dark_interior,running splashes; rope fire; door slam; drones bonking on door; lock bolt clunk,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/024.wav
+025,04:00,The butter tub returns,dark_interior,gear rolling on stone; tub catch thunk; relieved exhale,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/025.wav
+026,04:10,The signal room,dark_interior,electronic hum; valve buzz; soft pulsing tones,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/026.wav
+027,04:20,An impossible diagram,dark_interior,paper rustle; electronic hum; fingertip taps,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/027.wav
+028,04:30,The first clue,dark_interior,telegraph chatter; paper feed; tense sting,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/028.wav
+029,04:40,The ghost transmission,dark_interior,cylinder spin-up; vinyl-style crackle; warbly old voice; pulsing hum,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/029.wav
+030,04:50,A promise,dark_interior,apron strap tug; rope creak; music swell,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/030.wav
+031,05:00,Back to the balcony,renewed_storm,door bang; rising gust; rain onset; thunder,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/031.wav
+032,05:10,The boat on the horizon,renewed_storm,radio crackle; rolling waves; distant boat horn,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/032.wav
+033,05:20,A second wave,renewed_storm,water eruption; three jet whines; spray,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/033.wav
+034,05:30,The hero leaps,renewed_storm,running footsteps; rope fire; swing whoosh; wind,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/034.wav
+035,05:40,Penny improvises,renewed_storm,ratchet clicks; metal clanks; thunder,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/035.wav
+036,05:50,Tomkin distracts,renewed_storm,ladle whooshes; drone hover hum; confused beeps,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/036.wav
+037,06:00,The first scout falls,renewed_storm,rope zip; net catch; struggling buzz,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/037.wav
+038,06:10,The second scout,renewed_storm,lightning crack; light flare shimmer; drone wobble; barrel splash,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/038.wav
+039,06:20,A narrow ledge,renewed_storm,claws scrabbling; pebbles falling; wind; drone hum,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/039.wav
+040,06:30,The final scout,renewed_storm,ladle clang; power-down whine; soft thud,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/040.wav
+041,06:40,Moment of calm,renewed_storm,drizzle; breathing; distant bell buoy,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/041.wav
+042,06:50,The lantern mechanism,grey_interior,bolt squeaks; panel groan; falling rust flakes,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/042.wav
+043,07:00,Missing gear,grey_interior,metal scrape; tense sting,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/043.wav
+044,07:10,A clever replacement,grey_interior,gear clink; fingertip clicks on teeth,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/044.wav
+045,07:20,The wrong fit,grey_interior,crank ratchet; grinding; slip clatter,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/045.wav
+046,07:30,Tomkin’s idea,grey_interior,plastic tap; bright idea chime,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/046.wav
+047,07:40,The temporary fix,grey_interior,tin snip; plastic flex; gear seating click,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/047.wav
+048,07:50,A spark of hope,grey_interior,mechanism turning; beam hum; distant generator cough; power dying,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/048.wav
+049,08:00,Power outage,storm_climax,deep structural shudder; falling dust; electrical shutdown; silence then thunder,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/049.wav
+050,08:10,The lower generator,dark_interior,fast echoing footsteps; lantern creak; distant hum,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/050.wav
+051,08:20,A flooded staircase,flooded_interior,water surge roar; splashes; debris knocks,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/051.wav
+052,08:30,The trapped door,flooded_interior,door slam clang; muffled pounding; rushing water,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/052.wav
+053,08:40,Penny on her own,flooded_interior,wrench strain; metal screech; swirling water,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/053.wav
+054,08:50,Tomkin holds the line,flooded_interior,gate grinding; ladle wedge creak; straining grunt,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/054.wav
+055,09:00,The hero returns,flooded_interior,gate strain; rope fire; gate slam; splash,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/055.wav
+056,09:10,A dangerous discovery,flooded_interior,emerald hum; drips; rag wipe,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/056.wav
+057,09:20,The leviathan awakens,storm_climax,subsonic rumble; cascading water; deep mechanical groan,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/057.wav
+058,09:30,The stakes rise,storm_climax,power-drain whine; electrical crackle; rumble,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/058.wav
+059,09:40,Penny’s plan,flooded_interior,generator hum; finger squeak on metal,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/059.wav
+060,09:50,Three tasks,flooded_interior,music sting; ladle salute whoosh,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/060.wav
+061,10:00,The hero climbs,storm_climax,driving rain; rope fire; effort grunts; thunder,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/061.wav
+062,10:10,Penny rewires,flooded_interior,ratchet; bus bar clunk; small crackles,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/062.wav
+063,10:20,Tomkin guards,flooded_interior,bonks; skittering legs; clatter into bucket,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/063.wav
+064,10:30,The first attempt,flooded_interior,switch clunk; generator start; sputter; engine dying,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/064.wav
+065,10:40,The missing connection,flooded_interior,echo; rain hammering above,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/065.wav
+066,10:50,A risky crossing,storm_climax,running clangs; creaking metal; wind,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/066.wav
+067,11:00,A sudden collapse,storm_climax,metal shriek; collapse rumble; falling whoosh,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/067.wav
+068,11:10,The rescue line,storm_climax,rope fire; taut snap; swing whoosh; waves crashing below,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/068.wav
+069,11:20,Cable delivered,flooded_interior,swing whoosh; cable thud; catch grunt,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/069.wav
+070,11:30,Circuit complete,flooded_interior,heavy clunk; rising hum; gauge needles ticking,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/070.wav
+071,11:40,The second leviathan,storm_climax,huge rumble; cascading water; rock crunch,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/071.wav
+072,11:50,A giant shadow,storm_climax,deep hydraulic hiss; shadow whoosh; sudden hush,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/072.wav
+073,12:00,The catwalk buckles,storm_climax,stone cracking; crumbling masonry; iron bending,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/073.wav
+074,12:10,Penny holds fast,storm_climax,shaking rumble; glass tinkle; rope whirl,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/074.wav
+075,12:20,Tomkin’s final charge,storm_climax,rapid tiny footfalls; debris; claw whoosh,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/075.wav
+076,12:30,The hero’s web shield,storm_climax,multiple rope fires; debris thuds on net; net creak,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/076.wav
+077,12:40,The mechanical heart,storm_climax,armour plates sliding; pulsing tone,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/077.wav
+078,12:50,The beacon ignites,beacon,lever clunk; ignition roar; beam hum,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/078.wav
+079,13:00,The signal reverses,beacon,overload crackle; fizzing arcs; steam whistle,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/079.wav
+080,13:10,The leviathan retreats,beacon,power-down groan; enormous splash; wave wash,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/080.wav
+081,13:20,The boat finds the channel,golden_clear,radio voice; boat engine chug; waves calming,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/081.wav
+082,13:30,The keeper’s thanks,golden_clear,radio crackle; gulls; gentle wind,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/082.wav
+083,13:40,The lantern holds,golden_clear,smooth gear ticking; soft lens hum,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/083.wav
+084,13:50,Tomkin’s medal,golden_clear,pin click; applause; gulls,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/084.wav
+085,14:00,A quiet breakfast,golden_clear,birdsong; gentle sea; cups clinking,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/085.wav
+086,14:10,The horizon clears,golden_clear,calm waves; gulls; gentle breeze,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/086.wav
+087,14:20,A final joke,golden_clear,salute flourish; slip; plastic plop; squeak,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/087.wav
+088,14:30,Friends at the lighthouse,golden_clear,laughter; tub pop; cape flap,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/088.wav
+089,14:40,The closing image,golden_clear,music swell; breeze; gulls,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/089.wav
+090,14:50,End credits,golden_clear,waves; end-credits music,"ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",assets/audio/sfx/090.wav
