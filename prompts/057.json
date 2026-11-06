@@ -1,0 +1,16 @@
+{
+  "id": "057",
+  "title": "The leviathan awakens",
+  "timecode": "09:20.00–09:30.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/leviathan2.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the rocky ocean below the lighthouse cliff, huge waves, reefs and sea spray, the lighthouse standing on the cliff above. Time and weather: night, renewed storm, slate-blue darkness pierced by crimson drone optics and emerald threat light.\nCharacters (keep exactly on-model): a second barnacled mechanical crab walker, visibly much larger than the first, with heavier armour plates, brighter green conduits, huge iron claws and hissing hydraulic pistons.\nCamera: wide shot of the surf from the cliff, lightning revealing the shape; one continuous shot, no cuts.\nAction: Under the surf at the foot of the cliff a second walker, much larger than the first, stirs; its huge shell breaks the surface and green conduits flare along its armour in a flash of lightning.\nNo dialogue.\nSound: deep mechanical groan, surging water, thunder.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (the second Leviathan), identical costumes and props, the same setting, lighting and weather.\nAction: A colossal claw rises from the waves.\nNo dialogue.\nSound continues: deep mechanical groan, surging water, thunder.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M09",
+  "overlay": null
+}

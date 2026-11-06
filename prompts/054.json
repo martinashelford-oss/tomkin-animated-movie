@@ -1,0 +1,16 @@
+{
+  "id": "054",
+  "title": "Tomkin holds the line",
+  "timecode": "08:50.00–09:00.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/tomkin.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the old generator room in the base of the lighthouse: a riveted iron backup generator, a switchboard of brass levers and gauges, cables and an iron gate. Time and weather: night, renewed storm, slate-blue darkness pierced by crimson drone optics and emerald threat light.\nCharacters (keep exactly on-model): Tomkin, a compact, stout ginger-and-white tabby cat walking upright, wearing a thick ribbed grey wool sock folded over his ears like a baker's toque, a lavender silk boxer-shorts cape fastened at the neck with a brass safety pin, wielding a bent stainless-steel soup ladle like a rapier and carrying a yellow plastic butter tub; expressive, brave and comically self-important.\nCamera: low angle on Tomkin and a sliding gate; one continuous shot, no cuts.\nAction: A second iron gate begins grinding shut; Tomkin jams his bent ladle into the gap and holds it with all his might, paws braced, the ladle bending further as the gate pushes.\nNo dialogue.\nSound: grinding gate, creaking ladle, straining grunt.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (Tomkin), identical costumes and props, the same setting, lighting and weather.\nAction: Tomkin grits his teeth, whiskers trembling.\nNo dialogue.\nSound continues: grinding gate, creaking ladle, straining grunt.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M09",
+  "overlay": null
+}

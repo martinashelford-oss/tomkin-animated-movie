@@ -1,0 +1,27 @@
+# SCORE: 12 cues covering all 90 shots. Use original or properly licensed music only (CLAUDE.md).
+#
+# There are two ways to supply music:
+#  1. One full-length track:  python scripts/assemble.py --music assets/audio/music.mp3
+#  2. Cue by cue:             assets/audio/music/M01.wav … M12.wav (any length; looped or trimmed with fades)
+# Either way the music is ducked under dialogue and SFX automatically.
+# `prompt` works as a brief for a composer, a library search, or an AI music
+# generator whose licence covers this use.
+
+theme: >-
+  Heroic seafaring main theme in D minor rising to D major: French horns and low strings,
+  snare-driven adventure rhythm, a comic bassoon/pizzicato motif for Tomkin's pomposity,
+  a warm solo-violin motif for Penny, and a swooping brass motif for the masked hero.
+
+cues:
+- {id: M01, title: "Storm Patrol",           shots: [1, 5],   gain_db: -4, prompt: "Driving orchestral action in a storm: pounding taiko, low brass, racing strings, comic bassoon flourishes for Tomkin, a heroic brass motif when the masked hero arrives. Instrumental."}
+- {id: M02, title: "Brief Sunrise",          shots: [6, 6],   gain_db: -6, prompt: "Short warm hopeful interlude: solo violin and harp over soft strings, golden and calm. Instrumental."}
+- {id: M03, title: "The Amphibious Leviathan", shots: [7, 10], gain_db: -3, prompt: "Ominous low rumble growing into full monster action: contrabassoon, gongs, choir, massive brass hits, a heroic climax and triumphant final chord. Instrumental."}
+- {id: M04, title: "False Victory",          shots: [11, 17], gain_db: -7, prompt: "Mysterious underscore: pulsing synth heartbeat under eerie strings, radio-static textures, building urgency. Instrumental."}
+- {id: M05, title: "Into the Depths",        shots: [18, 25], gain_db: -6, prompt: "Tense exploration cue: plucked low strings, dripping percussion, metallic scrapes, sudden action bursts for the swarm. Instrumental."}
+- {id: M06, title: "The Signal Room",        shots: [26, 30], gain_db: -8, prompt: "Haunting mystery: music-box and celesta over droning cellos, ghostly choir, resolving into resolve. Instrumental."}
+- {id: M07, title: "Scouts in the Storm",    shots: [31, 41], gain_db: -4, prompt: "Swashbuckling action-comedy: galloping strings, brass fanfares, comic fencing pizzicato, cymbal crashes. Instrumental."}
+- {id: M08, title: "The Lantern Mechanism",  shots: [42, 48], gain_db: -7, prompt: "Clockwork problem-solving cue: ticking percussion, marimba, curious woodwinds, hopeful swell then sudden cut-off. Instrumental."}
+- {id: M09, title: "Flood and Iron",         shots: [49, 58], gain_db: -5, prompt: "Peril and suspense: churning low strings, rising brass, heavy percussion, dread as the giant stirs. Instrumental."}
+- {id: M10, title: "Three Tasks",            shots: [59, 70], gain_db: -5, prompt: "Building heist-style action: driving ostinato, layered percussion, each hero's motif, near-miss tension and a big release. Instrumental."}
+- {id: M11, title: "The Beacon Ignites",     shots: [71, 80], gain_db: -3, prompt: "Epic finale: full orchestra and choir, colossal brass, the main theme in triumph as the beacon fires, a majestic victory resolution. Instrumental."}
+- {id: M12, title: "Golden Morning / End Credits", shots: [81, 90], gain_db: -7, prompt: "Warm, joyful resolution: gentle main theme on strings and horn, comic bassoon tag for Tomkin's tumble, swelling into a full end-credits rendition. Instrumental."}

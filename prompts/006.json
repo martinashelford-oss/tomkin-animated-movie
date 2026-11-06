@@ -1,0 +1,18 @@
+{
+  "id": "006",
+  "title": "Repairs and Sunrise",
+  "timecode": "00:50.00–01:00.00",
+  "duration": 10.0,
+  "generate_seconds": 15,
+  "reference_images": [
+    "assets/refs/tomkin.png",
+    "assets/refs/penny.png",
+    "assets/refs/hero.png"
+  ],
+  "base_prompt": "Fully animated cinematic stylized-realistic 3D CGI feature-film shot, continuous motion, expressive character animation and acting, believable fur and cloth simulation, detailed wet stone and metal, dynamic ocean, rain, spray, steam and sparks, cinematic lighting, anamorphic 16:9 widescreen, 24 fps.\nSetting: the narrow curved iron-and-stone catwalk with a rusted iron railing circling the brass lantern room at the top of a weathered cliffside stone lighthouse, high above a rocky ocean and sea spray. Time and weather: brief golden sunrise breaking through the storm clouds, warm amber light, wet glistening surfaces.\nCharacters (keep exactly on-model): Tomkin, a compact, stout ginger-and-white tabby cat walking upright, wearing a thick ribbed grey wool sock folded over his ears like a baker's toque, a lavender silk boxer-shorts cape fastened at the neck with a brass safety pin, wielding a bent stainless-steel soup ladle like a rapier and carrying a yellow plastic butter tub; expressive, brave and comically self-important; Penny, a fourteen-year-old girl with windblown auburn curls under a patterned headscarf, freckles, a heavy canvas mechanic's apron full of wrenches, pliers and gears, and a grease-stained linen rag; clever, practical, young-looking; the masked hero, a lean athletic acrobat in a rain-soaked, storm-grey and signal-orange weatherproof bodysuit with reflective silver safety-tape chevrons across the chest and limbs, a smooth brass-rimmed diving-style mask-helmet with two round amber lantern-glass eye lenses that narrow and widen expressively, a climbing harness, and brass winch gauntlets on both wrists that fire braided orange grapple cables tipped with small folding hooks.\nCamera: slow crane up and around the trio to reveal the sunrise over the sea; one continuous shot, no cuts.\nAction: The storm parts and a brief golden dawn breaks over the ocean. Penny tightens a bolt on the railing with her wrench, the hero coils a grapple cable, and Tomkin polishes his ladle on his cape, all three bathed in warm amber light.\nNo dialogue.\nSound: gentle wind, distant gulls, dripping water, wrench ratchet.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "extension_prompt": "Continue this exact shot seamlessly with the same camera move, the same characters (Tomkin, Penny, the masked hero), identical costumes and props, the same setting, lighting and weather.\nAction: The three pause and gaze out at the sunrise together.\nNo dialogue.\nSound continues: gentle wind, distant gulls, dripping water, wrench ratchet.\nAudio: realistic sound effects and ambience only; spoken dialogue only as written above; no background music; no narrator.",
+  "negative_prompt": "text, captions, subtitles, watermark, logo, extra limbs, duplicated characters, sudden wardrobe changes, costume swaps, graphic injury, blood, gore, still image, slideshow, freeze frame, live action humans, 2D flat animation, anime, background music",
+  "dialogue": [],
+  "music_cue": "M02",
+  "overlay": null
+}
