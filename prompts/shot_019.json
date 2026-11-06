@@ -1,0 +1,25 @@
+{
+  "id": 19,
+  "key": "shot_019",
+  "chapter": 2,
+  "timecode_in": "02:49.00",
+  "timecode_out": "02:57.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "gary",
+    "duggie"
+  ],
+  "reference_images": [
+    "bible/refs/gary.png",
+    "bible/refs/duggie.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Gary, a tiny cartoon housefly with big shiny compound eyes, smug self-satisfied angled wings, pulling a minuscule wheeled suitcase; Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation.\nCamera: Binocular point-of-view, circular vignette, zooming into the fly swarm.\nAction: Through binoculars, the view zooms past the swarm to one fly — Gary — pulling a tiny wheeled suitcase and eyeing the lighthouse walls like a property developer.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, hushed, horrified, off-screen) says: \"Third from the left. He has a tiny suitcase. His name is Gary. Gary is moving in.\"\nSound effects: binocular focus clicks, tiny suitcase wheels rattling, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M04",
+  "overlay": null
+}

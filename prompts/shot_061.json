@@ -1,0 +1,29 @@
+{
+  "id": 61,
+  "key": "shot_061",
+  "chapter": 5,
+  "timecode_in": "09:22.00",
+  "timecode_out": "09:30.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "cockpit",
+  "characters": [
+    "tomkin"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png",
+    "bible/refs/tomkin_mobile.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the Tomkin-Mobile's luxurious leather cockpit, a dazzling dashboard of switches, dials and glowing screens, a precision-engineered cup-holder bay lined with a tiny cushion, back seats, and a windscreen. Lighting: glowing dashboard light, flickering exterior light.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the armoured bulk of a naval battleship, mirror-polished chrome and copper panels, retractable feathered metal wings that fold like a barn owl's, a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top.\nCamera: Extreme close-up on a big blank glowing button, then exterior.\nAction: Tomkin's paw slams down a big glowing button on the dashboard. Outside, the headlight panels of the Tomkin-Mobile slide back to reveal twin cannons.\nNo dialogue.\nSound effects: button slam, hydraulic hiss, cannons clunking into place, ambience of purring engine, beeps and chimes.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M12",
+  "overlay": {
+    "text": "GADGET #42: THE SALMON-SLING",
+    "start": 0.3,
+    "end": 3,
+    "style": "screen"
+  }
+}

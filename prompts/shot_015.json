@@ -1,0 +1,21 @@
+{
+  "id": 15,
+  "key": "shot_015",
+  "chapter": 2,
+  "timecode_in": "02:10.00",
+  "timecode_out": "02:18.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [],
+  "reference_images": [
+    "bible/refs/stink_o_meter.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: the Stink-o-Meter, a small brass sensor mounted by the front door with a big analogue dial, a twitching needle and a flashing red warning bulb.\nCamera: Snap zoom onto the Stink-o-Meter.\nAction: The Stink-o-Meter by the front door shrieks; its needle slams into the red, its warning bulb flashes and the whole device rattles on the wall.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, shouting from off-screen, panicked) says: \"Class Four! MARVEL! There's a Class Four Biological Hazard on our doorstep!\"\nSound effects: shrieking alarm, rattling needle, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M04",
+  "overlay": null
+}

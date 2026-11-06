@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "key": "shot_001",
+  "chapter": 1,
+  "timecode_in": "00:00.00",
+  "timecode_out": "00:15.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "lighthouse_ext",
+  "characters": [],
+  "reference_images": [],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a magnificent lighthouse of reinforced titanium wrapped in sea-polished copper, perched on the very tip of a jagged cliff at the edge of the world, a bristling antenna array on top beaming both a sweeping warning light and shimmering visible rings of Wi-Fi out over the Forgotten Sea; beyond the horizon a swirling, impossible pastel haze of the Unknown World. Lighting: golden dawn light, sea spray, dramatic sky.\nCamera: Sweeping aerial establishing shot, low over the waves, pushing in toward the cliff.\nAction: Dawn over the Forgotten Sea. The camera skims the waves toward a jagged cliff at the edge of the world, where the copper lighthouse stands tall, its beam sweeping and rings of Wi-Fi light pulsing out over the water.\nNo dialogue.\nSound effects: crashing waves, gulls, sea wind, deep beacon hum, sparkling Wi-Fi shimmer, ambience of crashing waves, gulls, sea wind, the low electric hum of the beacon.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (the scene).\nAction: The camera rises up the copper-wrapped tower past porthole windows to the lamp room as the great beam swings directly across the lens in a warm flare.\nNo dialogue.\nSound effects continue: crashing waves, gulls, sea wind, deep beacon hum, sparkling Wi-Fi shimmer.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M01",
+  "overlay": {
+    "text": "TOMKIN\nand the\nLIGHTHOUSE LEVIATHAN",
+    "start": 1.5,
+    "end": 9,
+    "style": "title"
+  }
+}

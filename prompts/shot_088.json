@@ -1,0 +1,27 @@
+{
+  "id": 88,
+  "key": "shot_088",
+  "chapter": 7,
+  "timecode_in": "14:17.00",
+  "timecode_out": "14:30.00",
+  "duration": 13,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "kitchen_evening",
+  "characters": [
+    "holly",
+    "ben",
+    "tomkin"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png",
+    "bible/refs/ben.png",
+    "bible/refs/tomkin.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the same cosy circular copper kitchen-laboratory, now crowded and cheerful, the mirror-polished table laid for dinner, squirrels perched on shelves and in Marvel's hat. Lighting: warm golden lamplight, the lighthouse beam sweeping past the windows.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card; Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets.\nCamera: Quick comic shot-reverse-shots.\nAction: Holly flutters up hopefully beside Tomkin's ice cream; Tomkin doesn't even look up.\nDialogue: Princess Holly (soft, sweet, gentle young female voice, kind and nervous, apologising quickly, words tumbling out, hopeful) says: \"Could I have a tiny bit of the ice cream? Just the mint part?\" Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, flat) says: \"No.\"\nSound effects: spoon clink, ambience of cosy crackle, distant waves, contented chatter.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Princess Holly, Ben Elf, Tomkin).\nAction: Ben pops up on the other side, waving his horn hopefully; Tomkin still doesn't look up.\nDialogue: Ben Elf (high-pitched, chipper, officious little male voice, delighted by everything, speaking in excited exclamations, pleading) says: \"Just one spoonful? I blew my horn nineteen times encouragingly!\" Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, flat) says: \"No.\"\nSound effects continue: spoon clink.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M17",
+  "overlay": null
+}

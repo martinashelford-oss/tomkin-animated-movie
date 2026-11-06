@@ -1,0 +1,25 @@
+{
+  "id": 29,
+  "key": "shot_029",
+  "chapter": 3,
+  "timecode_in": "04:28.00",
+  "timecode_out": "04:36.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "holly",
+    "duggie"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png",
+    "bible/refs/duggie.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation.\nCamera: Over Holly's shoulder up to Duggie's giant face.\nAction: Princess Holly flutters up to eye level with Duggie's enormous droopy face; her wand sparks nervously. She notices a fly with a suitcase and quickly looks away.\nDialogue: Princess Holly (soft, sweet, gentle young female voice, kind and nervous, apologising quickly, words tumbling out, nervous and sweet) says: \"Oh! Hello, big doggy! You're very — is that a fly with a suitcase? I won't look at the fly.\"\nSound effects: fluttering wings, nervous wand sparks, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M06",
+  "overlay": null
+}

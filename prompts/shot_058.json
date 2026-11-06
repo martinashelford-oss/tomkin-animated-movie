@@ -1,0 +1,23 @@
+{
+  "id": 58,
+  "key": "shot_058",
+  "chapter": 5,
+  "timecode_in": "08:58.00",
+  "timecode_out": "09:06.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "fortress_ext",
+  "characters": [
+    "bossbot"
+  ],
+  "reference_images": [
+    "bible/refs/bossbot.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a colossal four-storey brushed-steel filing cabinet floating in grey space like a tombstone, its large bottom drawer slightly ajar like a mouth caught open, side hatches and docking clamps. Lighting: cold, flat, grey fluorescent light.\nIn the shot: the Big Glitch-Bot, a towering grey filing-cabinet robot twice the size of the others, with a single large red sensor eye and one big square button in the centre of its chest.\nCamera: Low angle on the Big Glitch-Bot.\nAction: The Big Glitch-Bot floats forward, red eye blinking, its speaker-grille mouth flashing as it speaks.\nDialogue: The Big Glitch-Bot (deep, flat, booming monotone robotic voice, bit-crushed, utterly without joy, booming monotone) says: \"ATTENTION, UNREGISTERED VEHICLE. YOUR COLOUR SCHEME IS UNAUTHORISED. SUBMIT FOR RECOLOURING.\"\nSound effects: feedback squeal, servo whir, ambience of mechanical hum, servo whirs, distant dot-matrix printers.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M11",
+  "overlay": null
+}

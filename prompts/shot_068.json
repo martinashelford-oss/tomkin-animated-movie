@@ -1,0 +1,24 @@
+{
+  "id": 68,
+  "key": "shot_068",
+  "chapter": 6,
+  "timecode_in": "10:44.00",
+  "timecode_out": "10:52.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "fortress_corridor",
+  "characters": [
+    "duggie"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png",
+    "bible/refs/duggie_bubble.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: endless grey corridors lined with identical filing drawers, labelled shelving, grey pipes and ventilation shafts. Lighting: flat grey fluorescent strip lights.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation; a gleaming, garden-shed-sized, pressurised transparent bubble with a faint pink rose-tinted shimmer and drifting rose petals inside, strapped to the Tomkin-Mobile's roof rack.\nCamera: Low tracking shot down the corridor.\nAction: The bubble pops open at the docking hatch and Duggie launches down the grey corridor in fast mode, a golden blur leaving muddy pawprints.\nNo dialogue.\nSound effects: bubble pop, skittering claws, excited barks, ambience of humming fluorescents, typewriter clacks, servo whirs.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M13",
+  "overlay": null
+}

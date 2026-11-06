@@ -1,0 +1,26 @@
+{
+  "id": 59,
+  "key": "shot_059",
+  "chapter": 5,
+  "timecode_in": "09:06.00",
+  "timecode_out": "09:14.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "fortress_ext",
+  "characters": [
+    "bossbot",
+    "duggie"
+  ],
+  "reference_images": [
+    "bible/refs/bossbot.png",
+    "bible/refs/duggie.png",
+    "bible/refs/tomkin_mobile.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a colossal four-storey brushed-steel filing cabinet floating in grey space like a tombstone, its large bottom drawer slightly ajar like a mouth caught open, side hatches and docking clamps. Lighting: cold, flat, grey fluorescent light.\nIn the shot: the Big Glitch-Bot, a towering grey filing-cabinet robot twice the size of the others, with a single large red sensor eye and one big square button in the centre of its chest; Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation; the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the armoured bulk of a naval battleship, mirror-polished chrome and copper panels, retractable feathered metal wings that fold like a barn owl's, a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top; a gleaming, garden-shed-sized, pressurised transparent bubble with a faint pink rose-tinted shimmer and drifting rose petals inside, strapped to the Tomkin-Mobile's roof rack.\nCamera: Bot in foreground, Duggie wagging in his bubble behind.\nAction: The Big Glitch-Bot holds up three grey paint swatches; behind it, on the car roof, Duggie wags happily in his bubble.\nDialogue: The Big Glitch-Bot (deep, flat, booming monotone robotic voice, bit-crushed, utterly without joy, booming monotone) says: \"AVAILABLE SHADES: BEIGE, LIGHT OATMEAL, AND SLIGHTLY LESS BEIGE.\"\nSound effects: swatch flip clacks, muffled happy barking, ambience of mechanical hum, servo whirs, distant dot-matrix printers.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M11",
+  "overlay": null
+}

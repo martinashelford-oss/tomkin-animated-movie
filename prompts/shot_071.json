@@ -1,0 +1,23 @@
+{
+  "id": 71,
+  "key": "shot_071",
+  "chapter": 6,
+  "timecode_in": "11:13.00",
+  "timecode_out": "11:21.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "squirrels"
+  ],
+  "reference_images": [
+    "bible/refs/squirrels.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: twelve small red squirrels with enormous bushy tails, wide anxious eyes, and the look of creatures absolutely ready to bite something.\nCamera: Push-in on the cage.\nAction: In a reinforced steel cage, twelve squirrels huddle, looking simultaneously anxious and absolutely ready to bite something.\nNo dialogue.\nSound effects: anxious chittering, cage rattle, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M13",
+  "overlay": null
+}

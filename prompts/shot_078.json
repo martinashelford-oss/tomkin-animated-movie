@@ -1,0 +1,23 @@
+{
+  "id": 78,
+  "key": "shot_078",
+  "chapter": 6,
+  "timecode_in": "12:16.00",
+  "timecode_out": "12:31.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "holly"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks.\nCamera: Close on Holly, then wide on the cage.\nAction: Holly screws up her face, concentrating very hard; her wand charges with pink light — KABOOM — a blinding pink flash fills the chamber.\nNo dialogue.\nSound effects: wand charging whine, KABOOM, magical shimmer, cosy chimney puff, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Princess Holly).\nAction: The light clears: the cage has become an exquisite gingerbread house with iced windows, a marzipan door, a roof of chocolate buttons and a chimney puffing cinnamon-scented steam.\nNo dialogue.\nSound effects continue: wand charging whine, KABOOM, magical shimmer, cosy chimney puff.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M15",
+  "overlay": null
+}

@@ -1,0 +1,162 @@
+# SCORE — 17 cues covering all 90 shots (no gaps, no overlaps; `make validate` checks).
+#
+# Video clips are generated WITHOUT music (see bible/style.yaml audio_rule), so the
+# score is laid in at assembly and automatically ducked under dialogue/SFX.
+#
+# Drop the finished cue files at audio/music/<id>.wav (or .mp3/.flac). Any
+# length works: short files loop, long files are trimmed, all get fades.
+# `prompt` is written for an AI music generator (e.g. Google Lyria, Suno, Udio)
+# or as a brief for a composer / library search. Keep the main theme recurring.
+
+theme: >-
+  Main theme: a jaunty, heroic 6/8 sea-shanty melody for French horn and
+  strings, with glockenspiel "Wi-Fi sparkles" and a purring low-synth motif
+  for Tomkin; bright, cinematic, family adventure-comedy.
+
+cues:
+- id: M01
+  title: "Main Title — The Tippy-Toe of the World"
+  shots: [1, 3]
+  gain_db: -2
+  prompt: >-
+    Sweeping orchestral main title, 6/8 sea-shanty theme on French horns over
+    rolling strings and harp, glockenspiel sparkles, gulls-like woodwind
+    flourishes, grand and whimsical, ends on a soft held chord. Instrumental.
+
+- id: M02
+  title: "Tomkin's Workshop"
+  shots: [4, 12]
+  gain_db: -6
+  prompt: >-
+    Quirky comedic underscore: pizzicato strings, harpsichord, bubbly synth
+    bleeps and a bassoon, clockwork tick percussion, playful and mischievous,
+    light enough to sit under dialogue. Instrumental.
+
+- id: M03
+  title: "The Tomkin-Mobile"
+  shots: [13, 14]
+  gain_db: -5
+  prompt: >-
+    Sleek, cool spy-car groove: brushed drums, purring analogue synth bass,
+    twangy surf guitar, a muted trumpet quoting the main theme. Instrumental.
+
+- id: M04
+  title: "Class Four Hazard"
+  shots: [15, 19]
+  gain_db: -6
+  prompt: >-
+    Comic alarm-driven suspense: staccato brass stabs, frantic xylophone,
+    rising string tremolos, a tuba "stink" motif, cartoon tension. Instrumental.
+
+- id: M05
+  title: "Duggie's Two Speeds"
+  shots: [20, 26]
+  gain_db: -7
+  prompt: >-
+    Comedy cue alternating between a frantic ragtime piano gallop and a
+    massively slowed-down, dreamy tuba-and-strings version of the same tune,
+    with tape-stop effects between them. Instrumental.
+
+- id: M06
+  title: "Sparkle Pop"
+  shots: [27, 31]
+  gain_db: -7
+  prompt: >-
+    Twinkling fairy-tale cue: celesta, harp glissandi, piccolo and a cheeky
+    kazoo-like oboe, sweet and bouncy, builds to a magical sting. Instrumental.
+
+- id: M07
+  title: "Jelly Fallout"
+  shots: [32, 38]
+  gain_db: -8
+  prompt: >-
+    Mock-tragic comedy underscore: low timpani rumble, melodramatic cello,
+    deflating trombone slides, a wobbly theremin-like synth for the jelly,
+    sparse so dialogue sits on top. Instrumental.
+
+- id: M08
+  title: "The Mission"
+  shots: [39, 48]
+  gain_db: -7
+  prompt: >-
+    Building adventure march: snare drum, low strings ostinato, the main theme
+    stated boldly on horns, growing in confidence, playful woodwind asides.
+    Instrumental.
+
+- id: M09
+  title: "Meow-Drive Launch"
+  shots: [49, 52]
+  gain_db: -3
+  prompt: >-
+    Full-throttle orchestral action launch: huge brass, pounding taiko and
+    orchestral percussion, choir "ahh", a deep purring synth drone, soaring
+    main theme as the ship breaks into space, ending in awed quiet. Instrumental.
+
+- id: M10
+  title: "The Neon Nebula"
+  shots: [53, 56]
+  gain_db: -5
+  prompt: >-
+    Shimmering cosmic wonder: glassy synth pads, choir, harp, bright and
+    colourful — then gradually drained of colour, ending on a single flat,
+    beige-sounding clarinet note. Instrumental.
+
+- id: M11
+  title: "Efficiency Station Prime"
+  shots: [57, 60]
+  gain_db: -7
+  prompt: >-
+    Mechanical bureaucratic villain march: typewriter and filing-drawer
+    percussion, rigid monotone bass clarinet, robotic synth arpeggios, comic
+    menace. Instrumental.
+
+- id: M12
+  title: "Salmon-Sling & the Feet of Perpetual Tickling"
+  shots: [61, 67]
+  gain_db: -5
+  prompt: >-
+    Swashbuckling action-comedy: brass fanfares, galloping strings, cymbal
+    crashes, a giggling woodwind motif for the tickling spell, heroic and
+    silly. Instrumental.
+
+- id: M13
+  title: "Into the Fortress"
+  shots: [68, 72]
+  gain_db: -6
+  prompt: >-
+    Tense driving action: low string ostinato, taut percussion, mechanical
+    ticking, building suspense with stabs. Instrumental.
+
+- id: M14
+  title: "Duggie's Slow-Motion Stand"
+  shots: [73, 77]
+  gain_db: -4
+  prompt: >-
+    Epic slow-motion heroism: broad, slow strings and choir, deep timpani
+    hits, the main theme played very slowly and nobly, emotional swell.
+    Instrumental.
+
+- id: M15
+  title: "A Cage Becomes Gingerbread"
+  shots: [78, 80]
+  gain_db: -6
+  prompt: >-
+    Triumphant whimsical waltz: sleigh bells, celesta, pizzicato and warm
+    horns, sweet and silly, celebratory. Instrumental.
+
+- id: M16
+  title: "Homeward"
+  shots: [81, 85]
+  gain_db: -7
+  prompt: >-
+    Warm, light travelling music: acoustic guitar, strings and flute, gentle
+    version of the main theme, cosy and contented. Instrumental.
+
+- id: M17
+  title: "Every Bowl Full (End Title)"
+  shots: [86, 90]
+  gain_db: -7
+  prompt: >-
+    Tender, heart-warming reprise of the main theme on solo piano and strings
+    under the dinner scene, swelling to a full, joyful orchestral finale for
+    the final pull-back and "The End". Instrumental.

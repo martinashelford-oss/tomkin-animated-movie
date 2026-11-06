@@ -1,0 +1,23 @@
+{
+  "id": 76,
+  "key": "shot_076",
+  "chapter": 6,
+  "timecode_in": "12:00.00",
+  "timecode_out": "12:08.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Quiet close-up on Marvel, soft light.\nAction: Marvel watches, genuinely moved, a single tear gathering in his eye.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, quiet, sincere, not performing) says: \"Marvel is unexpectedly moved. The dog's slow heroism is more dignified than his own fast running away.\"\nSound effects: soft wind, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M14",
+  "overlay": null
+}

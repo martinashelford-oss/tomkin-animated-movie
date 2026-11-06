@@ -1,0 +1,23 @@
+{
+  "id": 28,
+  "key": "shot_028",
+  "chapter": 3,
+  "timecode_in": "04:13.00",
+  "timecode_out": "04:28.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "ben"
+  ],
+  "reference_images": [
+    "bible/refs/ben.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card.\nCamera: Low-angle close-up making tiny Ben look heroic.\nAction: Ben Elf strides forward and thrusts out his laminated official ID card, chest puffed out, belt of horns jangling.\nDialogue: Ben Elf (high-pitched, chipper, officious little male voice, delighted by everything, speaking in excited exclamations, proud exclamations) says: \"I'm an Elf! On an official Elfin Rescue Mission! The Elf Council sent me — personally, the best one!\"\nSound effects: jangling horns, card flourish, bright brass horn toot, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Ben Elf).\nAction: Ben gazes up at the towering lighthouse, nods approvingly, then blows his little brass horn in celebration.\nDialogue: Ben Elf (high-pitched, chipper, officious little male voice, delighted by everything, speaking in excited exclamations, delighted) says: \"'Lighthouse' is exactly the right number of syllables! ELF ALERT!\"\nSound effects continue: jangling horns, card flourish, bright brass horn toot.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M06",
+  "overlay": null
+}

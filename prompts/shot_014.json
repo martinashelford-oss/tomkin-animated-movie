@@ -1,0 +1,28 @@
+{
+  "id": 14,
+  "key": "shot_014",
+  "chapter": 2,
+  "timecode_in": "02:02.00",
+  "timecode_out": "02:10.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "cockpit",
+  "characters": [
+    "tomkin"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the Tomkin-Mobile's luxurious leather cockpit, a dazzling dashboard of switches, dials and glowing screens, a precision-engineered cup-holder bay lined with a tiny cushion, back seats, and a windscreen. Lighting: glowing dashboard light, flickering exterior light.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets.\nCamera: Close-up of the dashboard, then the cup-holder.\nAction: The dashboard boots up with a satisfied purr and a blank screen glows warmly. A gyro-stabilised cup-holder rotates into view holding a bowl of cold-pressed sardines with mint-choc-chip swirl, perfectly level.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, proud) says: \"Four months on the cup-holder. The most important four months of my career.\"\nSound effects: purring start-up chime, gyroscope whirr, ambience of purring engine, beeps and chimes.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M03",
+  "overlay": {
+    "text": "PURR-OS 12",
+    "start": 1,
+    "end": 4,
+    "style": "screen"
+  }
+}

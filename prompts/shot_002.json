@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "key": "shot_002",
+  "chapter": 1,
+  "timecode_in": "00:15.00",
+  "timecode_out": "00:23.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "forgotten_sea",
+  "characters": [
+    "dolphins"
+  ],
+  "reference_images": [],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a glittering turquoise ocean offshore from the lighthouse, with soft rings of Wi-Fi light rippling across the waves. Lighting: dreamy twilight, glowing reflections.\nIn the shot: a pod of sleek, friendly grey dolphins with contented dreamy smiles.\nCamera: Medium wide at water level, slow tracking.\nAction: Three leagues offshore, dolphins drift asleep at the surface; glowing Wi-Fi rings from the distant lighthouse ripple over them and tiny dreamy nature-documentary images flicker in bubbles above their heads. One dolphin smiles contentedly in its sleep.\nNo dialogue.\nSound effects: gentle waves, sleepy dolphin clicks, soft digital shimmer, ambience of gentle waves, dolphin clicks, a soft digital shimmer.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M01",
+  "overlay": null
+}

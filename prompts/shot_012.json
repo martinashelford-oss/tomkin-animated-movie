@@ -1,0 +1,25 @@
+{
+  "id": 12,
+  "key": "shot_012",
+  "chapter": 1,
+  "timecode_in": "01:46.00",
+  "timecode_out": "01:54.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "lighthouse_ext",
+  "characters": [
+    "tomkin",
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png",
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a magnificent lighthouse of reinforced titanium wrapped in sea-polished copper, perched on the very tip of a jagged cliff at the edge of the world, a bristling antenna array on top beaming both a sweeping warning light and shimmering visible rings of Wi-Fi out over the Forgotten Sea; beyond the horizon a swirling, impossible pastel haze of the Unknown World. Lighting: golden dawn light, sea spray, dramatic sky.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Continuous pull back from a porthole window to a wide of the lighthouse.\nAction: Through the round porthole window we see Tomkin still lecturing and Marvel serenely sipping cold tea — a cosmically mismatched pair — then the camera pulls back and up until the whole lighthouse glints on the tip of its cliff in the morning sun, gulls wheeling.\nNo dialogue.\nSound effects: muffled lecturing, gulls, waves, ambience of crashing waves, gulls, sea wind, the low electric hum of the beacon.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M02",
+  "overlay": null
+}

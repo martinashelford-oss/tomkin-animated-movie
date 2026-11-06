@@ -1,0 +1,25 @@
+{
+  "id": 72,
+  "key": "shot_072",
+  "chapter": 6,
+  "timecode_in": "11:21.00",
+  "timecode_out": "11:29.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "glitchbots",
+    "bossbot"
+  ],
+  "reference_images": [
+    "bible/refs/glitchbots.png",
+    "bible/refs/bossbot.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small filing cabinets on stubby metal legs, each with a small speaker grille for a mouth, a single blinking red sensor eye, and a chest panel covered in rows of grey buttons; they move stiffly in rigid formation; the Big Glitch-Bot, a towering grey filing-cabinet robot twice the size of the others, with a single large red sensor eye and one big square button in the centre of its chest.\nCamera: Wide, Bots advancing in formation.\nAction: Seventeen regrouped Glitch-Bots march out of the far wall in perfect formation, holding out forms and clipboards, stamping in unison as they advance on the heroes.\nDialogue: The Big Glitch-Bot (deep, flat, booming monotone robotic voice, bit-crushed, utterly without joy, booming monotone) says: \"FORMS MUST BE COMPLETED IN TRIPLICATE.\"\nSound effects: stomping in unison, paper rustle, stamping, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M13",
+  "overlay": null
+}

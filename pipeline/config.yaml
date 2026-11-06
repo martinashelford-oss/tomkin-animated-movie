@@ -1,0 +1,55 @@
+# Pipeline configuration.
+
+project:
+  title: "Tomkin and the Lighthouse Leviathan"
+  target_shots: 90
+  target_seconds: 900          # 15:00
+
+output:
+  width: 1920
+  height: 1080
+  fps: 24
+  video_crf: 18
+  audio_rate: 48000
+  loudness_lufs: -16           # streaming/web target; use -24 for broadcast
+  final_path: output/tomkin_and_the_lighthouse_leviathan.mp4
+
+assembly:
+  chapter_cards: true          # lower-third chapter title on the first shot of each chapter
+  chapter_card_seconds: 4
+  music_duck: {threshold: 0.03, ratio: 8, attack: 20, release: 450}
+  music_fade_in: 1.0
+  music_fade_out: 2.0
+
+# ───────────── Video generation (Google Veo 3.1 via the Gemini API) ─────────────
+veo:
+  # Model IDs change — confirm at https://ai.google.dev/gemini-api/docs/veo before spending.
+  models:
+    standard: veo-3.1-generate-preview
+    fast: veo-3.1-fast-generate-preview
+    lite: veo-3.1-lite-generate-preview
+  base_seconds: 8              # Veo 3.1 base clip length
+  extend_seconds: 7            # each extension adds 7 s (extension needs 720p input, not on Lite)
+  aspect_ratio: "16:9"
+  resolution: "720p"           # 720p everywhere: required for extension; upscaled to 1080p at assembly
+  generate_audio: true         # Veo's native dialogue + SFX with lip-sync
+  max_reference_images: 3
+  poll_seconds: 10
+
+  # USD per generated second, with audio. Third-party summaries of Google's
+  # price list as of Oct 2026 — VERIFY at https://ai.google.dev/gemini-api/docs/pricing
+  pricing_checked: "2026-10 (third-party summaries; verify before spending)"
+  price_per_second:
+    standard: {"720p": 0.40, "1080p": 0.40, "4k": 0.60}
+    fast:     {"720p": 0.10, "1080p": 0.12, "4k": 0.30}
+    lite:     {"720p": 0.05, "1080p": 0.08}
+
+# Character reference sheets (image model) used as Veo reference images.
+images:
+  model: gemini-2.5-flash-image  # confirm current image model ID before spending
+  est_usd_per_image: 0.04        # rough; verify on the pricing page
+
+# Hard spending guard rails. `generate` refuses to run without --confirm-spend
+# and refuses any batch whose estimate exceeds --max-usd.
+budget:
+  ledger: renders/ledger.jsonl

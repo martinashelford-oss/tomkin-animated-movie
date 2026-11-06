@@ -1,0 +1,31 @@
+{
+  "id": 89,
+  "key": "shot_089",
+  "chapter": 7,
+  "timecode_in": "14:30.00",
+  "timecode_out": "14:45.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "kitchen_evening",
+  "characters": [
+    "duggie",
+    "tomkin",
+    "marvel",
+    "holly",
+    "ben",
+    "squirrels",
+    "gary"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png",
+    "bible/refs/tomkin.png",
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the same cosy circular copper kitchen-laboratory, now crowded and cheerful, the mirror-polished table laid for dinner, squirrels perched on shelves and in Marvel's hat. Lighting: warm golden lamplight, the lighthouse beam sweeping past the windows.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation; Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff; Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card; twelve small red squirrels with enormous bushy tails, wide anxious eyes, and the look of creatures absolutely ready to bite something; Gary, a tiny cartoon housefly with big shiny compound eyes, smug self-satisfied angled wings, pulling a minuscule wheeled suitcase.\nCamera: Duggie in the window, then a slow pan across everyone staring.\nAction: Duggie's huge face squashes against the window, begging at hyper speed; Tomkin wraps his arms around his bowl.\nDialogue: Duggie (goofy, warm, slightly gravelly young male voice; in FAST mode a breathless machine-gun stutter of words; in SLOW mode a deep, stretched, slowed-down drawl as if recorded at quarter speed, FAST mode, muffled by glass) says: \"CAN I HAVE SOME I SAVED SQUIRRELS CAN GARY HAVE SOME!\" Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, possessive) says: \"No one is having any. Every single scoop. Mine.\"\nSound effects: nose squeak on glass, long heavy sigh, ambience of cosy crackle, distant waves, contented chatter.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Duggie, Tomkin, Marvel the Wizard, Princess Holly, Ben Elf, The Twelve Squirrels, Gary the Fly).\nAction: Silence. Marvel, Holly, Ben, Duggie, twelve squirrels and Gary all stare at Tomkin. Tomkin stares back — then sighs the sigh of a defeated cat.\nNo dialogue.\nSound effects continue: nose squeak on glass, long heavy sigh.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M17",
+  "overlay": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": 26,
+  "key": "shot_026",
+  "chapter": 2,
+  "timecode_in": "03:57.00",
+  "timecode_out": "04:05.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "gary",
+    "tomkin"
+  ],
+  "reference_images": [
+    "bible/refs/gary.png",
+    "bible/refs/tomkin.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Gary, a tiny cartoon housefly with big shiny compound eyes, smug self-satisfied angled wings, pulling a minuscule wheeled suitcase; Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets.\nCamera: Macro close-up on Gary, Tomkin out of focus behind.\nAction: Gary, perched on his tiny suitcase, cheerfully waves one tiny leg at the camera. Behind him, out of focus, Tomkin face-palms.\nNo dialogue.\nSound effects: tiny smug buzz, face-palm slap, groan, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M05",
+  "overlay": null
+}

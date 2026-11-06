@@ -1,0 +1,23 @@
+{
+  "id": 56,
+  "key": "shot_056",
+  "chapter": 5,
+  "timecode_in": "08:42.00",
+  "timecode_out": "08:50.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "cockpit",
+  "characters": [
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the Tomkin-Mobile's luxurious leather cockpit, a dazzling dashboard of switches, dials and glowing screens, a precision-engineered cup-holder bay lined with a tiny cushion, back seats, and a windscreen. Lighting: glowing dashboard light, flickering exterior light.\nIn the shot: Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Close on Marvel peering out.\nAction: Marvel leans forward between the seats, squinting at the half-open bottom drawer of the fortress, and gives a small shiver.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, hushed narration) says: \"Marvel notes that the bottom drawer is open. He finds this the most unsettling detail.\"\nSound effects: ominous low creak from outside, ambience of purring engine, beeps and chimes.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M10",
+  "overlay": null
+}

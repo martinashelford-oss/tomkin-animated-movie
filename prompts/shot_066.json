@@ -1,0 +1,26 @@
+{
+  "id": 66,
+  "key": "shot_066",
+  "chapter": 5,
+  "timecode_in": "10:16.00",
+  "timecode_out": "10:29.00",
+  "duration": 13,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "fortress_ext",
+  "characters": [
+    "glitchbots",
+    "ben"
+  ],
+  "reference_images": [
+    "bible/refs/glitchbots.png",
+    "bible/refs/ben.png",
+    "bible/refs/tomkin_mobile.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a colossal four-storey brushed-steel filing cabinet floating in grey space like a tombstone, its large bottom drawer slightly ajar like a mouth caught open, side hatches and docking clamps. Lighting: cold, flat, grey fluorescent light.\nIn the shot: the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small filing cabinets on stubby metal legs, each with a small speaker grille for a mouth, a single blinking red sensor eye, and a chest panel covered in rows of grey buttons; they move stiffly in rigid formation; Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card; the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the armoured bulk of a naval battleship, mirror-polished chrome and copper panels, retractable feathered metal wings that fold like a barn owl's, a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top.\nCamera: Wide chaos shot, then Ben on the car bonnet.\nAction: Glitch-Bots topple over laughing, filing complaints against the ground, one frantically rifling a drawer for a form for laughter and finding none.\nNo dialogue.\nSound effects: clattering robots, robotic laughter, drawers slamming, heroic horn blast, ambience of mechanical hum, servo whirs, distant dot-matrix printers.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (The Grumpy Glitch-Bots, Ben Elf).\nAction: Tiny Ben leaps onto the car bonnet, raises his horn like a battle-cry and blows it mightily.\nDialogue: Ben Elf (high-pitched, chipper, officious little male voice, delighted by everything, speaking in excited exclamations, battle cry) says: \"FOR THE ELF COUNCIL! AND FOR SQUIRRELS EVERYWHERE! TOOOOOT!\"\nSound effects continue: clattering robots, robotic laughter, drawers slamming, heroic horn blast.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M12",
+  "overlay": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": 84,
+  "key": "shot_084",
+  "chapter": 7,
+  "timecode_in": "13:31.00",
+  "timecode_out": "13:40.00",
+  "duration": 9,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "lighthouse_ext",
+  "characters": [
+    "squirrels"
+  ],
+  "reference_images": [
+    "bible/refs/squirrels.png",
+    "bible/refs/tomkin_mobile.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a magnificent lighthouse of reinforced titanium wrapped in sea-polished copper, perched on the very tip of a jagged cliff at the edge of the world, a bristling antenna array on top beaming both a sweeping warning light and shimmering visible rings of Wi-Fi out over the Forgotten Sea; beyond the horizon a swirling, impossible pastel haze of the Unknown World. Lighting: golden dawn light, sea spray, dramatic sky.\nIn the shot: twelve small red squirrels with enormous bushy tails, wide anxious eyes, and the look of creatures absolutely ready to bite something; the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the armoured bulk of a naval battleship, mirror-polished chrome and copper panels, retractable feathered metal wings that fold like a barn owl's, a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top.\nCamera: Wide landing shot at the lighthouse.\nAction: The Tomkin-Mobile glides down and lands beside the lighthouse in a puff of lavender bubbles; the door opens and twelve squirrels pour out.\nNo dialogue.\nSound effects: landing thud, bubble pops, squirrel scampering and surprised squeaks, ambience of crashing waves, gulls, sea wind, the low electric hum of the beacon.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (The Twelve Squirrels).\nAction: The squirrels scamper up everything — the lighthouse, the car, Duggie — each looking surprised to discover what it has climbed.\nNo dialogue.\nSound effects continue: landing thud, bubble pops, squirrel scampering and surprised squeaks.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M16",
+  "overlay": null
+}

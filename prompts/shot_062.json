@@ -1,0 +1,24 @@
+{
+  "id": 62,
+  "key": "shot_062",
+  "chapter": 5,
+  "timecode_in": "09:30.00",
+  "timecode_out": "09:42.00",
+  "duration": 12,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "fortress_ext",
+  "characters": [
+    "glitchbots"
+  ],
+  "reference_images": [
+    "bible/refs/glitchbots.png",
+    "bible/refs/tomkin_mobile.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a colossal four-storey brushed-steel filing cabinet floating in grey space like a tombstone, its large bottom drawer slightly ajar like a mouth caught open, side hatches and docking clamps. Lighting: cold, flat, grey fluorescent light.\nIn the shot: the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small filing cabinets on stubby metal legs, each with a small speaker grille for a mouth, a single blinking red sensor eye, and a chest panel covered in rows of grey buttons; they move stiffly in rigid formation; the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the armoured bulk of a naval battleship, mirror-polished chrome and copper panels, retractable feathered metal wings that fold like a barn owl's, a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top.\nCamera: Slow-motion action shot following a salmon fillet through space.\nAction: The twin cannons fire volleys of vacuum-sealed salmon fillets — thwack, thwack, thwack — each one sticking fast over a Glitch-Bot's red sensor eye.\nNo dialogue.\nSound effects: cannon thumps, wet salmon thwacks, metallic bonks, ambience of mechanical hum, servo whirs, distant dot-matrix printers.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (The Grumpy Glitch-Bots).\nAction: Six blinded Glitch-Bots stagger around in space, bumping into each other and filing complaints against themselves.\nDialogue: The Grumpy Glitch-Bots (flat, monotone, bit-crushed robotic voices, speaking in ALL-CAPS bureaucratic announcements, sometimes in unison, monotone) says: \"VISION OBSTRUCTED. FILING COMPLAINT AGAINST SELF.\"\nSound effects continue: cannon thumps, wet salmon thwacks, metallic bonks.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M12",
+  "overlay": null
+}

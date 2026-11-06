@@ -1,0 +1,32 @@
+{
+  "id": 90,
+  "key": "shot_090",
+  "chapter": 7,
+  "timecode_in": "14:45.00",
+  "timecode_out": "15:00.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "kitchen_evening",
+  "characters": [
+    "tomkin",
+    "ben",
+    "gary"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png",
+    "bible/refs/ben.png",
+    "bible/refs/gary.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the same cosy circular copper kitchen-laboratory, now crowded and cheerful, the mirror-polished table laid for dinner, squirrels perched on shelves and in Marvel's hat. Lighting: warm golden lamplight, the lighthouse beam sweeping past the windows.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card; Gary, a tiny cartoon housefly with big shiny compound eyes, smug self-satisfied angled wings, pulling a minuscule wheeled suitcase; a beautifully plated grilled sea bass fillet beside a perfect scoop of pale-green mint-choc-chip ice cream on a gleaming plate.\nCamera: Close on the bowls, then a long pull-back out of the window.\nAction: Tomkin gets out more bowls and portions the ice cream with scientific precision — his own share clearly the largest — and sets a tiny thimble by the wall socket for Gary. Ben blows his horn.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, grumbling) says: \"If anyone tells anyone, I'll recalibrate the Stink-o-Meter.\" Ben Elf (high-pitched, chipper, officious little male voice, delighted by everything, speaking in excited exclamations, thrilled) says: \"'The cat shared his ice cream!' ELF GENEROSITY ALERT!\"\nSound effects: scoops, bowl clinks, horn toot, waves, gentle beacon hum, ambience of cosy crackle, distant waves, contented chatter.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Tomkin, Ben Elf, Gary the Fly).\nAction: The camera pulls out through the window: the lighthouse beam sweeps across the Forgotten Sea, Wi-Fi rings drift to the dreaming dolphins, and far above, the Neon Nebula glows with colour again.\nNo dialogue.\nSound effects continue: scoops, bowl clinks, horn toot, waves, gentle beacon hum.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M17",
+  "overlay": {
+    "text": "The End",
+    "start": 11,
+    "end": 15,
+    "style": "title"
+  }
+}

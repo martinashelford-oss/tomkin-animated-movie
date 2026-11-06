@@ -1,0 +1,25 @@
+{
+  "id": 82,
+  "key": "shot_082",
+  "chapter": 7,
+  "timecode_in": "13:08.00",
+  "timecode_out": "13:16.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "cockpit",
+  "characters": [
+    "tomkin",
+    "squirrels"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png",
+    "bible/refs/squirrels.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the Tomkin-Mobile's luxurious leather cockpit, a dazzling dashboard of switches, dials and glowing screens, a precision-engineered cup-holder bay lined with a tiny cushion, back seats, and a windscreen. Lighting: glowing dashboard light, flickering exterior light.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; twelve small red squirrels with enormous bushy tails, wide anxious eyes, and the look of creatures absolutely ready to bite something.\nCamera: Tomkin's eyes flick up to the ceiling.\nAction: A tower of squirrels standing on each other's shoulders touches the hand-lacquered ceiling panel. Tomkin's eye twitches.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, strained) says: \"It is not fine, Marvel. That ceiling panel has four coats of marine-grade lacquer!\"\nSound effects: tiny squeak on lacquer, ambience of purring engine, beeps and chimes.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M16",
+  "overlay": null
+}

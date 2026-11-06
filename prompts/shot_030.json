@@ -1,0 +1,26 @@
+{
+  "id": 30,
+  "key": "shot_030",
+  "chapter": 3,
+  "timecode_in": "04:36.00",
+  "timecode_out": "04:44.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "garage_bay",
+  "characters": [
+    "holly",
+    "tomkin"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png",
+    "bible/refs/tomkin.png",
+    "bible/refs/sardine_scanner.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a gleaming high-tech garage bay at the base of the lighthouse, tool walls, hoses, polishing cloths, a circular launch hatch in the floor. Lighting: cool workshop spotlights with copper reflections.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; the Sardine-Scanner, an elaborate brass-and-glass tracking instrument with spinning dials, a radar dish and small glowing screens showing swimming fish silhouettes.\nCamera: Medium shot, Holly flying in toward the console.\nAction: Holly flutters into the garage toward Tomkin, who stands protectively by his gleaming Sardine-Scanner. Her wand fizzes more and more as she talks.\nDialogue: Princess Holly (soft, sweet, gentle young female voice, kind and nervous, apologising quickly, words tumbling out, friendly, nervous, trailing off) says: \"Hello, cat! I like your — your machine, it's very —\"\nSound effects: fizzing wand, Sardine-Scanner beeps, ambience of echoing garage, the hum of machinery.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M06",
+  "overlay": null
+}

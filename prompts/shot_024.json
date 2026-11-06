@@ -1,0 +1,27 @@
+{
+  "id": 24,
+  "key": "shot_024",
+  "chapter": 2,
+  "timecode_in": "03:36.00",
+  "timecode_out": "03:49.00",
+  "duration": 13,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "duggie",
+    "glitchbots",
+    "squirrels"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png",
+    "bible/refs/glitchbots.png",
+    "bible/refs/squirrels.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation; the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small filing cabinets on stubby metal legs, each with a small speaker grille for a mouth, a single blinking red sensor eye, and a chest panel covered in rows of grey buttons; they move stiffly in rigid formation; twelve small red squirrels with enormous bushy tails, wide anxious eyes, and the look of creatures absolutely ready to bite something.\nCamera: Close on Duggie, then a stylised flashback.\nAction: Duggie snaps back to fast mode and as he babbles, a desaturated storybook flashback appears: a big grey spaceship shaped like a filing cabinet beams twelve squirrels up off the cliff.\nDialogue: Duggie (goofy, warm, slightly gravelly young male voice; in FAST mode a breathless machine-gun stutter of words; in SLOW mode a deep, stretched, slowed-down drawl as if recorded at quarter speed, FAST mode) says: \"THE GRUMPY GLITCH BOTS TOOK THEM! A big grey ship shaped like a FILING CABINET!\"\nSound effects: tractor-beam hum, squirrel squeaks, dusting swishes, server beeps, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Duggie, The Grumpy Glitch-Bots, The Twelve Squirrels).\nAction: The flashback shows grey Glitch-Bots using the squirrels' bushy tails as feather-dusters on rows of blinking computer servers.\nDialogue: Duggie (goofy, warm, slightly gravelly young male voice; in FAST mode a breathless machine-gun stutter of words; in SLOW mode a deep, stretched, slowed-down drawl as if recorded at quarter speed, FAST mode) says: \"They said the tails were UNAUTHORIZED FLUFFINESS to dust their SERVERS!\"\nSound effects continue: tractor-beam hum, squirrel squeaks, dusting swishes, server beeps.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M05",
+  "overlay": null
+}

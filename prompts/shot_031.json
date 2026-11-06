@@ -1,0 +1,24 @@
+{
+  "id": 31,
+  "key": "shot_031",
+  "chapter": 3,
+  "timecode_in": "04:44.00",
+  "timecode_out": "04:52.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "garage_bay",
+  "characters": [
+    "holly"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png",
+    "bible/refs/sardine_scanner.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a gleaming high-tech garage bay at the base of the lighthouse, tool walls, hoses, polishing cloths, a circular launch hatch in the floor. Lighting: cool workshop spotlights with copper reflections.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; the Sardine-Scanner, an elaborate brass-and-glass tracking instrument with spinning dials, a radar dish and small glowing screens showing swimming fish silhouettes.\nCamera: Close-up on the Sardine-Scanner.\nAction: ZAP! A pink bolt leaps from Holly's wand; in a burst of sparkles the Sardine-Scanner transforms into a large wobbling pile of pink strawberry jelly on the console.\nNo dialogue.\nSound effects: decisive magical ZAP, transformation shimmer, wobbly jelly boing, ambience of echoing garage, the hum of machinery.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M06",
+  "overlay": null
+}

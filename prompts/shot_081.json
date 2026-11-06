@@ -1,0 +1,28 @@
+{
+  "id": 81,
+  "key": "shot_081",
+  "chapter": 7,
+  "timecode_in": "12:56.00",
+  "timecode_out": "13:08.00",
+  "duration": 12,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "cockpit",
+  "characters": [
+    "marvel",
+    "squirrels",
+    "holly",
+    "ben"
+  ],
+  "reference_images": [
+    "bible/refs/marvel.png",
+    "bible/refs/squirrels.png",
+    "bible/refs/holly.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the Tomkin-Mobile's luxurious leather cockpit, a dazzling dashboard of switches, dials and glowing screens, a precision-engineered cup-holder bay lined with a tiny cushion, back seats, and a windscreen. Lighting: glowing dashboard light, flickering exterior light.\nIn the shot: Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff; twelve small red squirrels with enormous bushy tails, wide anxious eyes, and the look of creatures absolutely ready to bite something; Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card.\nCamera: Wide interior of the crowded cockpit.\nAction: Flying home, the cockpit is crammed with twelve squirrels building a fort out of Marvel's spare scrolls and the contents of Ben's pockets. Marvel surveys the chaos mournfully.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, mournful narration) says: \"Marvel surveys the interior. Twelve squirrels, a fairy, an elf, and a persistent smell.\"\nSound effects: squirrel chatter, scroll rustling, trampoline boings, ambience of purring engine, beeps and chimes.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Marvel the Wizard, The Twelve Squirrels, Princess Holly, Ben Elf).\nAction: Through the windscreen we see squirrels bouncing on the deflated bubble like a trampoline as Duggie rides on the roof, ears flapping.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, mournful narration) says: \"Marvel decides this is probably fine.\"\nSound effects continue: squirrel chatter, scroll rustling, trampoline boings.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M16",
+  "overlay": null
+}

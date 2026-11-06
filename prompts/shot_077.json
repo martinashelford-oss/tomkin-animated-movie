@@ -1,0 +1,25 @@
+{
+  "id": 77,
+  "key": "shot_077",
+  "chapter": 6,
+  "timecode_in": "12:08.00",
+  "timecode_out": "12:16.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "holly",
+    "tomkin"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png",
+    "bible/refs/tomkin.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets.\nCamera: Two-shot, Holly raising her wand, Tomkin pleading.\nAction: Holly raises her wand with determination; Tomkin clasps his paws, pleading, pointing urgently at the cage.\nDialogue: Princess Holly (soft, sweet, gentle young female voice, kind and nervous, apologising quickly, words tumbling out, determined) says: \"That's the bravest thing I've ever seen. This is a death-or-worse situation!\" Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, pleading) says: \"Aim at the cage. Just the cage!\"\nSound effects: wand charging, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M14",
+  "overlay": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": 85,
+  "key": "shot_085",
+  "chapter": 7,
+  "timecode_in": "13:40.00",
+  "timecode_out": "13:49.00",
+  "duration": 9,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "kitchen_evening",
+  "characters": [
+    "holly",
+    "ben",
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png",
+    "bible/refs/ben.png",
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the same cosy circular copper kitchen-laboratory, now crowded and cheerful, the mirror-polished table laid for dinner, squirrels perched on shelves and in Marvel's hat. Lighting: warm golden lamplight, the lighthouse beam sweeping past the windows.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks; Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card; Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Close on Holly and the kettle.\nAction: Holly concentrates hard and taps the kettle with her wand — it boils perfectly and does NOT turn into a lamp or a hat. She beams with pride.\nNo dialogue.\nSound effects: gentle wand ping, kettle whistle, horn toot, contented sigh, ambience of cosy crackle, distant waves, contented chatter.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Princess Holly, Ben Elf, Marvel the Wizard).\nAction: Ben blows his horn in her honour; Marvel takes a sip of actual hot tea and sighs with deep contentment.\nNo dialogue.\nSound effects continue: gentle wand ping, kettle whistle, horn toot, contented sigh.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M16",
+  "overlay": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 22,
+  "key": "shot_022",
+  "chapter": 2,
+  "timecode_in": "03:20.00",
+  "timecode_out": "03:28.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "tomkin"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets.\nCamera: Medium shot, Tomkin peeking out from the doorway with the peg on his nose.\nAction: Tomkin waves his arms at the slow-motion dog in exasperation, pacing on the spot.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, rapid, nasal, exasperated) says: \"At the speed of continental drift? They could be in another galaxy by the end of that sentence!\"\nSound effects: peg squeak, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M05",
+  "overlay": null
+}

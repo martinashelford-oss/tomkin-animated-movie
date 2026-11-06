@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+renders/
+output/
+# large audio deliverables live outside git (keep the folders)
+audio/music/*
+audio/dialogue/*
+audio/sfx/*
+!audio/*/.gitkeep

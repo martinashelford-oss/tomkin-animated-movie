@@ -1,0 +1,170 @@
+# CHARACTER & PROP BIBLE — locked descriptions.
+#
+# The `look` and `voice` strings are pasted VERBATIM into every AI video prompt
+# in which the character appears. Consistency across 90 shots depends on these
+# never drifting, so edit them here (and only here), then re-run `make build`.
+#
+# Canon facts come from the source story ("The Lighthouse at the Tippy-Toe of
+# the World", Google Drive doc `lighthouse-tale`). Details the story does NOT
+# specify (eye colours, Holly's tiara, exact sizes) are marked `# design choice`
+# and may be changed freely.
+
+characters:
+
+  tomkin:
+    name: Tomkin
+    role: Hero. Tabby cat genius — internet mogul, crypto-catnip trader, engineer, inventor.
+    look: >-
+      Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry,
+      with burnt-orange "artisanal copper" fur and darker copper tiger stripes,
+      bright emerald-green eyes, long expressive whiskers, a smug confident
+      half-smile, brass welding goggles pushed up on his forehead, and a
+      leather tool belt full of tiny gadgets
+    voice: >-
+      crisp, rapid-fire, precise male tenor with a clipped British accent;
+      superior, exasperated, always certain he is the only rational being in the room
+    traits: [insufferably confident, precise, fussy about upholstery, secretly soft-hearted]
+    # design choice: emerald eyes, goggles, tool belt
+
+  marvel:
+    name: Marvel the Wizard
+    role: Tomkin's ancient wizard housemate. Narrates his own actions in the third person under stress.
+    look: >-
+      Marvel, an ancient, kindly, slightly stooped wizard with a huge
+      floor-length grey beard tinged with patches of green moss, bushy
+      eyebrows, twinkling eyes, patchwork robes stitched from three different
+      historical eras (medieval velvet, Victorian brocade, 1970s paisley), an
+      absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a
+      gnarled wooden staff
+    voice: >-
+      deep, warm, sonorous elderly male voice with a theatrical storyteller's
+      cadence, slow and serene, narrating himself in the third person
+    traits: [serene, theatrical, curious, quietly wise]
+
+  duggie:
+    name: Duggie
+    role: Enormous Golden Retriever. Operates at only two speeds — blisteringly fast and extreme slow motion.
+    look: >-
+      Duggie, an enormous, lovable Golden Retriever with shining coin-gold
+      fur smeared with bog mud and river silt, one blade of grass stuck to his
+      head, extraordinarily long floppy ears that flap like wings, huge
+      soulful golden-brown eyes, a giant wagging tail, and a small swarm of
+      cartoon flies circling his head in tight synchronised formation
+    voice: >-
+      goofy, warm, slightly gravelly young male voice; in FAST mode a
+      breathless machine-gun stutter of words; in SLOW mode a deep, stretched,
+      slowed-down drawl as if recorded at quarter speed
+    traits: [joyful, smelly, brave, two speeds only, no indoor setting]
+
+  gary:
+    name: Gary the Fly
+    role: A housefly from Duggie's swarm who is determined to move into the lighthouse.
+    look: >-
+      Gary, a tiny cartoon housefly with big shiny compound eyes, smug
+      self-satisfied angled wings, pulling a minuscule wheeled suitcase
+    voice: >-
+      no words; only a tiny, self-satisfied buzz
+    traits: [territorial, property-developer energy, waves a tiny leg]
+
+  ben:
+    name: Ben Elf
+    role: Tiny, enormously confident elf on Official Elfin Rescue Mission. Counts words and syllables. Blows horns.
+    look: >-
+      Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed,
+      wearing a pointed green hat, a green jacket with eleven unnecessary
+      pockets, and a belt hung with a small brass horn, a spare horn, a scroll,
+      a magnifying glass, a bag of mixed nuts and a laminated official ID card
+    voice: >-
+      high-pitched, chipper, officious little male voice, delighted by
+      everything, speaking in excited exclamations
+    traits: [officious, enthusiastic, pedantic about spelling, forgets how many horns he has]
+    # design choice: teacup height (story: small enough to ride in the cup-holder bay)
+
+  holly:
+    name: Princess Holly
+    role: Tiny fairy princess. Kind, brave, and her spells work — just occasionally on the wrong thing.
+    look: >-
+      Princess Holly, a tiny fairy princess about the height of a teacup, with
+      a shimmering fairy-pink dress, iridescent wings like soap bubbles that
+      catch the light, a little silver tiara, rosy cheeks, and a slender wand
+      that fizzes with small irregular pink sparks
+    voice: >-
+      soft, sweet, gentle young female voice, kind and nervous, apologising
+      quickly, words tumbling out
+    traits: [kind, brave, apologetic, magically imprecise]
+    # design choice: tiara, teacup height
+
+  glitchbots:
+    name: The Grumpy Glitch-Bots
+    role: Villains of the Neon Nebula. Grey, humourless, obsessed with organisation.
+    look: >-
+      the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small
+      filing cabinets on stubby metal legs, each with a small speaker grille
+      for a mouth, a single blinking red sensor eye, and a chest panel covered
+      in rows of grey buttons; they move stiffly in rigid formation
+    voice: >-
+      flat, monotone, bit-crushed robotic voices, speaking in ALL-CAPS
+      bureaucratic announcements, sometimes in unison
+    traits: [humourless, bureaucratic, file complaints against everything]
+
+  bossbot:
+    name: The Big Glitch-Bot
+    role: The largest Glitch-Bot, with a single big button on its chest marked NO.
+    look: >-
+      the Big Glitch-Bot, a towering grey filing-cabinet robot twice the size
+      of the others, with a single large red sensor eye and one big square
+      button in the centre of its chest
+    voice: >-
+      deep, flat, booming monotone robotic voice, bit-crushed, utterly without joy
+    traits: [the boss, says NO]
+
+  squirrels:
+    name: The Twelve Squirrels
+    role: Kidnapped bushy-tailed citizens of the cliff.
+    look: >-
+      twelve small red squirrels with enormous bushy tails, wide anxious
+      eyes, and the look of creatures absolutely ready to bite something
+    voice: >-
+      squeaks and excited chittering only
+    traits: [anxious, bitey, climb everything, surprised to have climbed it]
+
+  dolphins:
+    name: The Dolphins
+    role: Offshore dolphins who stream documentaries through the lighthouse Wi-Fi in their dreams.
+    look: >-
+      a pod of sleek, friendly grey dolphins with contented dreamy smiles
+    voice: >-
+      happy clicks and whistles only
+    traits: [excellent taste in documentaries]
+
+props:
+
+  tomkin_mobile:
+    name: The Tomkin-Mobile
+    look: >-
+      the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the
+      armoured bulk of a naval battleship, mirror-polished chrome and copper
+      panels, retractable feathered metal wings that fold like a barn owl's,
+      a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top
+  sardine_scanner:
+    name: The Sardine-Scanner
+    look: >-
+      the Sardine-Scanner, an elaborate brass-and-glass tracking instrument
+      with spinning dials, a radar dish and small glowing screens showing
+      swimming fish silhouettes
+  stink_o_meter:
+    name: The Stink-o-Meter
+    look: >-
+      the Stink-o-Meter, a small brass sensor mounted by the front door with
+      a big analogue dial, a twitching needle and a flashing red warning bulb
+  duggie_bubble:
+    name: Duggie's Bubble
+    look: >-
+      a gleaming, garden-shed-sized, pressurised transparent bubble with a
+      faint pink rose-tinted shimmer and drifting rose petals inside,
+      strapped to the Tomkin-Mobile's roof rack
+  signature_dish:
+    name: Grilled Sea Bass with Mint-Choc-Chip Ice Cream
+    look: >-
+      a beautifully plated grilled sea bass fillet beside a perfect scoop of
+      pale-green mint-choc-chip ice cream on a gleaming plate

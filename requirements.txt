@@ -1,0 +1,2 @@
+pyyaml>=6.0
+google-genai>=1.40   # only needed for `generate` / `refs`

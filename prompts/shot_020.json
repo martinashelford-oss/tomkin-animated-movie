@@ -1,0 +1,25 @@
+{
+  "id": 20,
+  "key": "shot_020",
+  "chapter": 2,
+  "timecode_in": "02:57.00",
+  "timecode_out": "03:05.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "duggie",
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png",
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation; Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Medium close-up on Duggie, comic speed blur.\nAction: Duggie greets them in hyper-fast mode, a golden blur of wagging, bouncing and licking while Marvel's beard blows back in the wind of it.\nDialogue: Duggie (goofy, warm, slightly gravelly young male voice; in FAST mode a breathless machine-gun stutter of words; in SLOW mode a deep, stretched, slowed-down drawl as if recorded at quarter speed, FAST mode, machine-gun speed) says: \"H h h HELLO I'm DUGGIE I LOST the SQUIRRELS can you HELP your lighthouse smells AMAZING is that FISH I LOVE fish HELLO HELLO!\"\nSound effects: frantic panting, tail thwacks, rapid barks, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M05",
+  "overlay": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17,
+  "key": "shot_017",
+  "chapter": 2,
+  "timecode_in": "02:26.00",
+  "timecode_out": "02:34.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Tracking shot behind Marvel walking to the door.\nAction: Marvel strolls serenely down the hallway toward the round front door and reaches for the handle.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, serene narration) says: \"Marvel hears the cat's instruction. Curiosity wins, as it always does. Marvel opens the door.\"\nSound effects: footsteps, alarm in background, door handle clunk, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M04",
+  "overlay": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": 74,
+  "key": "shot_074",
+  "chapter": 6,
+  "timecode_in": "11:37.00",
+  "timecode_out": "11:52.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "duggie",
+    "glitchbots"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png",
+    "bible/refs/glitchbots.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation; the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small filing cabinets on stubby metal legs, each with a small speaker grille for a mouth, a single blinking red sensor eye, and a chest panel covered in rows of grey buttons; they move stiffly in rigid formation.\nCamera: Epic slow-motion wide shot.\nAction: In extreme slow motion Duggie's tail begins to wag with deep, tectonic joy, and a great wind builds through the chamber.\nNo dialogue.\nSound effects: slow building wind roar, deep slow-motion domino clangs, fluttering paper, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Duggie, The Grumpy Glitch-Bots).\nAction: The tailwind knocks over all seventeen Glitch-Bots one after another in a perfect domino line across the chamber, forms fluttering through the air in slow motion.\nNo dialogue.\nSound effects continue: slow building wind roar, deep slow-motion domino clangs, fluttering paper.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M14",
+  "overlay": null
+}

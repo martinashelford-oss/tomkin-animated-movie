@@ -1,0 +1,22 @@
+{
+  "id": 50,
+  "key": "shot_050",
+  "chapter": 4,
+  "timecode_in": "07:32.00",
+  "timecode_out": "07:47.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "lighthouse_ext",
+  "characters": [],
+  "reference_images": [
+    "bible/refs/tomkin_mobile.png",
+    "bible/refs/duggie_bubble.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a magnificent lighthouse of reinforced titanium wrapped in sea-polished copper, perched on the very tip of a jagged cliff at the edge of the world, a bristling antenna array on top beaming both a sweeping warning light and shimmering visible rings of Wi-Fi out over the Forgotten Sea; beyond the horizon a swirling, impossible pastel haze of the Unknown World. Lighting: golden dawn light, sea spray, dramatic sky.\nIn the shot: the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the armoured bulk of a naval battleship, mirror-polished chrome and copper panels, retractable feathered metal wings that fold like a barn owl's, a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top; a gleaming, garden-shed-sized, pressurised transparent bubble with a faint pink rose-tinted shimmer and drifting rose petals inside, strapped to the Tomkin-Mobile's roof rack.\nCamera: Dramatic action sequence, low angles, camera shake.\nAction: The garage floor splits open into a launch tube; the Tomkin-Mobile drops in, aligns with clamps clanking, and blasts straight up through the lighthouse.\nNo dialogue.\nSound effects: massive purring roar, clamps clanking, whoosh, sonic boom, ambience of crashing waves, gulls, sea wind, the low electric hum of the beacon.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (the scene).\nAction: Exterior: the Tomkin-Mobile rockets out of the top of the lighthouse into the dawn sky, owl-like wings snapping open, trailing a comet-tail of glitter, rose petals, a stray brass horn and a cloud of dog hair.\nNo dialogue.\nSound effects continue: massive purring roar, clamps clanking, whoosh, sonic boom.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M09",
+  "overlay": null
+}

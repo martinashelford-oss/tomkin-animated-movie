@@ -1,0 +1,23 @@
+{
+  "id": 42,
+  "key": "shot_042",
+  "chapter": 4,
+  "timecode_in": "06:25.00",
+  "timecode_out": "06:33.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "garage_bay",
+  "characters": [
+    "holly"
+  ],
+  "reference_images": [
+    "bible/refs/holly.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a gleaming high-tech garage bay at the base of the lighthouse, tool walls, hoses, polishing cloths, a circular launch hatch in the floor. Lighting: cool workshop spotlights with copper reflections.\nIn the shot: Princess Holly, a tiny fairy princess about the height of a teacup, with a shimmering fairy-pink dress, iridescent wings like soap bubbles that catch the light, a little silver tiara, rosy cheeks, and a slender wand that fizzes with small irregular pink sparks.\nCamera: Medium close-up on Holly.\nAction: Holly raises a hand politely, then hopefully lifts her wand toward the jelly in the background.\nDialogue: Princess Holly (soft, sweet, gentle young female voice, kind and nervous, apologising quickly, words tumbling out, hopeful) says: \"Can I sit near a window? And I could turn the jelly into a crème brûlée —\"\nSound effects: hopeful wand sparkle, ambience of echoing garage, the hum of machinery.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M08",
+  "overlay": null
+}

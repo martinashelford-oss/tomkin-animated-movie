@@ -1,0 +1,23 @@
+{
+  "id": 44,
+  "key": "shot_044",
+  "chapter": 4,
+  "timecode_in": "06:41.00",
+  "timecode_out": "06:49.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "garage_bay",
+  "characters": [
+    "duggie"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a gleaming high-tech garage bay at the base of the lighthouse, tool walls, hoses, polishing cloths, a circular launch hatch in the floor. Lighting: cool workshop spotlights with copper reflections.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation.\nCamera: Duggie bursts into frame, fast-mode blur.\nAction: Duggie bounds around the Tomkin-Mobile at hyper speed, flies streaming behind him, nose pressed against every window.\nDialogue: Duggie (goofy, warm, slightly gravelly young male voice; in FAST mode a breathless machine-gun stutter of words; in SLOW mode a deep, stretched, slowed-down drawl as if recorded at quarter speed, FAST mode) says: \"WHERE DO I SIT I've never been to SPACE will there be SMELLS space smells are probably AMAZING!\"\nSound effects: skittering claws, nose squeaks on glass, ambience of echoing garage, the hum of machinery.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M08",
+  "overlay": null
+}

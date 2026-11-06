@@ -1,0 +1,25 @@
+{
+  "id": 75,
+  "key": "shot_075",
+  "chapter": 6,
+  "timecode_in": "11:52.00",
+  "timecode_out": "12:00.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "duggie",
+    "squirrels"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png",
+    "bible/refs/squirrels.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation; twelve small red squirrels with enormous bushy tails, wide anxious eyes, and the look of creatures absolutely ready to bite something.\nCamera: Slow-motion heroic low angle.\nAction: Duggie advances toward the cage in extreme slow motion, ears floating heroically; his paw lands with slow-motion weight and inside the cage the squirrels' eyes widen with hope.\nDialogue: Duggie (goofy, warm, slightly gravelly young male voice; in FAST mode a breathless machine-gun stutter of words; in SLOW mode a deep, stretched, slowed-down drawl as if recorded at quarter speed, SLOW mode, heroic) says: \"I... will... save... you... little... friends...\"\nSound effects: slow-motion thud, wind, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M14",
+  "overlay": null
+}

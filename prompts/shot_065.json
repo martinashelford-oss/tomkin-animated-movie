@@ -1,0 +1,23 @@
+{
+  "id": 65,
+  "key": "shot_065",
+  "chapter": 5,
+  "timecode_in": "10:03.00",
+  "timecode_out": "10:16.00",
+  "duration": 13,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "fortress_ext",
+  "characters": [
+    "glitchbots"
+  ],
+  "reference_images": [
+    "bible/refs/glitchbots.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a colossal four-storey brushed-steel filing cabinet floating in grey space like a tombstone, its large bottom drawer slightly ajar like a mouth caught open, side hatches and docking clamps. Lighting: cold, flat, grey fluorescent light.\nIn the shot: the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small filing cabinets on stubby metal legs, each with a small speaker grille for a mouth, a single blinking red sensor eye, and a chest panel covered in rows of grey buttons; they move stiffly in rigid formation.\nCamera: Wide shot as golden light sweeps across the fortress.\nAction: A wave of golden light cascades across the fortress like a sunrise; every Glitch-Bot's metal feet start jittering uncontrollably.\nNo dialogue.\nSound effects: golden whoosh, rattling metal feet, robotic giggles, ambience of mechanical hum, servo whirs, distant dot-matrix printers.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (The Grumpy Glitch-Bots).\nAction: The Glitch-Bots wobble and giggle, sensor eyes flickering.\nDialogue: The Grumpy Glitch-Bots (flat, monotone, bit-crushed robotic voices, speaking in ALL-CAPS bureaucratic announcements, sometimes in unison, monotone breaking into giggles) says: \"ERROR. INVOLUNTARY HUMOUR RESPONSE DETECTED. HA. HA. DOES NOT — HEEHEE — COMPUTE.\"\nSound effects continue: golden whoosh, rattling metal feet, robotic giggles.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M12",
+  "overlay": null
+}

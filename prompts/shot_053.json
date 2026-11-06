@@ -1,0 +1,21 @@
+{
+  "id": 53,
+  "key": "shot_053",
+  "chapter": 5,
+  "timecode_in": "08:13.00",
+  "timecode_out": "08:23.00",
+  "duration": 10,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "neon_nebula",
+  "characters": [],
+  "reference_images": [
+    "bible/refs/tomkin_mobile.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a spectacular nebula blazing with hot pinks, electric blues and a brand-new shade of green, pulsing stars and painterly drifting gas clouds — except at its edges, where all colour has been drained to a dull uniform filing-cabinet grey. Lighting: vivid neon glow fading to flat grey.\nIn the shot: the Tomkin-Mobile, a sleek, aggressive, low-slung racing car with the armoured bulk of a naval battleship, mirror-polished chrome and copper panels, retractable feathered metal wings that fold like a barn owl's, a tailpipe that puffs lavender-coloured bubbles, and a roof rack on top.\nCamera: Epic wide reveal, the car small against the nebula.\nAction: The Tomkin-Mobile glides into the Neon Nebula — blazing hot pinks, electric blues and a brand-new green, pulsing stars like heartbeats.\nNo dialogue.\nSound effects: ethereal shimmering hum fading to a dull flat drone, ambience of ethereal hum, distant cosmic chimes.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (the scene).\nAction: The camera pans to the nebula's edges, where all colour has been drained away into flat, dispiriting filing-cabinet grey.\nNo dialogue.\nSound effects continue: ethereal shimmering hum fading to a dull flat drone.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M10",
+  "overlay": null
+}

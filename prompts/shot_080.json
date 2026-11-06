@@ -1,0 +1,27 @@
+{
+  "id": 80,
+  "key": "shot_080",
+  "chapter": 6,
+  "timecode_in": "12:43.00",
+  "timecode_out": "12:56.00",
+  "duration": 13,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "squirrel_chamber",
+  "characters": [
+    "tomkin",
+    "ben",
+    "glitchbots"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png",
+    "bible/refs/ben.png",
+    "bible/refs/glitchbots.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cavernous chamber so comprehensively grey that even the shadows are grey, with a reinforced steel cage at its centre. Lighting: cold flat grey light, a single spotlight on the cage.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; Ben Elf, a tiny elf about the height of a teacup, neat and bright-eyed, wearing a pointed green hat, a green jacket with eleven unnecessary pockets, and a belt hung with a small brass horn, a spare horn, a scroll, a magnifying glass, a bag of mixed nuts and a laminated official ID card; the Grumpy Glitch-Bots, boxy grey rectangular robots shaped like small filing cabinets on stubby metal legs, each with a small speaker grille for a mouth, a single blinking red sensor eye, and a chest panel covered in rows of grey buttons; they move stiffly in rigid formation.\nCamera: Medium on Tomkin and Ben, then wide on the retreating Bots.\nAction: Tomkin throws up his paws; Ben scribbles furiously in his mission log and blows his horn.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, exasperated) says: \"It worked unpredictably, which is not the same thing as working!\"\nSound effects: horn toot, robotic giggling, paper whooshing down a vent, ambience of low hum, squirrel chittering echoing.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Tomkin, Ben Elf, The Grumpy Glitch-Bots).\nAction: Giggling Glitch-Bots retreat into the depths, trying to sort gingerbread crumbs by size, while the last of their paperwork swirls down a ventilation shaft.\nDialogue: Ben Elf (high-pitched, chipper, officious little male voice, delighted by everything, speaking in excited exclamations, thrilled) says: \"'Gingerbread house!' Four syllables! ELF CONFECTIONERY ALERT!\"\nSound effects continue: horn toot, robotic giggling, paper whooshing down a vent.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M15",
+  "overlay": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21,
+  "key": "shot_021",
+  "chapter": 2,
+  "timecode_in": "03:05.00",
+  "timecode_out": "03:20.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "front_door",
+  "characters": [
+    "duggie"
+  ],
+  "reference_images": [
+    "bible/refs/duggie.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the heavy round copper front door of the lighthouse opening onto a windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it. Lighting: bright, breezy daylight.\nIn the shot: Duggie, an enormous, lovable Golden Retriever with shining coin-gold fur smeared with bog mud and river silt, one blade of grass stuck to his head, extraordinarily long floppy ears that flap like wings, huge soulful golden-brown eyes, a giant wagging tail, and a small swarm of cartoon flies circling his head in tight synchronised formation.\nCamera: Close-up, the image itself slows to extreme slow motion.\nAction: Duggie suddenly switches to extreme slow motion. He lifts one soggy paw in greeting, incredibly slowly, while his long ears descend like the world's most patient curtains.\nDialogue: Duggie (goofy, warm, slightly gravelly young male voice; in FAST mode a breathless machine-gun stutter of words; in SLOW mode a deep, stretched, slowed-down drawl as if recorded at quarter speed, SLOW mode, deep stretched drawl) says: \"I... lost... the... squirrels.\"\nSound effects: slowed-down whoosh, deep slow-motion splat, ambience of wind, waves, door creak.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Duggie).\nAction: The paw is still rising. A single drop of mud falls from it in extreme slow motion and lands with a slow, deep splat.\nNo dialogue.\nSound effects continue: slowed-down whoosh, deep slow-motion splat.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M05",
+  "overlay": null
+}

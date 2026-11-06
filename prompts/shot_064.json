@@ -1,0 +1,23 @@
+{
+  "id": 64,
+  "key": "shot_064",
+  "chapter": 5,
+  "timecode_in": "09:51.00",
+  "timecode_out": "10:03.00",
+  "duration": 12,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "fortress_ext",
+  "characters": [
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a colossal four-storey brushed-steel filing cabinet floating in grey space like a tombstone, its large bottom drawer slightly ajar like a mouth caught open, side hatches and docking clamps. Lighting: cold, flat, grey fluorescent light.\nIn the shot: Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Slow heroic push-in to an extreme close-up of Marvel.\nAction: Marvel holds his glowing staff aloft, the energy swirling bigger and brighter around him, his eyes blazing.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, grand, building) says: \"He prepares the most catastrophic spell in his four-thousand-year repertoire...\"\nSound effects: rising magical hum, thunderous crack, ambience of mechanical hum, servo whirs, distant dot-matrix printers.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Marvel the Wizard).\nAction: A dramatic pause — then Marvel bellows the spell name and thrusts his staff down.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, bellowing) says: \"...THE FEET OF PERPETUAL TICKLING!\"\nSound effects continue: rising magical hum, thunderous crack.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M12",
+  "overlay": null
+}

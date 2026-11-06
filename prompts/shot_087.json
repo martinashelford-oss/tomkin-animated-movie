@@ -1,0 +1,25 @@
+{
+  "id": 87,
+  "key": "shot_087",
+  "chapter": 7,
+  "timecode_in": "14:02.00",
+  "timecode_out": "14:17.00",
+  "duration": 15,
+  "generate_seconds": 15,
+  "extended": true,
+  "trim_in": 0.0,
+  "location": "kitchen_evening",
+  "characters": [
+    "tomkin",
+    "marvel"
+  ],
+  "reference_images": [
+    "bible/refs/tomkin.png",
+    "bible/refs/marvel.png"
+  ],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: the same cosy circular copper kitchen-laboratory, now crowded and cheerful, the mirror-polished table laid for dinner, squirrels perched on shelves and in Marvel's hat. Lighting: warm golden lamplight, the lighthouse beam sweeping past the windows.\nIn the shot: Tomkin, an anthropomorphic tabby cat who walks upright, slim and wiry, with burnt-orange \"artisanal copper\" fur and darker copper tiger stripes, bright emerald-green eyes, long expressive whiskers, a smug confident half-smile, brass welding goggles pushed up on his forehead, and a leather tool belt full of tiny gadgets; Marvel, an ancient, kindly, slightly stooped wizard with a huge floor-length grey beard tinged with patches of green moss, bushy eyebrows, twinkling eyes, patchwork robes stitched from three different historical eras (medieval velvet, Victorian brocade, 1970s paisley), an absurdly tall pointed wizard hat that nearly scrapes the ceiling, and a gnarled wooden staff.\nCamera: Slow push-in on Tomkin, then Marvel with his mug.\nAction: Tomkin speaks more softly, almost against his will, a small smile tugging at his whiskers.\nDialogue: Tomkin (crisp, rapid-fire, precise male tenor with a clipped British accent; superior, exasperated, always certain he is the only rational being in the room, soft, sincere) says: \"We saved twelve squirrels with tickling, salmon, gingerbread and a dog with two speeds. I think that means we're a good team.\"\nSound effects: steam, gentle ambience, ambience of cosy crackle, distant waves, contented chatter.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": "Continue this exact shot seamlessly: same characters, same designs, same setting, same lighting and same 3D animated style (Tomkin, Marvel the Wizard).\nAction: Marvel lowers his steaming mug, touched, eyes twinkling.\nDialogue: Marvel the Wizard (deep, warm, sonorous elderly male voice with a theatrical storyteller's cadence, slow and serene, narrating himself in the third person, warm narration) says: \"Marvel accepts the compliment. He finds it unexpectedly touching.\"\nSound effects continue: steam, gentle ambience.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M17",
+  "overlay": null
+}

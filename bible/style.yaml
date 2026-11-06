@@ -1,0 +1,128 @@
+# GLOBAL LOOK, LOCATIONS AND AUDIO RULES — pasted into every prompt.
+
+style: >-
+  A high-end stylised 3D animated feature film, cinematic and colourful,
+  family comedy-adventure tone, expressive cartoon character animation with
+  squash-and-stretch, detailed fur and fabric, soft global illumination,
+  rich saturated colour, shallow depth of field, anamorphic widescreen
+  framing, smooth professional camera work
+
+# Applied to every generation as Veo's negative prompt.
+negative_prompt: >-
+  live action, photorealistic humans, 2D flat animation, anime, sketch,
+  subtitles, captions, on-screen text, watermark, logo, distorted faces,
+  extra limbs, extra fingers, flicker, background music
+
+# Appended to every prompt so the score can be added cleanly in assembly.
+audio_rule: >-
+  Audio: dialogue and sound effects only, no background music, no narrator
+  other than the characters speaking. No subtitles, no captions, no readable
+  on-screen text.
+
+locations:
+
+  lighthouse_ext:
+    name: The Lighthouse at the Tippy-Toe of the World
+    description: >-
+      a magnificent lighthouse of reinforced titanium wrapped in sea-polished
+      copper, perched on the very tip of a jagged cliff at the edge of the
+      world, a bristling antenna array on top beaming both a sweeping warning
+      light and shimmering visible rings of Wi-Fi out over the Forgotten Sea;
+      beyond the horizon a swirling, impossible pastel haze of the Unknown World
+    lighting: golden dawn light, sea spray, dramatic sky
+    ambience: crashing waves, gulls, sea wind, the low electric hum of the beacon
+
+  forgotten_sea:
+    name: The Forgotten Sea
+    description: >-
+      a glittering turquoise ocean offshore from the lighthouse, with soft
+      rings of Wi-Fi light rippling across the waves
+    lighting: dreamy twilight, glowing reflections
+    ambience: gentle waves, dolphin clicks, a soft digital shimmer
+
+  kitchen:
+    name: Lighthouse Kitchen-Laboratory
+    description: >-
+      a cosy circular kitchen-laboratory inside the lighthouse with curved
+      copper walls, a mirror-polished salvage-metal table, a kettle, a ceiling
+      fan, an armchair, half-finished gadgets everywhere, coiled cables, and
+      a chaotic workbench
+    lighting: warm morning light through round porthole windows
+    ambience: ticking gadgets, fridge hum, distant waves
+
+  kitchen_evening:
+    name: Lighthouse Kitchen at Evening
+    description: >-
+      the same cosy circular copper kitchen-laboratory, now crowded and
+      cheerful, the mirror-polished table laid for dinner, squirrels perched
+      on shelves and in Marvel's hat
+    lighting: warm golden lamplight, the lighthouse beam sweeping past the windows
+    ambience: cosy crackle, distant waves, contented chatter
+
+  garage_bay:
+    name: The Lighthouse Garage Bay
+    description: >-
+      a gleaming high-tech garage bay at the base of the lighthouse, tool
+      walls, hoses, polishing cloths, a circular launch hatch in the floor
+    lighting: cool workshop spotlights with copper reflections
+    ambience: echoing garage, the hum of machinery
+
+  front_door:
+    name: The Lighthouse Front Door
+    description: >-
+      the heavy round copper front door of the lighthouse opening onto a
+      windswept cliff-top doorstep, with the Stink-o-Meter mounted beside it
+    lighting: bright, breezy daylight
+    ambience: wind, waves, door creak
+
+  cockpit:
+    name: Tomkin-Mobile Cockpit
+    description: >-
+      the Tomkin-Mobile's luxurious leather cockpit, a dazzling dashboard of
+      switches, dials and glowing screens, a precision-engineered cup-holder
+      bay lined with a tiny cushion, back seats, and a windscreen
+    lighting: glowing dashboard light, flickering exterior light
+    ambience: purring engine, beeps and chimes
+
+  space:
+    name: Outer Space
+    description: >-
+      deep space with a vast star field, the planet curving below, the
+      Tomkin-Mobile soaring with wings spread
+    lighting: crisp starlight and sun flares
+    ambience: muffled rumble of the Meow-Drive
+
+  neon_nebula:
+    name: The Neon Nebula
+    description: >-
+      a spectacular nebula blazing with hot pinks, electric blues and a
+      brand-new shade of green, pulsing stars and painterly drifting gas
+      clouds — except at its edges, where all colour has been drained to a
+      dull uniform filing-cabinet grey
+    lighting: vivid neon glow fading to flat grey
+    ambience: ethereal hum, distant cosmic chimes
+
+  fortress_ext:
+    name: Glitch-Bot Fortress — Efficiency Station Prime
+    description: >-
+      a colossal four-storey brushed-steel filing cabinet floating in grey
+      space like a tombstone, its large bottom drawer slightly ajar like a
+      mouth caught open, side hatches and docking clamps
+    lighting: cold, flat, grey fluorescent light
+    ambience: mechanical hum, servo whirs, distant dot-matrix printers
+
+  fortress_corridor:
+    name: Fortress Corridors
+    description: >-
+      endless grey corridors lined with identical filing drawers, labelled
+      shelving, grey pipes and ventilation shafts
+    lighting: flat grey fluorescent strip lights
+    ambience: humming fluorescents, typewriter clacks, servo whirs
+
+  squirrel_chamber:
+    name: The Deepest Chamber
+    description: >-
+      a cavernous chamber so comprehensively grey that even the shadows are
+      grey, with a reinforced steel cage at its centre
+    lighting: cold flat grey light, a single spotlight on the cage
+    ambience: low hum, squirrel chittering echoing

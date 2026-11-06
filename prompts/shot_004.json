@@ -1,0 +1,19 @@
+{
+  "id": 4,
+  "key": "shot_004",
+  "chapter": 1,
+  "timecode_in": "00:31.00",
+  "timecode_out": "00:39.00",
+  "duration": 8,
+  "generate_seconds": 8,
+  "extended": false,
+  "trim_in": 0.0,
+  "location": "kitchen",
+  "characters": [],
+  "reference_images": [],
+  "base_prompt": "A high-end stylised 3D animated feature film, cinematic and colourful, family comedy-adventure tone, expressive cartoon character animation with squash-and-stretch, detailed fur and fabric, soft global illumination, rich saturated colour, shallow depth of field, anamorphic widescreen framing, smooth professional camera work.\nSetting: a cosy circular kitchen-laboratory inside the lighthouse with curved copper walls, a mirror-polished salvage-metal table, a kettle, a ceiling fan, an armchair, half-finished gadgets everywhere, coiled cables, and a chaotic workbench. Lighting: warm morning light through round porthole windows.\nCamera: Slow dolly along the kitchen counter, shallow focus.\nAction: A half-eaten sardine sits on the kitchen counter. The camera glides past it along mirror-polished metal surfaces, coiled cables and half-built gadgets, toward bright welding sparks spraying from the workbench.\nNo dialogue.\nSound effects: ticking gadgets, fridge hum, sizzling welding arc, ambience of ticking gadgets, fridge hum, distant waves.\nAudio: dialogue and sound effects only, no background music, no narrator other than the characters speaking. No subtitles, no captions, no readable on-screen text.",
+  "extension_prompt": null,
+  "negative_prompt": "live action, photorealistic humans, 2D flat animation, anime, sketch, subtitles, captions, on-screen text, watermark, logo, distorted faces, extra limbs, extra fingers, flicker, background music",
+  "music_cue": "M02",
+  "overlay": null
+}
