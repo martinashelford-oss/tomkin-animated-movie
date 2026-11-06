@@ -111,7 +111,7 @@ python scripts/review_clips.py --shots 001-010
 ## Stage 6: Music (original or licensed only)
 - **Brief:** `production/generated/music_cue_sheet.md` covers 12 cues (M01–M12), with tempo, key, instrumentation, sync points, a composer brief and a text prompt for a licensed AI music tool.
 - **Either** deliver the cues as `assets/audio/music/M01.wav` … `M12.wav`, each placed at its cue start with a 1 s tail crossfade;
-- **or** deliver one continuous score as `assets/audio/music.mp3`, or pass `--music PATH`.
+- **or** deliver one continuous score as `assets/audio/music.mp3`, or pass `--music PATH`. A score shorter than the film loops, with a 6 s fade at the end.
 
 ## Stage 7: Validate and assemble
 ```bash
@@ -138,7 +138,7 @@ python scripts/assemble.py --draft
 | `assemble.py --draft` | A timing animatic, with labelled placeholder slates for missing clips. It writes `output/DRAFT_animatic.mp4` and never the final file. |
 
 **What the assembler does:**
-- **Picture:** scales every clip to 1920×1080 (crop-to-fill, or letterbox with `--fit pad`), converts to 24 fps and trims to exactly 10 s. Embedded clip audio is dropped.
+- **Picture:** scales every clip to 1920×1080 (letterbox, or crop-to-fill with `--fit crop`), converts to 24 fps and trims to exactly 10 s. Embedded clip audio is dropped.
 - **Short clips:** a clip under 10 s **fails** unless you pass `--allow-short`, which holds its last frame and needs your approval.
 - **Credits:** overlays scrolling credits from `production/credits.txt` on shot 090.
 - **Audio mix:** dialogue on top, music and ambience ducked under the dialogue, then SFX, normalised to −16 LUFS.

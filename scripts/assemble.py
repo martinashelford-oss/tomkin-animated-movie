@@ -243,7 +243,8 @@ def build_mix(shots, total: float, t0: float, music_arg: str | None, audio_dir: 
         if not single.exists():
             raise SystemExit(f"ERROR: music file not found: {single}")
         # one continuous score is aligned to 00:00 of the film; range previews skip into it
-        mix.add("music", single, 0, length=total, fade_out=3.0, skip=t0)
+        # loops if shorter than the film (as the original assemble.py did); 6 s fade at the end
+        mix.add("music", single, 0, length=total, fade_out=6.0, skip=t0, loop=True)
         report["music"] = 1
     else:
         by_id = {s["id"]: s for s in shots}
@@ -268,7 +269,7 @@ def main():
     ap.add_argument("--shots", help="range to preview, e.g. 001-010 (writes output/preview_*.mp4)")
     ap.add_argument("--draft", action="store_true", help="labelled placeholder slates for missing clips")
     ap.add_argument("--credits", default=str(ROOT / "production" / "credits.txt"))
-    ap.add_argument("--fit", choices=["crop", "pad"], default="crop", help="non-16:9 sources: crop or letterbox")
+    ap.add_argument("--fit", choices=["crop", "pad"], default="pad", help="non-16:9 sources: letterbox (default, as in the original assemble.py) or crop-to-fill")
     ap.add_argument("--allow-short", action="store_true", help="hold last frame of short clips (needs approval)")
     ap.add_argument("--video-dir", default=str(VIDEO_DIR))
     ap.add_argument("--audio-dir", default=str(AUDIO_DIR))
