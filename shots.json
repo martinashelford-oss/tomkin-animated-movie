@@ -13,7 +13,26 @@
       "PENNY: Watch your footing, Captain."
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Continuous medium tracking shot backward on curved iron-and-stone lighthouse catwalk in heavy storm. Tomkin, compact stout upright ginger-and-white tabby, gray ribbed wool sock toque, lavender silk boxer cape pinned with brass safety pin, bent soup ladle rapier, yellow butter tub. Penny, 14, auburn curls, patterned headscarf, freckles, heavy canvas mechanic apron full of tools, grease-stained rag, follows in gale."
+    "video_prompt": "Continuous medium tracking shot backward on curved iron-and-stone lighthouse catwalk in heavy storm. Tomkin, compact stout upright ginger-and-white tabby, gray ribbed wool sock toque, lavender silk boxer cape pinned with brass safety pin, bent soup ladle rapier, yellow butter tub. Penny, 14, auburn curls, patterned headscarf, freckles, heavy canvas mechanic apron full of tools, grease-stained rag, follows in gale.",
+    "characters": [
+      "T",
+      "P"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_night",
+    "prompt_body": "Continuous medium tracking shot moving backward along the curved gallery catwalk in a howling storm. Tomkin marches in front, chest puffed, ladle raised like a rapier, butter tub under one arm, lavender cape snapping in the gale. Penny follows half a step behind, one hand on the railing, squinting through rain, rag flapping from her apron. The lighthouse beam sweeps overhead through the rain; waves explode on the rocks far below.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "howling gale",
+      "rain on iron",
+      "lantern mechanism hum",
+      "soft cat footpads",
+      "boots on wet iron grating",
+      "distant wave crash",
+      "thunder roll"
+    ],
+    "music_cue": "M01",
+    "continuity_note": ""
   },
   {
     "id": "002",
@@ -28,7 +47,28 @@
       "PENNY: That is definitely not a seagull."
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Gunmetal-gray armored drone with crimson optical visor crashes onto wet iron catwalk, sparking and steaming. Tomkin crouches with ladle and yellow tub; Penny draws steel pipe wrench. Whip-pan from ocean to impact."
+    "video_prompt": "Gunmetal-gray armored drone with crimson optical visor crashes onto wet iron catwalk, sparking and steaming. Tomkin crouches with ladle and yellow tub; Penny draws steel pipe wrench. Whip-pan from ocean to impact.",
+    "characters": [
+      "T",
+      "P",
+      "D"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_night",
+    "prompt_body": "Whip-pan from the dark churning ocean to the catwalk as the gunmetal drone slams down onto the wet iron grating, sparks spraying, steam hissing from its joints, crimson visor flaring on. Tomkin drops into a fencing crouch, ladle forward and butter tub raised like a shield. Penny pulls a heavy steel pipe wrench from her apron and plants her feet.",
+    "dialogue_proposed": [
+      "TOMKIN: Then it shall answer to the Captain!"
+    ],
+    "sfx_cues": [
+      "heavy metal impact",
+      "grating rattle",
+      "electric sparks",
+      "steam hiss",
+      "servo whine",
+      "visor power-up tone"
+    ],
+    "music_cue": "M01",
+    "continuity_note": ""
   },
   {
     "id": "003",
@@ -43,7 +83,27 @@
       "HERO: Did I interrupt something?"
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "An athletic masked hero wearing a rain-soaked red-and-blue textured suit with black web pattern and expressive white mechanical eye lenses swings from the lighthouse spire on a white synthetic line, kicks the drone and lands in three-point crouch; looks back in surprise at Penny and Tomkin."
+    "video_prompt": "An athletic masked hero wearing a rain-soaked red-and-blue textured suit with black web pattern and expressive white mechanical eye lenses swings from the lighthouse spire on a white synthetic line, kicks the drone and lands in three-point crouch; looks back in surprise at Penny and Tomkin.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "D"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_night",
+    "prompt_body": "The Rigger swings down from the lantern-room roof on a taut braided rigging line in one smooth arc, drives both boots into the drone's chest plate and sends it skidding along the catwalk, releases the line and lands in a three-point crouch on the wet grating. The amber lens shutters widen and blink as the hero glances back at Penny and Tomkin in surprise. The camera follows the swing in a single arc.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "rope reel whirr",
+      "swing whoosh",
+      "boot-to-armour impact",
+      "metal skid",
+      "landing thud",
+      "lens shutter click"
+    ],
+    "music_cue": "M01",
+    "continuity_note": ""
   },
   {
     "id": "004",
@@ -56,7 +116,28 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "In stylized slow motion, masked hero braces on railing and pins drone limbs with two taut white lines; Penny pries shoulder armor with wrench; Tomkin leaps and touches exposed blue node with bent ladle; suspended droplets and blue sparks."
+    "video_prompt": "In stylized slow motion, masked hero braces on railing and pins drone limbs with two taut white lines; Penny pries shoulder armor with wrench; Tomkin leaps and touches exposed blue node with bent ladle; suspended droplets and blue sparks.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "D"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_night",
+    "prompt_body": "Stylized slow motion. The Rigger braces a boot on the railing and pins the drone's limbs with two taut rigging lines; Penny wedges her pipe wrench under its shoulder armour and pries it open; Tomkin leaps through the air and touches the exposed glowing blue node with his bent ladle. Raindrops hang suspended as blue sparks bloom outward. Slow orbiting push-in around the trio.",
+    "dialogue_proposed": [
+      "TOMKIN: (slow-motion battle cry) For the lighthouse!"
+    ],
+    "sfx_cues": [
+      "slowed rain ambience",
+      "rope creak",
+      "armour pry screech",
+      "pitched-down electric zap",
+      "low boom"
+    ],
+    "music_cue": "M01",
+    "continuity_note": ""
   },
   {
     "id": "005",
@@ -71,7 +152,28 @@
       "PENNY: You saved us with a butter tub."
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Crackling blue core skitters toward Penny; Tomkin flips yellow butter tub over it and sits triumphantly on top, ladle raised. Penny smiles and wipes face; masked hero tilts head in amused surprise. Low tracking angle."
+    "video_prompt": "Crackling blue core skitters toward Penny; Tomkin flips yellow butter tub over it and sits triumphantly on top, ladle raised. Penny smiles and wipes face; masked hero tilts head in amused surprise. Low tracking angle.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "D"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_night",
+    "prompt_body": "Low tracking angle along the grating. The crackling blue drone core breaks loose and skitters toward Penny's boots; Tomkin dives, flips the yellow butter tub over it with a hollow clunk and sits triumphantly on top, ladle raised high. The core buzzes under the tub, then goes quiet. Penny laughs and wipes rain from her face with her rag; the Rigger tilts their head, lens shutters narrowing in amused surprise.",
+    "dialogue_proposed": [
+      "TOMKIN: The Butter Tub Protocol. Patent pending."
+    ],
+    "sfx_cues": [
+      "core skitter",
+      "electric crackle",
+      "hollow plastic clunk",
+      "muffled buzzing under tub",
+      "rain easing"
+    ],
+    "music_cue": "M01",
+    "continuity_note": ""
   },
   {
     "id": "006",
@@ -84,7 +186,28 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Slow wide pull-back into golden dawn. Penny sits on threshold inspecting salvaged brass gear and petting Tomkin. Tomkin sits on upside-down yellow tub, lavender cape catching light. Masked hero perches on railing sharing a breakfast roll. Calm amber sea."
+    "video_prompt": "Slow wide pull-back into golden dawn. Penny sits on threshold inspecting salvaged brass gear and petting Tomkin. Tomkin sits on upside-down yellow tub, lavender cape catching light. Masked hero perches on railing sharing a breakfast roll. Calm amber sea.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "dawn",
+    "prompt_body": "Slow wide pull-back as the storm breaks into a brief golden dawn. Penny sits on the lantern-room threshold turning a salvaged brass gear in her fingers and scratching Tomkin behind the ears. Tomkin sits on the upside-down yellow butter tub, lavender cape glowing. The Rigger perches on the railing, visor tipped up onto the forehead with face turned away toward the sea, sharing a breakfast roll. Calm amber sea, gulls, steam rising from the stone.",
+    "dialogue_proposed": [
+      "HERO: Best view in town.",
+      "PENNY: Only view in town."
+    ],
+    "sfx_cues": [
+      "gentle waves",
+      "gulls",
+      "dripping water",
+      "Tomkin purring",
+      "paper bag rustle"
+    ],
+    "music_cue": "M02",
+    "continuity_note": "Mask briefly lifted (allowed by CHARACTERS.md); keep the hero's face turned away or in shadow."
   },
   {
     "id": "007",
@@ -99,7 +222,25 @@
       "PENNY: That glow is coming from below."
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Peaceful balcony interrupted by emerald boiling ocean below. Masked hero pulls mask over face and balances on railing; Penny rushes to look; Tomkin points ladle toward sea. Pan down from trio to glowing water."
+    "video_prompt": "Peaceful balcony interrupted by emerald boiling ocean below. Masked hero pulls mask over face and balances on railing; Penny rushes to look; Tomkin points ladle toward sea. Pan down from trio to glowing water.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "emerald_morning",
+    "prompt_body": "Starts on the peaceful trio; a deep rumble shakes droplets off the railing. The Rigger snaps the visor down over the face and springs onto the railing; Penny rushes to the edge; Tomkin points his ladle out to sea. The camera tilts and pans down the cliff to the ocean, which boils with eerie emerald light.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "deep sub rumble",
+      "railing rattle",
+      "visor snap",
+      "boiling sea",
+      "ominous low tone"
+    ],
+    "music_cue": "M03",
+    "continuity_note": ""
   },
   {
     "id": "008",
@@ -112,7 +253,28 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Vertical shot down sheer cliff: gigantic barnacle-and-kelp-encrusted mechanical crab walker with emerald conduits and hydraulic pistons climbs upward. Hero aims wrists, Penny holds copper spool and clamps, Tomkin challenges monster with ladle."
+    "video_prompt": "Vertical shot down sheer cliff: gigantic barnacle-and-kelp-encrusted mechanical crab walker with emerald conduits and hydraulic pistons climbs upward. Hero aims wrists, Penny holds copper spool and clamps, Tomkin challenges monster with ladle.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "L1"
+    ],
+    "location": "cliff_sea",
+    "lighting_phase": "emerald_morning",
+    "prompt_body": "Vertical shot straight down the sheer cliff: the leviathan hauls itself up the rock, iron claws biting into stone, seawater pouring off its shell. At the top of frame the Rigger aims both forearm reels, Penny holds a copper wire spool and clamps, and Tomkin challenges the monster with his ladle. Slow crane upward following the climb.",
+    "dialogue_proposed": [
+      "TOMKIN: Halt, crustacean! This is a private lighthouse!"
+    ],
+    "sfx_cues": [
+      "hydraulic hiss",
+      "claw scrape on rock",
+      "grinding gears",
+      "cascading seawater",
+      "low mechanical groan"
+    ],
+    "music_cue": "M03",
+    "continuity_note": ""
   },
   {
     "id": "009",
@@ -125,7 +287,28 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Fast orbital shot. Mechanical claw crashes into parapet; masked hero redirects it with two white lines. Penny clamps copper wire to lighthouse grounding terminal; Tomkin guides other lead into yellow butter tub, safely away from his body. Sparks and sea spray."
+    "video_prompt": "Fast orbital shot. Mechanical claw crashes into parapet; masked hero redirects it with two white lines. Penny clamps copper wire to lighthouse grounding terminal; Tomkin guides other lead into yellow butter tub, safely away from his body. Sparks and sea spray.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "L1"
+    ],
+    "location": "gallery",
+    "lighting_phase": "emerald_morning",
+    "prompt_body": "Fast orbital shot around the gallery. An iron claw crashes into the stone parapet, chunks of masonry flying; the Rigger redirects it with two taut rigging lines. Penny clamps a copper wire to the lighthouse grounding terminal; Tomkin guides the other lead into the yellow butter tub held at arm's length, well away from his body. Sparks and sea spray.",
+    "dialogue_proposed": [
+      "PENNY: Ground wire's live. Keep clear, Captain!"
+    ],
+    "sfx_cues": [
+      "stone smash",
+      "rope strain",
+      "crackling electricity",
+      "clamp snap",
+      "sea spray"
+    ],
+    "music_cue": "M03",
+    "continuity_note": "Fictional electricity; not a real-world instruction."
   },
   {
     "id": "010",
@@ -140,7 +323,26 @@
       "TOMKIN: Victory!"
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Slow-motion climax: hero anchors walker limbs with white lines, Tomkin bats yellow tub with ladle into exposed green reactor; harmless static and vapor burst, walker loses power and slides into sea. Penny cheers at doorway."
+    "video_prompt": "Slow-motion climax: hero anchors walker limbs with white lines, Tomkin bats yellow tub with ladle into exposed green reactor; harmless static and vapor burst, walker loses power and slides into sea. Penny cheers at doorway.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "L1"
+    ],
+    "location": "gallery",
+    "lighting_phase": "emerald_morning",
+    "prompt_body": "Slow-motion climax. The Rigger anchors two walker legs with rigging lines; Tomkin swings his ladle like a cricket bat and launches the yellow butter tub into the walker's exposed glowing green reactor. A harmless burst of static and vapour ripples outward, the emerald conduits fade, and the walker loses power and slides down the cliff into the sea with a huge splash. Penny cheers in the doorway.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "bat-swing whoosh",
+      "plastic thock",
+      "harmless electrical discharge",
+      "power-down whine",
+      "giant splash"
+    ],
+    "music_cue": "M03",
+    "continuity_note": ""
   },
   {
     "id": "011",
@@ -153,7 +355,27 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The walker sinks but an emerald beacon pulses beneath the waves. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The walker sinks but an emerald beacon pulses beneath the waves. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "emerald_morning",
+    "prompt_body": "High wide shot over the railing looking down at the sea: foam settles where the walker sank, but a slow emerald beacon pulses deep beneath the waves. The dented yellow butter tub bobs up in the surf; the Rigger fires a rigging line, hooks it and reels it up into Tomkin's delighted arms. The camera cranes up to Penny frowning at the pulsing glow.",
+    "dialogue_proposed": [
+      "TOMKIN: My tub! The sea returns what is rightfully mine.",
+      "PENNY: It's not over. Look."
+    ],
+    "sfx_cues": [
+      "settling foam",
+      "low sonar-like pulse",
+      "rope reel",
+      "plastic catch"
+    ],
+    "music_cue": "M04",
+    "continuity_note": "Butter tub retrieved here (dented from now on) so it can return in 025."
   },
   {
     "id": "012",
@@ -166,7 +388,27 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny detects a repeating signal from the drone core. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny detects a repeating signal from the drone core. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Penny holds the drone core, now inert inside a glass jar, up to the old brass radio set; the dial needle twitches and the speaker clicks in a repeating pattern while a faint blue light pulses in the core in sync. Slow push-in from over Tomkin's shoulder as he peers into the jar; the Rigger leans on the doorframe, arms crossed.",
+    "dialogue_proposed": [
+      "PENNY: It's still talking to something.",
+      "HERO: Something under the water."
+    ],
+    "sfx_cues": [
+      "radio static",
+      "rhythmic click-beep pattern",
+      "glass clink",
+      "wind on windows"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "013",
@@ -179,7 +421,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The lighthouse lantern flickers and goes dark. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The lighthouse lantern flickers and goes dark. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Low angle looking up at the great brass lantern and Fresnel lens: the light stutters, flickers, buzzes and goes dark, and the rotating mechanism grinds to a halt. The trio's faces, lit from above, fall into cold grey shadow. Slow tilt down from the lens to their worried faces.",
+    "dialogue_proposed": [
+      "TOMKIN: Who switched off my lighthouse?"
+    ],
+    "sfx_cues": [
+      "electrical buzz",
+      "flicker clicks",
+      "mechanism grinding to a stop",
+      "sudden quiet except wind"
+    ],
+    "music_cue": "M04",
+    "continuity_note": "Lantern dark from here until 078 (except the single rotation in 048)."
   },
   {
     "id": "014",
@@ -192,7 +453,27 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A fishing boat radios that it cannot see the rocks. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A fishing boat radios that it cannot see the rocks. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "B"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Penny snatches up the radio handset as a crackling distress call comes through. Behind her, through the rain-streaked window, the fishing boat's lights bob in the grey swell far out. The camera slowly racks focus from Penny to the distant boat.",
+    "dialogue_proposed": [
+      "RADIO: Lighthouse, this is the Marigold! Your light's out. We can't see the rocks!"
+    ],
+    "sfx_cues": [
+      "radio squelch",
+      "crackly distress voice",
+      "storm wind",
+      "rain on glass"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "015",
@@ -207,7 +488,26 @@
       "PENNY: That boat needs our light."
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny estimates the boat will reach the reef before dusk. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny estimates the boat will reach the reef before dusk. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Penny unrolls a tide chart on the workbench and taps the reef with a pencil, then looks out at the drifting boat; Tomkin and the Rigger lean in on either side. Slow crane from overhead down to eye level over the chart.",
+    "dialogue_proposed": [
+      "HERO: How long have they got?"
+    ],
+    "sfx_cues": [
+      "paper unrolling",
+      "pencil taps",
+      "clock ticking",
+      "wind"
+    ],
+    "music_cue": "M04",
+    "continuity_note": "Original action says 'before dusk', but shots 072 and 085 put the climax in the morning. Production timeline: the boat must be guided in before the tide turns, later that morning. Dialogue unchanged."
   },
   {
     "id": "016",
@@ -220,7 +520,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin declares an emergency rescue operation. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin declares an emergency rescue operation. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Tomkin hops onto the workbench, stands tall on the upside-down butter tub, raises his ladle and declares the rescue operation, cape billowing in a draught from a cracked window. Penny rolls her eyes but smiles and tightens her headscarf; the Rigger salutes playfully. Slow low-angle push-in on Tomkin.",
+    "dialogue_proposed": [
+      "TOMKIN: By order of the Captain, Operation Bright Lantern begins now!"
+    ],
+    "sfx_cues": [
+      "tub creak",
+      "cape flap",
+      "heroic music sting",
+      "wind"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "017",
@@ -233,7 +552,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny opens a corroded chart case in the keeper room. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny opens a corroded chart case in the keeper room. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "keeper_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "In the cluttered keeper's room, Penny pries open a corroded brass chart case; green-crusted hinges creak and inside lies an engraved brass map of the lighthouse tunnels and power lines. Tomkin holds up Penny's brass storm lantern to light it; the Rigger peers over. Slow push-in to the engraved map (engraved lines only, no readable words).",
+    "dialogue_proposed": [
+      "PENNY: There's an old power room under the tower."
+    ],
+    "sfx_cues": [
+      "corroded hinge creak",
+      "brass case thunk",
+      "lantern flame flutter"
+    ],
+    "music_cue": "M04",
+    "continuity_note": "Introduces Penny's brass storm lantern."
   },
   {
     "id": "018",
@@ -246,7 +583,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The trio descend a winding spiral stair. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The trio descend a winding spiral stair. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "stair",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Overhead shot looking straight down the spiral staircase as the trio descend in single file: the Rigger leads, Penny carries the storm lantern casting a moving pool of warm light, and Tomkin hops down each step in tiny leaps, cape bouncing. The camera slowly rotates as it descends with them.",
+    "dialogue_proposed": [
+      "TOMKIN: Two hundred and twelve steps. I am counting."
+    ],
+    "sfx_cues": [
+      "echoing footsteps",
+      "tiny cat hops",
+      "lantern handle creak",
+      "dripping water"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "019",
@@ -259,7 +615,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "They find mechanical claw marks on the lower landing. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "They find mechanical claw marks on the lower landing. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "stair",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Ground-level shot on the dusty lower landing: lantern light reveals large three-toed mechanical claw marks gouged into the stone floor, with scrape lines leading to the wall. Penny kneels and traces one with her fingers, Tomkin sniffs it with twitching whiskers, the Rigger crouches with lens shutters narrowing. Slow lateral dolly along the tracks.",
+    "dialogue_proposed": [
+      "HERO: Whatever made these, it's been here before."
+    ],
+    "sfx_cues": [
+      "dust settling",
+      "finger on stone",
+      "cat sniff",
+      "distant rumble"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "020",
@@ -272,7 +647,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A hatch reveals a flooded maintenance tunnel. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A hatch reveals a flooded maintenance tunnel. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "stair",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "The Rigger and Penny heave open a heavy iron floor hatch by its rusted ring handle; it swings up with a groan, revealing the flooded tunnel below, dark water lapping and a faint emerald glimmer far down the passage. Tomkin peers over the edge, ears flattening. The camera tilts down through the hatch.",
+    "dialogue_proposed": [
+      "TOMKIN: Water. Of course it's water."
+    ],
+    "sfx_cues": [
+      "iron groan",
+      "hatch clang",
+      "water lapping",
+      "long echo"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "021",
@@ -285,7 +679,27 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The masked hero leads them into knee-deep water. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The masked hero leads them into knee-deep water. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "tunnel",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Tracking shot moving backward down the arched tunnel as the Rigger leads, wading knee-deep; Penny follows holding the storm lantern high; Tomkin floats along sitting in the butter tub, paddling with his ladle. Ripples catch the lantern light under a dripping ceiling.",
+    "dialogue_proposed": [
+      "PENNY: Captain, are you... paddling?",
+      "TOMKIN: Navigating."
+    ],
+    "sfx_cues": [
+      "wading splashes",
+      "ladle paddling",
+      "dripping",
+      "tunnel echo"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "022",
@@ -298,7 +712,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A distant mechanical tapping answers Tomkin’s ladle. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A distant mechanical tapping answers Tomkin’s ladle. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "tunnel",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Tomkin taps his ladle on an iron pipe twice. After a pause, a distant mechanical tapping answers from deep in the tunnel. All three freeze; Tomkin's ears swivel. Slow push past their silhouettes toward the darkness ahead.",
+    "dialogue_proposed": [
+      "HERO: Did the tunnel just answer you?"
+    ],
+    "sfx_cues": [
+      "ladle tink on pipe",
+      "echoing answer taps",
+      "water drip",
+      "held-breath silence"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "023",
@@ -311,7 +744,27 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Small maintenance drones emerge from the ceiling. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Small maintenance drones emerge from the ceiling. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "M"
+    ],
+    "location": "tunnel",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Wide shot: maintenance drones unfold from ceiling vents with clicking legs and tiny crimson eye-lights, dropping and skittering along the walls toward the trio. Penny raises her wrench, the Rigger readies both forearm reels, Tomkin lifts the tub like a shield. The camera rises toward the swarm.",
+    "dialogue_proposed": [
+      "PENNY: Maintenance drones. Lots of them."
+    ],
+    "sfx_cues": [
+      "clicking skittering legs",
+      "vent rattles",
+      "swarm chatter",
+      "echo"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "024",
@@ -324,7 +777,29 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The hero webs a door while Penny reroutes the lock. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The hero webs a door while Penny reroutes the lock. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "M"
+    ],
+    "location": "tunnel",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Dynamic tracking shot as the trio splash through a heavy iron door. The Rigger fires rigging lines that lash the door handles shut as drones bonk against the other side; Penny jams a screwdriver into the lock panel and reroutes two wires until the bolt clunks home. Tomkin skids in last, cape flying.",
+    "dialogue_proposed": [
+      "HERO: Door's tied!",
+      "PENNY: Lock's fixed!"
+    ],
+    "sfx_cues": [
+      "running splashes",
+      "rope fire",
+      "door slam",
+      "drones bonking on door",
+      "lock bolt clunk"
+    ],
+    "music_cue": "M04",
+    "continuity_note": "Original: 'the hero webs a door' -> rigging lines lash the door (original hero design)."
   },
   {
     "id": "025",
@@ -337,7 +812,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin catches a loose gear before it hits a switch. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin catches a loose gear before it hits a switch. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "tunnel",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "In a dim gear-lined passage, a loose brass gear wobbles off a shelf and rolls toward a big lever switch; Tomkin dives and catches it in the yellow butter tub an inch before it hits, then holds it up proudly. Penny exhales in relief; the Rigger gives a thumbs-up. Slow motion on the catch, easing back to real time.",
+    "dialogue_proposed": [
+      "TOMKIN: The tub provides."
+    ],
+    "sfx_cues": [
+      "gear rolling on stone",
+      "tub catch thunk",
+      "relieved exhale"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "026",
@@ -350,7 +843,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "They enter a chamber of antique radios and new circuitry. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "They enter a chamber of antique radios and new circuitry. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "signal_room",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Wide reveal as the trio step into the signal room; Penny's lantern light sweeps across the antique radios and the pulsing emerald cables snaking into the floor. The Rigger scans the room; Tomkin's jaw drops. Slow push forward from the doorway.",
+    "dialogue_proposed": [
+      "PENNY: Someone's rewired the old signal room."
+    ],
+    "sfx_cues": [
+      "electronic hum",
+      "valve buzz",
+      "soft pulsing tones"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "027",
@@ -363,7 +874,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny finds a schematic linking the drones to the lantern. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny finds a schematic linking the drones to the lantern. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "signal_room",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Penny pins a glowing schematic to the wall and traces lines with her finger, linking a drawing of the drones to a drawing of the lighthouse lantern (diagram lines only, no readable words). The Rigger and Tomkin lean in, faces lit by the glow. Slow arc around Penny.",
+    "dialogue_proposed": [
+      "PENNY: The drones aren't attacking the lantern. They're switching it off."
+    ],
+    "sfx_cues": [
+      "paper rustle",
+      "electronic hum",
+      "fingertip taps"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "028",
@@ -376,7 +905,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A coded message reads: KEEP THE LIGHT DARK. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A coded message reads: KEEP THE LIGHT DARK. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "signal_room",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "An old ticker-tape telegraph machine chatters to life and prints a paper strip of dots and dashes; the camera follows the strip as it curls into Tomkin's paws. He reads it aloud with wide eyes; Penny and the Rigger exchange a look.",
+    "dialogue_proposed": [
+      "TOMKIN: (reading) Keep... the light... dark."
+    ],
+    "sfx_cues": [
+      "telegraph chatter",
+      "paper feed",
+      "tense sting"
+    ],
+    "music_cue": "M04",
+    "continuity_note": "The message is spoken, not rendered as on-screen text (video models garble text)."
   },
   {
     "id": "029",
@@ -389,7 +936,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A recorded keeper warns of a machine beneath the sea. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A recorded keeper warns of a machine beneath the sea. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "signal_room",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "A dusty wax-cylinder recorder spins up on its own and plays a crackling recording of the old lighthouse keeper; the trio gather close in Penny's lantern light while the emerald floor cables pulse in time with the voice. Slow push-in from behind the recorder.",
+    "dialogue_proposed": [
+      "KEEPER: (old recording) If the light ever goes dark, the machine beneath the sea will wake. Keep it burning."
+    ],
+    "sfx_cues": [
+      "cylinder spin-up",
+      "vinyl-style crackle",
+      "warbly old voice",
+      "pulsing hum"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "030",
@@ -404,7 +970,25 @@
       "PENNY: We need the lantern working."
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny insists they must save the boat and the lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny insists they must save the boat and the lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "signal_room",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Penny stands up resolutely, tightens her apron straps and grips her wrench; Tomkin hops onto the butter tub beside her and puffs out his chest; the Rigger nods and pulls a rigging line taut. Slow push-in on Penny's determined freckled face.",
+    "dialogue_proposed": [
+      "TOMKIN: And the boat. And the honour of my tub."
+    ],
+    "sfx_cues": [
+      "apron strap tug",
+      "rope creak",
+      "music swell"
+    ],
+    "music_cue": "M04",
+    "continuity_note": ""
   },
   {
     "id": "031",
@@ -417,7 +1001,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Wind rises again as they climb to the catwalk. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Wind rises again as they climb to the catwalk. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Tracking shot climbing behind the trio as they burst out of the lantern-room door onto the gallery; the wind rises again and rain starts lashing, Tomkin's cape whips sideways, Penny's headscarf flutters and the Rigger shields Tomkin from a gust. Dark clouds roll in over the sea.",
+    "dialogue_proposed": [
+      "HERO: Here comes round two."
+    ],
+    "sfx_cues": [
+      "door bang",
+      "rising gust",
+      "rain onset",
+      "thunder"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "032",
@@ -430,7 +1033,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A small fishing boat appears beyond the reef. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A small fishing boat appears beyond the reef. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "B"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Over-the-shoulder shot from behind the trio at the railing: far beyond the jagged black reef, the fishing boat pitches in the grey swell, its lights blinking. Slow push past the trio toward the horizon.",
+    "dialogue_proposed": [
+      "RADIO: Lighthouse, we're drifting closer. Is anyone there?"
+    ],
+    "sfx_cues": [
+      "radio crackle",
+      "rolling waves",
+      "distant boat horn"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "033",
@@ -443,7 +1065,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Three scout drones rise from the sea. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Three scout drones rise from the sea. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "S"
+    ],
+    "location": "cliff_sea",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Wide shot from sea level looking up the cliff: the scout drones burst out of the waves trailing spray and rise toward the gallery in formation. The camera rises with them to reveal the trio bracing at the railing.",
+    "dialogue_proposed": [
+      "PENNY: Three more. Smaller. Faster."
+    ],
+    "sfx_cues": [
+      "water eruption",
+      "three jet whines",
+      "spray"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "034",
@@ -456,7 +1097,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The masked hero vaults toward the nearest drone. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The masked hero vaults toward the nearest drone. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "H",
+      "S"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Dynamic tracking shot: the Rigger sprints along the catwalk, vaults the railing and fires a rigging line to the lantern-room roof, swinging out in a wide arc toward the nearest scout drone as rain streaks past. The camera swings alongside.",
+    "dialogue_proposed": [
+      "HERO: Keep them busy!"
+    ],
+    "sfx_cues": [
+      "running footsteps",
+      "rope fire",
+      "swing whoosh",
+      "wind"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "035",
@@ -469,7 +1128,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny builds a reflector from polished salvage. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny builds a reflector from polished salvage. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Penny crouches against the lantern-room wall and quickly bolts polished salvage, a dented hubcap, a mirror shard and a copper pan, onto a pipe handle with her wrench to make a reflector. A lightning flash glints off it. Slow push-in.",
+    "dialogue_proposed": [
+      "PENNY: Mirror, pan, hubcap... perfect."
+    ],
+    "sfx_cues": [
+      "ratchet clicks",
+      "metal clanks",
+      "thunder"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "036",
@@ -482,7 +1157,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin challenges a scout with theatrical fencing moves. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin challenges a scout with theatrical fencing moves. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "S"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Tomkin leaps onto the railing and challenges a hovering scout drone with theatrical fencing moves (en garde, flourish, lunge), ladle flashing and cape swirling, while the drone's crimson visor tracks him in confusion. The camera circles Tomkin at railing height.",
+    "dialogue_proposed": [
+      "TOMKIN: En garde, you flying toaster!"
+    ],
+    "sfx_cues": [
+      "ladle whooshes",
+      "drone hover hum",
+      "confused beeps"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "037",
@@ -495,7 +1187,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A web line redirects a drone into a harmless net. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A web line redirects a drone into a harmless net. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "H",
+      "S"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Wide action shot: the Rigger swings past a scout drone, loops a rigging line around it and steers it into an old fishing net strung from the gallery; the drone tangles harmlessly and dangles, buzzing. The camera tracks the drone into the net.",
+    "dialogue_proposed": [
+      "HERO: One down!"
+    ],
+    "sfx_cues": [
+      "rope zip",
+      "net catch",
+      "struggling buzz"
+    ],
+    "music_cue": "M05",
+    "continuity_note": "Original: 'a web line' -> rigging line."
   },
   {
     "id": "038",
@@ -508,7 +1217,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny blinds a sensor with the reflector. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny blinds a sensor with the reflector. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P",
+      "S"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Penny swings up her improvised reflector just as lightning flashes, bouncing a brilliant beam into a scout drone's crimson visor; the drone jerks, spins blindly and drops softly into a rain barrel. The camera pivots from Penny to the drone.",
+    "dialogue_proposed": [
+      "PENNY: Smile!"
+    ],
+    "sfx_cues": [
+      "lightning crack",
+      "light flare shimmer",
+      "drone wobble",
+      "barrel splash"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "039",
@@ -521,7 +1248,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin scrambles across wet masonry with the butter tub. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin scrambles across wet masonry with the butter tub. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "S"
+    ],
+    "location": "tower_exterior",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Side tracking shot: Tomkin scrambles along a narrow ledge of wet masonry outside the railing, butter tub clutched under one arm, claws scrabbling, cape snagging in the wind, while the last scout drone hovers just ahead. Rain and a dizzying drop to the rocks below.",
+    "dialogue_proposed": [
+      "TOMKIN: Do not look down. Do not look down. I looked down."
+    ],
+    "sfx_cues": [
+      "claws scrabbling",
+      "pebbles falling",
+      "wind",
+      "drone hum"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "040",
@@ -534,7 +1279,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A ladle strike trips the final scout’s power latch. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A ladle strike trips the final scout’s power latch. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "S"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Tomkin leaps off the ledge and whacks the final scout's glowing power latch with his ladle; the latch flips open, the visor dims and the drone drops gently onto the catwalk, powered down, with Tomkin landing on top of it. Slow motion at the impact, then real time.",
+    "dialogue_proposed": [
+      "TOMKIN: And that is how it's done."
+    ],
+    "sfx_cues": [
+      "ladle clang",
+      "power-down whine",
+      "soft thud"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "041",
@@ -547,7 +1309,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The three regroup as the boat drifts closer. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The three regroup as the boat drifts closer. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "B"
+    ],
+    "location": "gallery",
+    "lighting_phase": "renewed_storm",
+    "prompt_body": "Calm medium-wide shot as the rain eases to drizzle: the trio regroup and catch their breath. Penny shakes water off her reflector, the Rigger coils a rigging line, Tomkin straightens his sock toque. In the background the fishing boat drifts closer to the reef. Slow push-in.",
+    "dialogue_proposed": [
+      "HERO: That boat's getting closer."
+    ],
+    "sfx_cues": [
+      "drizzle",
+      "breathing",
+      "distant bell buoy"
+    ],
+    "music_cue": "M05",
+    "continuity_note": ""
   },
   {
     "id": "042",
@@ -560,7 +1341,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny opens the rusted lantern drive assembly. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny opens the rusted lantern drive assembly. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Penny unbolts and swings open a rusted cast-iron panel at the base of the lantern, revealing the drive assembly of gears, chains and shafts; rust flakes fall through the light of her storm lantern, which Tomkin holds while the Rigger braces the panel. Slow push into the mechanism.",
+    "dialogue_proposed": [
+      "PENNY: Let's see what's wrong with you."
+    ],
+    "sfx_cues": [
+      "bolt squeaks",
+      "panel groan",
+      "falling rust flakes"
+    ],
+    "music_cue": "M06",
+    "continuity_note": ""
   },
   {
     "id": "043",
@@ -573,7 +1372,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The key brass drive gear has been stolen. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The key brass drive gear has been stolen. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Close shot: Penny's hand reaches into the drive assembly toward an empty axle where a large brass drive gear should be, with fresh claw scratches around the mounting. Rack focus to Penny's shocked face and Tomkin gasping behind her.",
+    "dialogue_proposed": [
+      "PENNY: The main drive gear. Someone's taken it."
+    ],
+    "sfx_cues": [
+      "metal scrape",
+      "tense sting"
+    ],
+    "music_cue": "M06",
+    "continuity_note": ""
   },
   {
     "id": "044",
@@ -586,7 +1401,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny studies the salvaged drone gear. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny studies the salvaged drone gear. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Penny holds the salvaged brass drone gear up against the empty axle, turning it in the lantern light and counting the teeth with her fingers while Tomkin and the Rigger watch. Slow arc around the gear.",
+    "dialogue_proposed": [
+      "PENNY: The drone's gear... nearly the right size."
+    ],
+    "sfx_cues": [
+      "gear clink",
+      "fingertip clicks on teeth"
+    ],
+    "music_cue": "M06",
+    "continuity_note": ""
   },
   {
     "id": "045",
@@ -599,7 +1431,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The gear spins but slips under load. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The gear spins but slips under load. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Penny slots the drone gear onto the axle and cranks the handle; the gear spins, catches, then slips with a grinding clatter under load, and the lantern lurches and stops. Everyone winces. Close on the gear, pulling back to the trio.",
+    "dialogue_proposed": [
+      "PENNY: It's slipping. It needs a spacer."
+    ],
+    "sfx_cues": [
+      "crank ratchet",
+      "grinding",
+      "slip clatter"
+    ],
+    "music_cue": "M06",
+    "continuity_note": ""
   },
   {
     "id": "046",
@@ -612,7 +1462,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin points at the butter tub rim as a spacer. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin points at the butter tub rim as a spacer. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Tomkin's eyes widen; he holds up the yellow butter tub and taps its flexible lid rim with his ladle, pointing from the rim to the gap on the axle. Penny's face lights up. Slow push-in on Tomkin.",
+    "dialogue_proposed": [
+      "TOMKIN: Behold. The Butter Tub Protocol, part two."
+    ],
+    "sfx_cues": [
+      "plastic tap",
+      "bright idea chime"
+    ],
+    "music_cue": "M06",
+    "continuity_note": ""
   },
   {
     "id": "047",
@@ -625,7 +1492,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny cuts a flexible shim from the tub lid. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny cuts a flexible shim from the tub lid. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Close overhead shot: Penny snips a curved strip from the butter tub's yellow lid with tin snips, wraps it around the axle as a shim and presses the drone gear back on, while Tomkin clutches the newly notched lid to his chest. Slow overhead push-in.",
+    "dialogue_proposed": [
+      "PENNY: Sorry, Captain. It's for science."
+    ],
+    "sfx_cues": [
+      "tin snip",
+      "plastic flex",
+      "gear seating click"
+    ],
+    "music_cue": "M06",
+    "continuity_note": "Butter tub lid carries a cut notch from here on."
   },
   {
     "id": "048",
@@ -638,7 +1522,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The lantern rotates once before the generator fails. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The lantern rotates once before the generator fails. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "grey_interior",
+    "prompt_body": "Low angle up at the Fresnel lens: Penny cranks, the lantern makes one full majestic rotation and its bright beam sweeps across the storm; then the lamp buzzes, dims and dies as a distant generator coughs out. Their cheer is cut short. Slow tilt from the lens to their faces.",
+    "dialogue_proposed": [
+      "TOMKIN: Yes! Ye... no."
+    ],
+    "sfx_cues": [
+      "mechanism turning",
+      "beam hum",
+      "distant generator cough",
+      "power dying"
+    ],
+    "music_cue": "M06",
+    "continuity_note": ""
   },
   {
     "id": "049",
@@ -651,7 +1554,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The entire tower shudders and the lights go out. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The entire tower shudders and the lights go out. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "The whole tower shudders: dust falls from the ceiling and every lamp and dial in the room blinks out, leaving the trio in darkness lit only by lightning flashes and Penny's storm lantern. Slow steady push-in.",
+    "dialogue_proposed": [
+      "HERO: Okay. That's bad."
+    ],
+    "sfx_cues": [
+      "deep structural shudder",
+      "falling dust",
+      "electrical shutdown",
+      "silence then thunder"
+    ],
+    "music_cue": "M06",
+    "continuity_note": ""
   },
   {
     "id": "050",
@@ -666,7 +1588,23 @@
       "PENNY: We can reverse the current."
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "They descend to restart the backup generator. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "They descend to restart the backup generator. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "stair",
+    "lighting_phase": "dark_interior",
+    "prompt_body": "Overhead tracking shot down the spiral staircase as the trio hurry down, Penny's lantern swinging, toward the base of the tower where the generator room glows faintly emerald.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "fast echoing footsteps",
+      "lantern creak",
+      "distant hum"
+    ],
+    "music_cue": "M07",
+    "continuity_note": "Fictional electricity; not a real-world instruction."
   },
   {
     "id": "051",
@@ -679,7 +1617,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Seawater surges into the bottom of the tower. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Seawater surges into the bottom of the tower. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Low wide shot at the foot of the stairs as seawater surges under the iron sea door and floods the lowest steps; the trio leap back up a step, Tomkin hopping onto Penny's shoulder, while the water swirls with floating debris. The camera rises above the waterline.",
+    "dialogue_proposed": [
+      "TOMKIN: Nobody said anything about wet paws!"
+    ],
+    "sfx_cues": [
+      "water surge roar",
+      "splashes",
+      "debris knocks"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "052",
@@ -692,7 +1648,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "An iron door jams, separating Penny from the others. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "An iron door jams, separating Penny from the others. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "An iron bulkhead door swings and slams shut on rusted hinges, separating Penny from Tomkin and the Rigger. On Penny's side she pounds on the door; through its small porthole, Tomkin's face presses against the glass.",
+    "dialogue_proposed": [
+      "PENNY: I'm okay! I'll get it open!"
+    ],
+    "sfx_cues": [
+      "door slam clang",
+      "muffled pounding",
+      "rushing water"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "053",
@@ -705,7 +1679,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny uses her wrench to free the door latch. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny uses her wrench to free the door latch. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Penny alone in rising water, her lantern hung on a hook: she fits her pipe wrench onto the jammed latch, braces a boot against the wall and heaves until the latch screeches and turns. Water at her knees. Slow push-in.",
+    "dialogue_proposed": [
+      "PENNY: Come on... come on!"
+    ],
+    "sfx_cues": [
+      "wrench strain",
+      "metal screech",
+      "swirling water"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "054",
@@ -718,7 +1708,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin wedges the ladle against the closing gate. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin wedges the ladle against the closing gate. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "On the other side, an iron security gate grinds shut along a gear track; Tomkin wedges his bent ladle into the gear teeth, braced with all four paws, cape soaked with spray, and the gate shudders to a halt. Low camera behind Tomkin.",
+    "dialogue_proposed": [
+      "TOMKIN: A captain... holds... the line!"
+    ],
+    "sfx_cues": [
+      "gate grinding",
+      "ladle wedge creak",
+      "straining grunt"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "055",
@@ -731,7 +1738,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The masked hero braces the gate and pulls them clear. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The masked hero braces the gate and pulls them clear. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "The Rigger braces both shoulders against the gate and forces it back, then fires a rigging line, hooks Penny's apron strap through the opened door and pulls her and Tomkin clear onto a dry step as the gate slams behind them. Tracking pull-back.",
+    "dialogue_proposed": [
+      "HERO: Got you both."
+    ],
+    "sfx_cues": [
+      "gate strain",
+      "rope fire",
+      "gate slam",
+      "splash"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "056",
@@ -744,7 +1770,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A green power conduit runs beneath the generator. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A green power conduit runs beneath the generator. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "The backup generator sits in a slick of seawater; Penny wipes grime off the floor with her rag, revealing a thick glowing emerald power conduit running beneath the generator and through the wall toward the sea. The camera tilts down to the conduit.",
+    "dialogue_proposed": [
+      "PENNY: That's not ours. Something's tapped into the generator."
+    ],
+    "sfx_cues": [
+      "emerald hum",
+      "drips",
+      "rag wipe"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "057",
@@ -757,7 +1801,21 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A second larger walker stirs under the surf. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A second larger walker stirs under the surf. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "L2"
+    ],
+    "location": "ocean",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Wide shot out over the stormy sea from the cliff: beneath the surf the second leviathan stirs, its barnacled shell breaking the waves as its emerald conduits light up one after another, seawater cascading off. Slow push-in.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "subsonic rumble",
+      "cascading water",
+      "deep mechanical groan"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "058",
@@ -770,7 +1828,21 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The machine begins drawing power from the lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The machine begins drawing power from the lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "L2"
+    ],
+    "location": "tower_exterior",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Exterior wide of the lighthouse in the storm: emerald energy crawls along the conduit from the base of the tower down the cliff to the second leviathan in the sea; the lighthouse windows flicker and dim as the walker's lights grow brighter. Slow pull-back.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "power-drain whine",
+      "electrical crackle",
+      "rumble"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "059",
@@ -783,7 +1855,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny proposes reversing the stolen power through the beacon. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny proposes reversing the stolen power through the beacon. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Penny sketches a quick plan in grease with her finger on the generator housing (conduit, beacon and a reversing arrow; simple shapes, no words), explaining with urgent gestures while Tomkin and the Rigger lean in. Slow arc.",
+    "dialogue_proposed": [
+      "PENNY: It's stealing our power. So we send it all back, through the beacon."
+    ],
+    "sfx_cues": [
+      "generator hum",
+      "finger squeak on metal"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "060",
@@ -796,7 +1885,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "They divide the job into climbing, rewiring and distraction. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "They divide the job into climbing, rewiring and distraction. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Penny points up at the Rigger (climb), taps her own tool apron (rewire) and points at Tomkin (distract); each nods in turn and Tomkin salutes with the ladle. Push-in on the tableau.",
+    "dialogue_proposed": [
+      "HERO: I climb.",
+      "PENNY: I rewire.",
+      "TOMKIN: And I... am magnificent."
+    ],
+    "sfx_cues": [
+      "music sting",
+      "ladle salute whoosh"
+    ],
+    "music_cue": "M07",
+    "continuity_note": ""
   },
   {
     "id": "061",
@@ -809,7 +1917,22 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The hero ascends the exterior tower in driving rain. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The hero ascends the exterior tower in driving rain. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "H"
+    ],
+    "location": "tower_exterior",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Vertical tracking shot alongside the Rigger climbing the outside of the granite tower in driving rain, firing rigging lines upward and hauling up hand over hand with boots braced on wet stone; lightning silhouettes the hero against the churning sea far below.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "driving rain",
+      "rope fire",
+      "effort grunts",
+      "thunder"
+    ],
+    "music_cue": "M08",
+    "continuity_note": ""
   },
   {
     "id": "062",
@@ -822,7 +1945,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny swaps the power bus using insulated tools. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny swaps the power bus using insulated tools. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Penny at the old switchboard in thick black rubber insulating gloves uses insulated pliers to unbolt a heavy power bus bar and swap its connections; small harmless sparks fly and her focused face is lit by the emerald glow. Slow push-in.",
+    "dialogue_proposed": [
+      "PENNY: Gloves on. Bus off. Swap it over..."
+    ],
+    "sfx_cues": [
+      "ratchet",
+      "bus bar clunk",
+      "small crackles"
+    ],
+    "music_cue": "M08",
+    "continuity_note": "Fictional electricity; not a real-world instruction."
   },
   {
     "id": "063",
@@ -835,7 +1974,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin keeps small drones away from the switchboard. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin keeps small drones away from the switchboard. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "M"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Tomkin stands guard in front of the switchboard, butter tub as shield and ladle as rapier, gently batting maintenance drones that skitter down from the ceiling into a bucket one after another. Low circling camera.",
+    "dialogue_proposed": [
+      "TOMKIN: None shall pass! Not you. Not you either."
+    ],
+    "sfx_cues": [
+      "bonks",
+      "skittering legs",
+      "clatter into bucket"
+    ],
+    "music_cue": "M08",
+    "continuity_note": ""
   },
   {
     "id": "064",
@@ -848,7 +2004,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The generator sputters, then cuts out. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The generator sputters, then cuts out. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Penny throws the big switch; the generator coughs, sputters and roars briefly to life, lighting the room, then dies with a clank and darkness returns. Slow push to Penny's frustrated face.",
+    "dialogue_proposed": [
+      "PENNY: No, no, no!"
+    ],
+    "sfx_cues": [
+      "switch clunk",
+      "generator start",
+      "sputter",
+      "engine dying"
+    ],
+    "music_cue": "M08",
+    "continuity_note": ""
   },
   {
     "id": "065",
@@ -861,7 +2035,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny spots a broken grounding strap. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny spots a broken grounding strap. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Penny's lantern finds a thick braided copper grounding strap snapped in two, its frayed ends dangling by the generator's foot. Tilt up from the strap to Penny shouting toward the ceiling.",
+    "dialogue_proposed": [
+      "PENNY: The grounding strap's snapped! I need a cable!",
+      "HERO: (distant, from above) On it!"
+    ],
+    "sfx_cues": [
+      "echo",
+      "rain hammering above"
+    ],
+    "music_cue": "M08",
+    "continuity_note": ""
   },
   {
     "id": "066",
@@ -874,7 +2065,21 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The hero crosses a shattered bridge to retrieve a cable. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The hero crosses a shattered bridge to retrieve a cable. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "H"
+    ],
+    "location": "tower_exterior",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Wide tracking shot: the Rigger runs across the shattered old iron footbridge spanning the chasm between the lighthouse and the cliff-top generator shed, leaping over gaps and missing planks toward a coil of heavy cable hanging at the far end. Storm and spray.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "running clangs",
+      "creaking metal",
+      "wind"
+    ],
+    "music_cue": "M08",
+    "continuity_note": ""
   },
   {
     "id": "067",
@@ -887,7 +2092,21 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The bridge gives way as he catches the cable. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The bridge gives way as he catches the cable. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "H"
+    ],
+    "location": "tower_exterior",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "The Rigger grabs the cable coil just as the footbridge buckles and collapses, iron beams twisting and falling away toward the rocks; the hero begins to fall, cable in hand. Slow motion at the collapse.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "metal shriek",
+      "collapse rumble",
+      "falling whoosh"
+    ],
+    "music_cue": "M08",
+    "continuity_note": ""
   },
   {
     "id": "068",
@@ -900,7 +2119,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A white line catches him above the rocks. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A white line catches him above the rocks. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "H"
+    ],
+    "location": "tower_exterior",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Dramatic low angle: mid-fall, the Rigger fires a rigging line that snaps taut on the lighthouse railing far above, catching the hero in a swooping arc just above the spray-soaked rocks. The camera swings with the arc.",
+    "dialogue_proposed": [
+      "HERO: Whoa... got it!"
+    ],
+    "sfx_cues": [
+      "rope fire",
+      "taut snap",
+      "swing whoosh",
+      "waves crashing below"
+    ],
+    "music_cue": "M08",
+    "continuity_note": "Original: 'a white line' -> cream-coloured rigging line."
   },
   {
     "id": "069",
@@ -913,7 +2149,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The hero swings the cable into Penny’s hands. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The hero swings the cable into Penny’s hands. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "The Rigger swings in through the open sea window of the generator room on the line and tosses the heavy cable coil; Penny catches it in both gloved hands, staggering under its weight. The camera follows the cable through the air into her hands.",
+    "dialogue_proposed": [
+      "HERO: Special delivery!"
+    ],
+    "sfx_cues": [
+      "swing whoosh",
+      "cable thud",
+      "catch grunt"
+    ],
+    "music_cue": "M08",
+    "continuity_note": ""
   },
   {
     "id": "070",
@@ -928,7 +2181,23 @@
       "PENNY: Now! Turn the beacon on!"
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny closes the final safe insulated connection. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny closes the final safe insulated connection. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "generator_room",
+    "lighting_phase": "flooded_interior",
+    "prompt_body": "Penny, still in insulating gloves, bolts the cable to the grounding terminal and closes the final insulated connection with a satisfying clunk; every gauge needle on the switchboard swings into the green and the room hums. She looks up.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "heavy clunk",
+      "rising hum",
+      "gauge needles ticking"
+    ],
+    "music_cue": "M08",
+    "continuity_note": "Fictional electricity; not a real-world instruction."
   },
   {
     "id": "071",
@@ -941,7 +2210,21 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The larger walker rises against the lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The larger walker rises against the lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "L2"
+    ],
+    "location": "cliff_sea",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Extreme wide shot from the sea: the second leviathan rises fully out of the surf, grips the base of the cliff with enormous iron claws and hauls itself up toward the lighthouse, emerald light pulsing through its conduits.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "huge rumble",
+      "cascading water",
+      "rock crunch"
+    ],
+    "music_cue": "M09",
+    "continuity_note": ""
   },
   {
     "id": "072",
@@ -954,7 +2237,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Its armored claw blocks the morning sky. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Its armored claw blocks the morning sky. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "L2"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Low angle from the gallery looking up as an enormous armoured iron claw rises over the railing and blots out the pale storm-lit morning sky, throwing the trio into deep shadow; they look up, tiny against it. Slow tilt up.",
+    "dialogue_proposed": [
+      "TOMKIN: ...That is a very large crab."
+    ],
+    "sfx_cues": [
+      "deep hydraulic hiss",
+      "shadow whoosh",
+      "sudden hush"
+    ],
+    "music_cue": "M09",
+    "continuity_note": ""
   },
   {
     "id": "073",
@@ -967,7 +2269,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Stone cracks beneath the team’s feet. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Stone cracks beneath the team’s feet. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "L2"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "The claw slams onto the gallery; the stone-and-iron catwalk cracks and buckles under the trio's feet, railing sections bending and debris tumbling as they stagger and grab for handholds. Fast tracking move.",
+    "dialogue_proposed": [
+      "PENNY: Hold on!"
+    ],
+    "sfx_cues": [
+      "stone cracking",
+      "crumbling masonry",
+      "iron bending"
+    ],
+    "music_cue": "M09",
+    "continuity_note": "Catwalk damaged from here on."
   },
   {
     "id": "074",
@@ -980,7 +2301,24 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny anchors the lantern drive while the hero protects her. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny anchors the lantern drive while the hero protects her. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Penny braces against the lantern drive assembly, holding the gear and its yellow shim in place with her wrench as the tower shakes; the Rigger stands guard in front of her, deflecting falling glass and debris with a spinning rigging line. Push-in.",
+    "dialogue_proposed": [
+      "PENNY: If this gear slips, we lose the light!"
+    ],
+    "sfx_cues": [
+      "shaking rumble",
+      "glass tinkle",
+      "rope whirl"
+    ],
+    "music_cue": "M09",
+    "continuity_note": ""
   },
   {
     "id": "075",
@@ -993,7 +2331,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin sprints toward the control lever. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin sprints toward the control lever. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Fast low tracking shot: Tomkin sprints flat out along the cracked catwalk toward the brass beacon control lever, leaping over debris, cape streaming, ladle in paw and tub under arm, while the giant claw sweeps overhead. The camera races beside him.",
+    "dialogue_proposed": [
+      "TOMKIN: Captain coming through!"
+    ],
+    "sfx_cues": [
+      "rapid tiny footfalls",
+      "debris",
+      "claw whoosh"
+    ],
+    "music_cue": "M09",
+    "continuity_note": ""
   },
   {
     "id": "076",
@@ -1006,7 +2360,25 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The hero catches falling debris with a web canopy. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The hero catches falling debris with a web canopy. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "The Rigger fires a fan of rigging lines that weave into a rope-net canopy above the catwalk just as chunks of stone rain down, catching all the debris safely above Tomkin and Penny. The camera looks up through the net.",
+    "dialogue_proposed": [
+      "HERO: Heads up, I've got it!"
+    ],
+    "sfx_cues": [
+      "multiple rope fires",
+      "debris thuds on net",
+      "net creak"
+    ],
+    "music_cue": "M09",
+    "continuity_note": "Original: 'web canopy' -> rope-net canopy."
   },
   {
     "id": "077",
@@ -1019,7 +2391,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny reveals the leviathan’s exposed green receiver. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny reveals the leviathan’s exposed green receiver. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P",
+      "L2"
+    ],
+    "location": "gallery",
+    "lighting_phase": "storm_climax",
+    "prompt_body": "Penny points across the gap at the second leviathan's chest as its armour plates slide open, revealing a pulsing exposed green receiver dish. Close on her determined face, then a whip-pan to the receiver.",
+    "dialogue_proposed": [
+      "PENNY: There, its receiver! Aim the beam there!"
+    ],
+    "sfx_cues": [
+      "armour plates sliding",
+      "pulsing tone"
+    ],
+    "music_cue": "M09",
+    "continuity_note": ""
   },
   {
     "id": "078",
@@ -1032,7 +2420,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The lighthouse sends a focused beam through sea mist. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The lighthouse sends a focused beam through sea mist. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "L2"
+    ],
+    "location": "gallery",
+    "lighting_phase": "beacon",
+    "prompt_body": "Tomkin hauls down on the brass control lever with his whole body; the great lantern ignites with a roar of warm amber light and fires a focused beam through the sea mist, straight into the leviathan's green receiver. The camera rides along the beam from the lens to the target.",
+    "dialogue_proposed": [
+      "TOMKIN: Let there be light!"
+    ],
+    "sfx_cues": [
+      "lever clunk",
+      "ignition roar",
+      "beam hum"
+    ],
+    "music_cue": "M09",
+    "continuity_note": "Lantern lit from here on."
   },
   {
     "id": "079",
@@ -1045,7 +2452,21 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The receiver overloads with harmless arcs of light. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The receiver overloads with harmless arcs of light. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "L2"
+    ],
+    "location": "cliff_sea",
+    "lighting_phase": "beacon",
+    "prompt_body": "Medium shot on the leviathan's receiver as it overloads with crackling, harmless arcs of white and gold light dancing across its shell like fireworks, emerald conduits flickering out and steam venting. Slow push-in.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "overload crackle",
+      "fizzing arcs",
+      "steam whistle"
+    ],
+    "music_cue": "M09",
+    "continuity_note": ""
   },
   {
     "id": "080",
@@ -1058,7 +2479,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The walker releases the cliff and sinks offshore. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The walker releases the cliff and sinks offshore. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H",
+      "L2"
+    ],
+    "location": "cliff_sea",
+    "lighting_phase": "beacon",
+    "prompt_body": "Wide shot: the second leviathan's claws release the cliff and its lights fade as it slowly slides backward and sinks into the sea offshore, raising a huge wave and mist, while the trio watch from the broken gallery above. Slow pull-back.",
+    "dialogue_proposed": [
+      "HERO: And stay down."
+    ],
+    "sfx_cues": [
+      "power-down groan",
+      "enormous splash",
+      "wave wash"
+    ],
+    "music_cue": "M09",
+    "continuity_note": ""
   },
   {
     "id": "081",
@@ -1073,7 +2513,21 @@
       "RADIO: Lighthouse, we can see the channel. Thank you!"
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The fishing boat follows the beam away from the rocks. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The fishing boat follows the beam away from the rocks. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "B"
+    ],
+    "location": "ocean",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Wide aerial shot: the lighthouse beam sweeps across the parting storm and the fishing boat turns to follow the shining path safely through the channel between the black reef rocks. Slow tracking alongside the boat.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "radio voice",
+      "boat engine chug",
+      "waves calming"
+    ],
+    "music_cue": "M10",
+    "continuity_note": ""
   },
   {
     "id": "082",
@@ -1086,7 +2540,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "A grateful voice crackles over the radio. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "A grateful voice crackles over the radio. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Penny holds the radio handset as a grateful voice crackles through; Tomkin preens beside her and the Rigger leans on the door frame. Through the window the sky is clearing to gold.",
+    "dialogue_proposed": [
+      "RADIO: You saved my whole crew. We'll bring you fish on Sunday!",
+      "TOMKIN: Make it sea bass."
+    ],
+    "sfx_cues": [
+      "radio crackle",
+      "gulls",
+      "gentle wind"
+    ],
+    "music_cue": "M10",
+    "continuity_note": ""
   },
   {
     "id": "083",
@@ -1099,7 +2572,22 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny checks the stable drive gear. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny checks the stable drive gear. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "P"
+    ],
+    "location": "lantern_room",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Close shot: Penny wipes the patched drive gear with her rag and watches it, yellow butter-tub shim and all, turn smoothly and steadily as the lantern rotates overhead in golden light. Slow push-in.",
+    "dialogue_proposed": [
+      "PENNY: Steady as a heartbeat."
+    ],
+    "sfx_cues": [
+      "smooth gear ticking",
+      "soft lens hum"
+    ],
+    "music_cue": "M10",
+    "continuity_note": ""
   },
   {
     "id": "084",
@@ -1112,7 +2600,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny pins a brass washer to Tomkin’s cape. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny pins a brass washer to Tomkin’s cape. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "On the sunlit gallery Penny kneels and pins a shiny brass washer to Tomkin's lavender cape like a medal; Tomkin stands to attention, chest puffed and whiskers quivering with pride, while the Rigger applauds. Slow push-in.",
+    "dialogue_proposed": [
+      "PENNY: For bravery. And for the tub.",
+      "TOMKIN: I accept. Humbly. Extremely humbly."
+    ],
+    "sfx_cues": [
+      "pin click",
+      "applause",
+      "gulls"
+    ],
+    "music_cue": "M10",
+    "continuity_note": "Brass washer medal on Tomkin's cape from here on."
   },
   {
     "id": "085",
@@ -1125,7 +2632,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The three share bread on the balcony. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The three share bread on the balcony. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Warm wide shot: the three sit on the sunlit balcony sharing a loaf of bread and a flask of tea; the Rigger tips the visor up to eat, face turned toward the sea; Tomkin dunks bread in a tin cup; Penny laughs. Gentle drifting camera.",
+    "dialogue_proposed": [
+      "HERO: Same time tomorrow?",
+      "PENNY: Maybe without the crabs."
+    ],
+    "sfx_cues": [
+      "birdsong",
+      "gentle sea",
+      "cups clinking"
+    ],
+    "music_cue": "M11",
+    "continuity_note": "Mask briefly lifted (breakfast scene); keep the face turned away or in shadow."
   },
   {
     "id": "086",
@@ -1138,7 +2664,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Golden light stretches over a peaceful ocean. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Golden light stretches over a peaceful ocean. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "ocean",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Slow wide pan across the horizon: golden light stretches over a calm sparkling ocean and a quiet reef, gulls glide, the fishing boat is a tiny dot heading home, and the trio stand small in silhouette on the gallery in the foreground.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "calm waves",
+      "gulls",
+      "gentle breeze"
+    ],
+    "music_cue": "M11",
+    "continuity_note": ""
   },
   {
     "id": "087",
@@ -1151,7 +2693,26 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Tomkin salutes with his bent ladle and slips into the tub. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Tomkin salutes with his bent ladle and slips into the tub. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Tomkin stands on the railing step and gives a grand salute with his bent ladle, steps backward, slips and lands bottom-first in the yellow butter tub with his legs waving. Comic timing, near-static camera with a slight push-in.",
+    "dialogue_proposed": [
+      "TOMKIN: Captain... overboard."
+    ],
+    "sfx_cues": [
+      "salute flourish",
+      "slip",
+      "plastic plop",
+      "squeak"
+    ],
+    "music_cue": "M11",
+    "continuity_note": ""
   },
   {
     "id": "088",
@@ -1166,7 +2727,23 @@
       "TOMKIN: A captain never retreats!"
     ],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Penny and the hero laugh and help him upright. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Penny and the hero laugh and help him upright. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Penny and the Rigger laugh and together lift Tomkin out of the tub; he dusts off his cape and medal, recovers his dignity and declares his line. Slow orbit around the three.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "laughter",
+      "tub pop",
+      "cape flap"
+    ],
+    "music_cue": "M11",
+    "continuity_note": ""
   },
   {
     "id": "089",
@@ -1179,7 +2756,23 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "The camera pulls back to the restored shining lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "The camera pulls back to the restored shining lighthouse. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [
+      "T",
+      "P",
+      "H"
+    ],
+    "location": "gallery",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Slow continuous aerial pull-back from the trio on the gallery to reveal the restored, shining lighthouse on its cliff, its beam turning even in daylight, with a sparkling sea, circling gulls and a golden sky.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "music swell",
+      "breeze",
+      "gulls"
+    ],
+    "music_cue": "M11",
+    "continuity_note": ""
   },
   {
     "id": "090",
@@ -1192,6 +2785,17 @@
     "negative_prompt": "no text, no watermarks, no extra limbs, no duplicated characters, no sudden wardrobe changes, no graphic injury",
     "dialogue": [],
     "sound_design": "ocean wind, metallic creaks, footsteps, cinematic impacts as appropriate",
-    "video_prompt": "Credits roll over waves, lighthouse and sunrise. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence."
+    "video_prompt": "Credits roll over waves, lighthouse and sunrise. Setting: weathered coastal lighthouse and rocky sea cliffs. Keep Penny (14, auburn curls, patterned headscarf, freckles, tool-filled canvas apron), Tomkin (upright stout ginger-white tabby, gray sock toque, lavender boxer cape, brass safety pin, bent ladle, yellow butter tub), and the athletic masked red-and-blue web-pattern-suit hero with white eye lenses visually consistent whenever present. single coherent cinematic camera move; physically plausible motion; no cuts within clip No graphic violence.",
+    "characters": [],
+    "location": "ocean",
+    "lighting_phase": "golden_clear",
+    "prompt_body": "Slow lateral glide along the coast in warm golden sunrise light: waves roll over the rocks and the lighthouse stands in the distance with its beam sweeping, leaving clean empty space in the lower third for end credits to be added in post-production.",
+    "dialogue_proposed": [],
+    "sfx_cues": [
+      "waves",
+      "end-credits music"
+    ],
+    "music_cue": "M12",
+    "continuity_note": "Credits are overlaid in post by assemble.py --credits; do not ask the video model to render text."
   }
 ]

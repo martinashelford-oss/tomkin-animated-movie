@@ -1,0 +1,11 @@
+# Large media lives outside git (back it up to Drive or similar)
+assets/video/*.mp4
+assets/video/*.mov
+assets/audio/**/*.wav
+assets/audio/**/*.mp3
+assets/audio/**/*.m4a
+assets/audio/**/*.flac
+output/
+work/
+__pycache__/
+*.pyc
